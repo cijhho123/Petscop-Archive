@@ -1,0 +1,60 @@
+/* trackpipe/public/css2/bc_global.css */
+/* 
+
+For styles global to the site only.
+All classes prefixed with .bc- 
+Please use wisely.
+20190905 moni
+
+*/
+
+
+/* minimal set of styles set up by default */
+
+.bc-body {
+    margin: 0;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+}
+
+ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+/* default body + footer behavior. footer @ bottom regardless of lenth of contents. long contents push footer below when long */
+
+.bc-body {
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
+}
+.bc-content {
+	flex: 1;
+}
+.bc-footer {
+	/* nutn */
+}
+
+
+/* misc utils */
+
+.bc-hidden-access {
+    position: absolute;
+    left: -10000px;
+    top: -10000px;
+}
+
+.bc-hidden {
+    display: none;
+}
+
