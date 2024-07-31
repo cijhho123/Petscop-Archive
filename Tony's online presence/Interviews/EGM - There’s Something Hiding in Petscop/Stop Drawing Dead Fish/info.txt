@@ -1,0 +1,11 @@
+People are alive -- they behave and respond. Creations within the computer can also live, behave, and respond... if they are allowed to. The message of this talk is that computer-based art tools should embrace both forms of life -- artists behaving through real-time performance, and art behaving through real-time simulation. Everything we draw should be alive by default.
+
+Part 1 talks about the potential of the computer as a new visual art medium. I show a collaboration between art and artist, with the art behaving through simulation, the artist behaving through performance, and the two of them working together, responding to each other.
+
+Part 2 demonstrates a tool for "programming" how art should behave and respond. The artist directly manipulates art objects on the canvas, the way that visual art has always been created since the time of cave paintings. The tool is based around direct, geometric construction rather than indirect, algebraic "code".
+
+Part 3 is a short performance.
+
+This talk was originally presented to SF SIGGRAPH on May 16 2012, and was recorded at the Exploratorium on November 27 2012.
+
+worrydream.com
