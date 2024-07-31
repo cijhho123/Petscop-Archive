@@ -1,5 +1,7 @@
 # Petscop Archive
 
+[<img src="Petscop%20Community/Petscop%20Subreddit/Petscop%20logo.png" width="800" />](Petscop%20Community/Petscop%20Subreddit/Petscop%20logo.png)
+
 ## What is Petscop? 
 Petscop is a YouTube horror web series by Tony Domenico, made to resemble a YouTube Let's Play series. The videos follow "Paul", the protagonist, exploring and documenting a supposedly "long-lost PlayStation video game" titled Petscop. The 24-episode series ran from March 12, 2017, to September 2, 2019. The series received widespread coverage for its storytelling, authenticity, surrealism, and its active community of viewers.
 
