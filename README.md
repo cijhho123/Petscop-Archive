@@ -58,3 +58,4 @@ Thanks to the youtubers who sink their teeth in great attempt to explain this en
 - Preserve the fan-made IRL Petscop game.
 - Update the Twitter feed from Tony (last updated: late 2021)
 - Add more things to the todo list
+- Add "start here" section to the readme
