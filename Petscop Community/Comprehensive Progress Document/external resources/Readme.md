@@ -2,7 +2,7 @@
 This folder contain all the external resources used by the Petscop Comprehensive Progress Document.
 
 ## List of resources
-1. [PCPD Long Lists Appendix]()
+1. [PCPD Long Lists Appendix](external%20resources%20list/01.%20PCPD%20Long%20Lists%20Appendix)
 First mention in page 8. 
 This Resources contain all the long lists of Sound test files, Recordings list, Petscop kids names list, GamdPad language table.
 
@@ -118,7 +118,6 @@ First mention in page 118.
 
 30. [Even Care tile map]()
 First mention in page 120.
-https://vignette.wikia.nocookie.net/petscop/images/5/55/ODD-2.png
 
 31. [The House tile map]()
 First mention in page 121.
