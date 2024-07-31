@@ -52,6 +52,7 @@ Thanks to the youtubers who sink their teeth in great attempt to explain this en
 
 #### To-Do list: 
 - Add channel description and profile history under [here](Official%20Petscop%20content/Petscop%20youtube%20channel)
+- Add all the Comprehensive Progress Document content to its respective folder (including all external links and media)
 - Investigation videos by Nightmare Masterclass and Sock Muppet.
 - Petscop Wiki archive at https://petscop.fandom.com/wiki/Petscop
 - Add readmes to folders and index them.
