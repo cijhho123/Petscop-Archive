@@ -1,0 +1,108 @@
+html, body {
+    min-height: 100%;
+	height: auto;
+}
+
+body {
+	font-family: verdana,arial;
+	font-size: 1.0em;
+	color: black;
+	background: black url("images/peeling.PNG") repeat-y center;
+	background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+	text-align: center;
+}
+
+#main {
+    background: white url("images/happinessengine.PNG") no-repeat bottom right;
+    margin: 0 auto;
+    text-align: left;
+    width: 599px;
+    min-height: 100%;
+    height: auto;
+}
+
+* html #main {
+    height: 100%;
+}
+
+a {
+    font-weight: bold;
+    text-decoration: none;
+    color: #63CF71;
+}
+
+a:hover {
+    color: #9FDE60;
+}
+
+span {
+    display: block;
+    text-align: right;
+    color: black;
+}
+
+#chapters a span {
+    padding: 0.1em;
+    font-size: 0.7em;
+    background: #E5FFB2;
+}
+
+#chapters a span.alt {
+    background:#BBD9BA;
+}
+
+#chapters a:hover span {
+    background: black;
+    color: white;
+}
+
+p {
+    text-indent: 0.4em;
+
+}
+
+h1 {
+    color: black;
+    font-size: 3em;
+    font-weight: bold;
+    font-variant: small-caps;
+}
+
+h2 {
+    color: black;
+    font-size: 1.2em;
+    font-family: arial;
+    background-color: #9FDE60;
+    background-image: url("images/wall.PNG");
+    padding: 0.2em;
+}
+
+hr {
+	page-break-after:always;
+	visibility:hidden;
+}
+
+table {
+    margin: 0em;
+    border: 0em;
+    padding: 0em;
+    outline: 0em;
+}
+
+td.content {
+    padding: 0em 1em 0em 0em;
+}
+
+#content {
+    padding: 0.1em 1.5em 1em 1.5em;
+}
+
+#footer {
+    font-size: 0.7em;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+    padding-bottom: 0.2em;
+    text-align: right;
+}

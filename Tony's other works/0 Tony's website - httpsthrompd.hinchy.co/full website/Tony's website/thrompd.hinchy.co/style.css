@@ -1,0 +1,73 @@
+
+
+body {
+    font-size: 1.1em;
+    text-align: justify;
+    margin: 0 0 0 0;
+    font-family: arial;
+    
+}
+
+a {
+    text-decoration: none;
+    color: gray;
+}
+
+a:hover {
+    color: black;
+}
+
+#top {
+    background-color: gray;
+     	
+    /* IE10 Consumer Preview */ 
+    background-image: -ms-linear-gradient(top, #ACACAC 0%, #7F7F7F 100%);
+
+    /* Mozilla Firefox */ 
+    background-image: -moz-linear-gradient(top, #ACACAC 0%, #7F7F7F 100%);
+
+    /* Opera */ 
+    background-image: -o-linear-gradient(top, #ACACAC 0%, #7F7F7F 100%);
+
+    /* Webkit (Safari/Chrome 10) */ 
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #ACACAC), color-stop(1, #7F7F7F));
+
+    /* Webkit (Chrome 11+) */ 
+    background-image: -webkit-linear-gradient(top, #ACACAC 0%, #7F7F7F 100%);
+
+    /* W3C Markup, IE10 Release Preview */ 
+    background-image: linear-gradient(to bottom, #ACACAC 0%, #7F7F7F 100%);
+}
+
+.content {
+    margin: 0% 1em 0 1em;
+
+}
+
+#grassman {
+    background-image: url("grassman.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100px;
+    height: 100px;
+    padding: 0.5em 0em 0.5em 0em;
+}
+
+#images {
+    white-space: nowrap;
+}
+
+iframe {
+    border: 4px solid gray;
+    background-color: white;
+    padding: 4px;
+}
+
+em {
+    background-color: gray;
+    color: white;
+    font-style: normal;
+    text-shadow: 2px 2px black;
+    padding: 0 2px 0 2px;
+}
+

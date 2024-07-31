@@ -1,0 +1,211 @@
+/*
+
+ SoundManager 2: In-page MP3 player example
+ ------------------------------------------
+
+ Clicks on links to MP3s are intercepted via JS, calls are
+ made to SoundManager to load/play sounds. CSS classes are
+ appended to the link, which are used to highlight the
+ current play state and so on.
+
+ Class names are applied in addition to "sm2_link" base.
+
+ Default:
+
+ sm2_link
+
+ Additional states:
+
+ sm2_playing
+ sm2_paused
+
+ eg.
+
+ <!-- default -->
+ <a href="some.mp3" class="sm2_link">some.mp3</a>
+
+ <!-- playing -->
+ <a href="some.mp3" class="sm2_link sm2_playing">some.mp3</a>
+
+
+ Note you don't require ul.graphic / ul.flat etc. for your use
+ if only using one style on a page. You can just use .sm2_link{}
+ and so on, but isolate the CSS you want.
+
+ Side note: Would do multiple class definitions eg.
+
+ a.sm2_default.sm2_playing{}
+
+ .. except IE 6 has a parsing bug which may break behaviour,
+ applying sm2_playing {} even when the class is set to sm2_default.
+
+
+ If you want to make your own UI from scratch, here is the base:
+
+ Default + hover state, "click to play":
+
+ a.sm2_link {}
+ a.sm2_link:hover {}
+
+ Playing + hover state, "click to pause":
+
+ a.sm2_playing {}
+ a.sm2_playing:hover {}
+
+ Paused + hover state, "click to resume":
+
+ a.sm2_paused {}
+ a.sm2_paused:hover {}
+
+
+*/
+
+/* two different list types */
+
+ul.flat {
+ list-style-type:none;
+ padding-left:0px;
+}
+
+ul.flat li,
+ul.graphic li {
+ padding-bottom:1px;
+}
+
+ul.flat li a {
+ display:inline-block;
+ padding:2px 4px 2px 4px;
+}
+
+ul.graphic {
+ list-style-type:none;
+ padding-left:0px;
+ margin-left:0px;
+}
+
+/* background-image-based CSS3 example */
+
+ul.graphic {
+ list-style-type:none;
+ margin:0px;
+ padding:0px;
+}
+
+ul.graphic li {
+ margin-bottom:3px;
+}
+
+ul.graphic li a,
+ul.graphic li a.sm2_link {
+ /* assume all items will be sounds rather than wait for onload etc. in this example.. may differ for your uses. */
+ display:inline-block;
+ padding-left:22px;
+ min-height:16px;
+ border:4px solid #000;
+ background-color:#000;
+ -moz-border-radius:2px;
+ -webkit-border-radius:2px;
+ border-radius:2px;
+ padding:0px 3px 0px 20px;
+ min-width:369px;
+ _width:371em; /* IE 6 */
+ text-decoration:none;
+ font-weight:bold;
+ color:#D2D6F1;
+}
+
+ul.graphic li a.sm2_link {
+ /* safari 3.1+ fun (or, proprietary crap. TBD.) */
+ -webkit-transition-property: hover;
+ -webkit-transition: all 0.15s ease-in-out;
+}
+
+ul.graphic li a, /* use a.sm2_link {} if you want play icons showing only if SM2 is supported */
+ul.graphic li a.sm2_paused:hover,
+ul.graphic li a.sm2_link:hover {
+ background:#000 url(../image/icon_play.png) no-repeat 0px 50%;
+ _background-image:url(../image/icon_play.png); /* IE 6 */
+ border-color:#000;
+}
+
+ul.graphic li a.sm2_link:hover {
+ /* default hover color, if you'd like.. */
+ background-color:#444;
+ border-color:#444;
+}
+
+ul.graphic li a.sm2_paused {
+ background-color:#000;
+ border-color:#000;
+}
+
+ul.graphic li a.sm2_paused:hover {
+ background:#444 url(../image/icon_play.png) no-repeat 0px 50%;
+ _background-image:url(../image/icon_play.png);
+ border-color:#444;
+}
+
+ul.graphic li a.sm2_playing,
+ul.graphic li a.sm2_playing:hover {
+ background:#323A7A url(../image/icon_pause.png) no-repeat 0px 50%;
+ _background-image:url(../image/icon_pause.html);
+ border-color:#323A7A;
+ text-decoration:none;
+}
+
+/* hide button while playing?
+ul.graphic li a.sm2_playing {
+ background-image:none;
+}
+*/
+
+body #sm2-container object,
+body #sm2-container embed {
+ /*
+  flashblock handling: hide SWF off-screen by default (until blocked timeout case.)
+  include body prefix to ensure override of flashblock.css.
+ */
+
+ left:-9999em;
+ top:-9999em;
+}
+
+/* flat CSS example */
+
+ul.flat a.sm2_link {
+ /* default state: "a playable link" */
+ border-left:6px solid #999;
+ padding-left:4px;
+ padding-right:4px;
+}
+
+ul.flat a.sm2_link:hover {
+ /* default (inactive) hover state */
+ border-left-color:#333;
+}
+
+
+ul.flat a.sm2_playing {
+ /* "now playing" */
+ border-left-color:#6666ff;
+ background-color:#000;
+ color:#fff;
+ text-decoration:none;
+}
+
+ul.flat a.sm2_playing:hover {
+ /* "clicking will now pause" */
+ border-left-color:#cc3333;
+}
+
+ul.flat a.sm2_paused {
+ /* "paused state" */
+ background-color:#444;
+ color:#fff;
+ text-decoration:none;
+}
+
+ul.flat a.sm2_paused:hover {
+ /* "clicking will resume" */
+ border-left-color:#33cc33;
+}

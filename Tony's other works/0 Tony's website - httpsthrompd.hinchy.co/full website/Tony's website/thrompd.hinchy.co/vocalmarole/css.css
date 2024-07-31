@@ -1,0 +1,304 @@
+body {
+    background-color: white;
+    font-family: Arial;
+    font-size: 0.8em;
+}
+
+a {
+    color: #404566;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#content {
+    width: 584px;
+    margin: 5% auto 0% auto;
+}
+
+#top {
+    background-image: url("images/top.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    height: 105px;
+    
+}
+
+#box1 {
+    color: black;
+    font-size: 1.3em;
+    background-color: #F1D1DF;
+    text-align: left;
+    padding: 10px;
+    width: 400px;
+    margin-left: 50px;
+    
+    border: 4px solid black;
+    outline: 4px solid #F1D1DF;
+}
+
+#box2 {
+    color: black;
+    background-color: #D2D6F1;
+    text-align: left;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 400px;
+    margin-left: 50px;
+    
+    border: 4px solid black;
+    outline: 4px solid #D2D6F1;
+}
+
+span #box2 {
+    background-image: url("images/boxbackground.png");
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
+
+#songnavigation #endinvisible {
+    display: none;
+}
+
+#songnavigation #endvisible {
+    vertical-align: 12%;
+    font-weight: bold;
+}
+
+.worldblue {
+    display: inline-block;
+    width: 20px;
+    height: 15px;
+    background-image: url("images/blue.png");
+    background-color: black;
+}
+
+.worldpurple {
+    display: inline-block;
+    width: 20px;
+    height: 15px;
+    background-image: url("images/purple.png");
+    background-color: black;
+}
+
+.worldpink {
+    display: inline-block;
+    width: 20px;
+    height: 15px;
+    background-image: url("images/pink.png");
+    background-color: black;
+}
+
+.worldnone {
+    display: inline-block;
+    width: 20px;
+    height: 15px;
+    background-image: url("images/none.png");
+    background-color: black;
+}
+
+.first {
+    display: inline-block;
+    width: 20px;
+    height: 15px;
+    background-image: url("images/first.png");
+    background-position: top;
+    background-repeat: no-repeat;
+    background-color: black;
+}
+
+.first:hover {
+    background-position: bottom;
+    cursor: pointer;
+}
+
+.previous {
+    display: inline-block;
+    width: 20px;
+    height: 15px;
+    background-image: url("images/previous.png");
+    background-position: top;
+    background-repeat: no-repeat;
+    background-color: black;
+}
+
+.previous:hover {
+    background-position: bottom;
+    cursor: pointer;
+}
+
+.next {
+    display: inline-block;
+    width: 20px;
+    height: 15px;
+    background-image: url("images/next.png");
+    background-position: top;
+    background-repeat: no-repeat;
+    background-color: black;
+}
+
+.next:hover {
+    background-position: bottom;
+    cursor: pointer;
+}
+
+.recent {
+    display: inline-block;
+    width: 20px;
+    height: 15px;
+    background-image: url("images/recent.png");
+    background-position: top;
+    background-repeat: no-repeat;
+    background-color: black;
+}
+
+.recent:hover {
+    background-position: bottom;
+    cursor: pointer;
+}
+
+#text {
+    background-color: white; 
+    padding: 10px;
+    border: 4px solid #D2D6F1;
+    outline: 4px solid white;
+    margin: 4px;
+    margin-top: 11px;
+}
+
+#text #normalimage {
+    text-align: center;
+}
+
+#text #rightimage {
+    position: relative;
+    float: right;
+    
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;   
+}
+
+#text #leftimage {
+    position: relative;
+    float: left;
+    
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle; 
+}
+
+#text #leftimage img {
+    vertical-align: middle;
+    margin: 10px;
+    margin-left: 5px;
+}
+
+#text #rightimage img {
+    vertical-align: middle;
+    margin: 10px;
+    margin-right: 5px;
+}
+
+#download {
+    margin-top: 1.1em;
+    font-size: 0.9em;
+    background-image: url("images/sunicon.gif");
+    background-position: center left;
+    background-repeat: no-repeat;
+    padding-left: 35px;
+}
+
+a:hover {
+    color: black;
+}
+
+#box2 #indexheading {
+    font-size: 1.3em;
+    font-weight: bold;
+}
+
+#box2 #indextext {
+    font-size: 1.0em;
+}
+
+ul.graphic li a span {
+    font-size: 0.8em;
+    vertical-align: 0.1em;
+}
+
+#indeximage {
+    position: relative;
+    float: left;
+    background-image: url("images/gazingpet.png");
+    background-repeat: no-repeat;
+    background-position: center left;
+    width: 74px;
+    height: 100px;
+}
+
+#side {
+    position: relative;
+    float: right;
+    width: 90px;
+}
+
+#box3 {
+    font-size: 1em;
+    color: black;
+    background-color: #E6D2F4;
+    text-align: center;
+    width: 80%;
+
+    border: 4px solid black;
+    outline: 4px solid #E6D2F4;
+
+}
+
+#side span a {
+    background-color: #C9A9EC;
+    color: black;
+}
+
+#side a {
+    display: block;
+    font-weight: bold;
+    padding: 4px;
+    color: black;
+}
+
+#side #box4 a {
+    display: block;
+    font-weight: bold;
+    padding: 3px;
+}
+
+#side a:hover {
+    background-color: white;
+}
+
+#sideimage {
+    background-image: url("images/tail.html");
+    background-repeat: no-repeat;
+    background-position: center;
+
+    width: 80%;
+    height: 77px;
+    border: 4px solid white;
+    outline: 4px solid white;
+}
+
+#text {
+    font-size: 0.9em;
+}
+
+#bottom {
+    display: block;
+    font-size: 0.8em;
+    margin-left: 46px; 
+    margin-right: 102px;
+    text-align: right;
+}
+
+
