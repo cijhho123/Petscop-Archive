@@ -11,7 +11,7 @@ Petscop can be watched on the official [Youtube Channel](https://www.youtube.com
 ## Plot Synopsis
 Petscop is a video series that documents the experiences of Paul, our unsuspecting protagonist as he plays through an unknown and seemingly unfinished PS1 game the enigmatically titled "Petscop". Paul is uploading recordings of its early levels to prove to his friend that "the game he found" is real. 
 
-Initially, the game seems like a standard PlayStation puzzle game, capturing strange creatures known as "pets" by solving puzzles. Howver, as the plot progresses, Paul is starting to uncover dark secrets buried by the past. And trying to deal with the increasingly tense situation when the border between real life events and Petscop are starting to blur.
+Initially, the game seems like a standard PlayStation puzzle game, capturing strange creatures known as "pets" by solving puzzles. Howver, as the plot progresses, Paul is starting to uncover dark secrets buried by the past, while dealing with the increasingly tense situation when the line between real life events and Petscop gameplay are starting to blur.
 
 "In a way, recordings have the power to raise the dead. They're kind of scary."
 
