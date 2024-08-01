@@ -3,12 +3,14 @@ This document is a collaborative effort of the fandom to catalogue the contents 
 
 Document version: 2.24.0
 
+External resources used in the document are archived [here](external%20resources)
+
+
+## Stay updated
 The original copy can be read [here](https://docs.google.com/document/d/1WUJXwnWYZbYH7MYorn5U6YIwAf3wWBeIFSwOlbexmkw/edit)
 
 Please check the Subreddit for the most up-to-date version.
 
-
-* The document is available in Word and PDF format.
 
 
 ## Thanks
