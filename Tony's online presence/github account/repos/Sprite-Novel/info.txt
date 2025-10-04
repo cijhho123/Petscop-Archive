@@ -1,0 +1,2 @@
+About
+Beginnings of a simple engine for a visual novel (to become "Story of Logs" when art/music assets are ready).

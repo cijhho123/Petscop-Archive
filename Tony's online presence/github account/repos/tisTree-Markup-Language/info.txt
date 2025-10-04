@@ -1,0 +1,2 @@
+About
+A markup language for making tisTree comics: http://sbboard.com/tistree/

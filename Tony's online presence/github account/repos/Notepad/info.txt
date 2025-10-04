@@ -1,0 +1,2 @@
+About
+Notepad will be a prototype of a music composition app.
