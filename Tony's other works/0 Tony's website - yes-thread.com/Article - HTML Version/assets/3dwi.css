@@ -1,0 +1,114 @@
+
+body {
+    background-color: black;
+    margin: 0px;
+    font-family: "Times New Roman", serif;
+    overflow: hidden;
+}
+
+#canvas {
+    background-color: black;
+    object-fit: contain;
+    height: 95vh;
+    width: 95vw;
+}
+
+#image {
+    background-color: black;
+    object-fit: contain;
+    height: 95vh;
+    width: 95vw;
+    /*image-rendering: pixelated;*/
+}
+
+#image-area {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; 
+    max-height: 100vh;
+    min-height: 100vh;
+    max-width: 100vw;
+}
+#image-area:hover {
+    cursor: pointer;
+}
+
+#menu {
+    background-color: #111111;
+    color: #BBBBBB;
+    font-size: 20px;
+    /*background-image: linear-gradient(90deg, black, #111111, #111111, black);*/
+}
+
+#menu-inner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    height: 100%;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.no-selection {
+    -webkit-user-select: none;  
+    -moz-user-select: none;    
+    -ms-user-select: none;      
+    user-select: none;
+}
+
+.menu-button {
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    
+
+    background-clip: text;
+    -webkit-background-clip: text;
+    text-fill-color: transparent;
+    -webkit-text-fill-color: transparent;
+
+}
+
+.menu-button:hover {
+    cursor: pointer;
+    color: white;
+    
+    background-image: linear-gradient(white, yellow);
+    background-clip: text;
+    -webkit-background-clip: text;
+    
+    text-fill-color: transparent;
+    -webkit-text-fill-color: transparent;
+}
+
+#next-button {
+    background-image: linear-gradient(#DDDDDD, #DDDDDD, #555555);
+    transition: transform 0.1s;
+}
+
+#prev-button {
+    background-image: linear-gradient(#DDDDDD, #DDDDDD, #555555);
+    transition: transform 0.1s;
+}
+
+
+#next-button:hover, #next-button.hover {
+    background-image: linear-gradient(white, red);
+    /*transform: translateX(4%);*/
+}
+
+#prev-button:hover, #prev-button.hover {
+    background-image: linear-gradient(white, red);
+    /*transform: translateX(-4%);*/
+}
+
+#note {
+    position: absolute;
+    color: white;
+    font-size: 30px;
+    max-width: 800px;
+    padding: 20px;
+}

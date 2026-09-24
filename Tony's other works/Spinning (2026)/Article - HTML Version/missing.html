@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>LibreCrawl Capture Missing Page</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="icon" href="./librecrawl/logo_new.svg" type="image/svg+xml" />
+		<style>
+html, body {
+	height: 100%;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	display: grid;
+	font-family: sans-serif;
+	align-items: center;
+	justify-content: center;
+	grid-template-columns: auto;
+}
+
+.content {
+	background: linear-gradient(to bottom, #eee, #ccc);
+	border-bottom: 1px solid black;
+	border-radius: 10px;
+	max-width: 500px;
+	padding: 15px;
+	margin: 15px;
+	box-sizing: border-box;
+
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+	text-align: center;
+
+	.logo {
+		width: 120px;
+	}
+
+	.header {
+		font-size: 24px;
+		font-weight: bold;
+	}
+}
+		</style>
+	</head>
+	<body>
+		<div class="content">
+			<center>
+				<img class="logo" src="./librecrawl/logo_new.svg" alt="LibreCrawl logo" />
+			</center>
+			<div class="header">That URL was not archived!</div>
+			<div>Unfortunately the outlink you tried to access was not archived, and is not accessible.</div>
+			<div>To return to the archived page, use the back button in your browser toolbar.</div>
+		</div>
+	</body>
+</html>

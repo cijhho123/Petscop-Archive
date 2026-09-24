@@ -1,0 +1,41 @@
+Source URL : https://suricrasia.online/unfiction/spinning/
+Title      : [DELISTED] I Found Evidence Of My House Spinning | U&U Forums
+Author     : Tony Domenico (Mr. Yes)
+Announced  : 2026-09-13, by Tony on Bluesky (@mryes.bsky.social):
+             "I just wrote a paranormal story in the form of a fictional forum
+              thread! A young woman discovers a video captured from inside a
+              recurring dream."
+Captured   : 2026-09-24
+Host       : suricrasia.online - not Tony's own domain; he published it there.
+
+WHAT THIS IS
+A paranormal story written as a fictional forum thread, presented as though it
+were a third-party crawler's archive of a thread that has since been delisted -
+the page's own title bar reads "LibreCrawl archive 2026-09-03" and it carries
+fabricated capture metadata (crawler version, crawler ID, initiating user).
+The fake-artifact framing is the same move Petscop makes with found gameplay
+footage: the fiction is in the presentation as much as the text.
+
+Roughly 94,000 characters of thread text, plus 437 inline images.
+
+HOW IT WAS CAPTURED
+Mirrored preserving the original directory structure rather than flattening
+assets, because the page references everything by relative path. The HTML is
+byte-for-byte as served, unmodified, so every relative link resolves offline.
+Open "Article - HTML Version/index.html".
+
+  85 files downloaded, 0 failures, 0 unresolved image references, 10.3 MB.
+  Scope was restricted to the story directory - no crawling the wider host.
+
+  attachments/  post_imgs/   story images: house maps, the spinning-house
+                             panorama and its animation, photos, screenshots,
+                             the sketch of the car in frame 6
+  bts/                       behind-the-scenes material: an early planning
+                             document, timelines, Blender working screenshots,
+                             a hand-drawn map, parcel and satellite maps
+  avatars/  fatcow/  imgs/   forum furniture - user avatars and UI icons that
+  librecrawl/                make the fictional forum and crawler look real
+
+NOTE
+This is a work of fiction. The forum, the crawler, the thread's participants and
+the capture metadata are all invented.
