@@ -1,0 +1,10 @@
+Source URL : https://tvtropes.org/pmwiki/pmwiki.php/WebVideo/Petscop
+Page title : Petscop (Web Video) - TV Tropes
+HTTP status: 200
+Captured   : 2026-09-24
+Method     : direct HTTP fetch; TV Tropes' Cloudflare edge blocks
+             headless browsers but serves plain HTTP clients.
+             PDF/screenshot rendered from the saved local copy.
+Article body: 58048 chars
+Assets     : 6 files
+Note       : scripts, iframes, ads and trackers removed.

@@ -1,0 +1,84 @@
+#dsspHS {
+  background: #e7edf0;
+  overflow: hidden;
+}
+#dsspHS,
+#dsspHS img {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  position: fixed;
+  bottom: 0;
+  z-index: 9999999;
+  margin: 0px auto;
+  text-align: center;
+}
+/* Ad tags declare multiple sizes (e.g. 1000x60, 320x50) with no
+   viewport-based size mapping, so GPT can serve the wide desktop creative
+   to a narrow screen. dfp.js locks the slot container to that creative's
+   own pixel width. Cap it to the bar's width so it never overflows, and
+   center it explicitly: it's a block-level div with a fixed pixel width,
+   so the parent's text-align: center (which only affects inline content)
+   never centers it on its own -- it renders flush left whenever the served
+   creative is narrower than the bar. */
+#dsspHS [id^="js-dfp-tag-"] {
+  max-width: 100%;
+  margin: 0 auto;
+}
+@media only screen and (max-width: 767px) {
+  #dsspHS {
+    background: #cfd0db !important;
+  }
+}
+#closeHB {
+  position: fixed;
+  right: 5px;
+  bottom: 5px;
+  width: 44px;
+  height: 44px;
+  opacity: 0.8;
+  z-index: 99999999;
+  background: #fff;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -khtml-border-radius: 50%;
+  border-radius: 50%;
+}
+#closeHB:hover {
+  opacity: 1;
+}
+#closeHB:before,
+#closeHB:after {
+  position: absolute;
+  left: 20px;
+  content: " ";
+  height: 28px;
+  width: 1px;
+  background-color: #000;
+  bottom: 8px;
+}
+#closeHB:before {
+  transform: rotate(45deg);
+}
+#closeHB:after {
+  transform: rotate(-45deg);
+}
+@media only screen and (max-width: 768px) {
+  #closeHB {
+    width: 25px;
+    height: 25px;
+    bottom: 60px;
+    right: 19px;
+  }
+  #closeHB:before,
+  #closeHB:after {
+    left: 12px;
+    height: 15px;
+    bottom: 4px;
+  }
+}
+
+#dsspHS iframe {
+  display: inline-block;
+  max-width: 100%;
+}

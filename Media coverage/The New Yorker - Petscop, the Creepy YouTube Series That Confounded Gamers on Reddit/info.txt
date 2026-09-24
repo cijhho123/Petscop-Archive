@@ -1,0 +1,26 @@
+Source URL : https://www.newyorker.com/culture/rabbit-holes/petscop-the-creepy-youtube-series-that-confounded-gamers-on-reddit
+Page title : "Petscop," the Creepy YouTube Series That Confounded Gamers on Reddit | The New Yorker
+HTTP status: 200
+Captured   : 2026-09-24
+Method     : Playwright/Chromium, rendered DOM
+
+INCOMPLETE - PAYWALLED. Read this before relying on the capture.
+
+The New Yorker gates this article behind a subscriber wall. The page returns
+HTTP 200 and the <article> element is present, but it contains only the
+subscription offer ("Unlock this story for just $2.50 a week"). The body text
+of the article is not served to non-subscribers and is therefore NOT in this
+capture.
+
+What IS preserved here:
+  - headline, byline, section (Rabbit Holes) and publication date
+  - the standfirst/dek from the page metadata: "At first glance, it looks like
+    a nineties-era PlayStation game. Then things get weird."
+  - the page as a reader without a subscription sees it (HTML, PDF, screenshot)
+
+To complete this, either:
+  - capture it while logged in to a New Yorker subscription, or
+  - fetch the Wayback snapshot Wikipedia cites:
+    https://web.archive.org/web/20171201034310/https://www.newyorker.com/culture/rabbit-holes/petscop-the-creepy-youtube-series-that-confounded-gamers-on-reddit
+    (archive.org was unreachable from the network used for this capture, so
+    this was not possible here.)

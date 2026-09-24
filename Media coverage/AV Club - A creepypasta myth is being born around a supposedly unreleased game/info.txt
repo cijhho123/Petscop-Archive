@@ -1,0 +1,8 @@
+Source URL : https://www.avclub.com/a-creepypasta-myth-is-being-born-around-a-supposedly-un-1798261093
+Page title : A creepypasta myth is being born around a supposedly unreleased 1997 game
+HTTP status: 200
+Captured   : 2026-09-24
+Method     : Playwright/Chromium, rendered DOM
+Assets     : 19 files referenced by this page only
+Note       : ads, analytics and consent frames were blocked at request
+             level and are intentionally absent.

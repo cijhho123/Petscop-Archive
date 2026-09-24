@@ -1,0 +1,8 @@
+Source URL : https://www.thegamer.com/petscop-has-ended-with-a-soundtrack-launch/
+Page title : Petscop Has Ended With A Soundtrack Launch
+HTTP status: 200
+Captured   : 2026-09-24
+Method     : Playwright/Chromium, rendered DOM
+Assets     : 32 files referenced by this page only
+Note       : ads, analytics and consent frames were blocked at request
+             level and are intentionally absent.

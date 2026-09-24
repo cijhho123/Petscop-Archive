@@ -1,0 +1,8 @@
+Source URL : https://kotaku.com/people-are-trying-to-find-the-truth-about-a-creepy-unfi-1794538825
+Page title : People Are Trying To Find The Truth About A Creepy 'Unfinished' Playstation Game - Kotaku
+HTTP status: 200
+Captured   : 2026-09-24
+Method     : Playwright/Chromium, rendered DOM
+Assets     : 79 files referenced by this page only
+Note       : ads, analytics and consent frames were blocked at request
+             level and are intentionally absent.

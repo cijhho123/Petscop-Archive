@@ -1,0 +1,23 @@
+{
+  "type": "video",
+  "version": "1.0",
+  "provider_name": "Vimeo",
+  "provider_url": "https://vimeo.com/",
+  "title": "PETSCOP (Tony Domenico, 2017)",
+  "author_name": "Spectacle",
+  "author_url": "https://vimeo.com/spectacletheater",
+  "is_plus": "1",
+  "account_type": "plus",
+  "html": "<iframe src=\"https://player.vimeo.com/video/1011167013?app_id=122963\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"PETSCOP (Tony Domenico, 2017)\"></iframe>",
+  "width": 1920,
+  "height": 1080,
+  "duration": 80,
+  "description": "PETSCOP\nDir. Tony Domenico. 2017-2019.\nUnited States. 269 min.\nIn English.\n\nhttps://www.spectacletheater.com/petscop/\n\nSATURDAY, OCTOBER 12 \u2014 2 PM \u2013 8 PM\n\nQ&A w/ Jordan Fish, Liz Ryerson, and David Stockdale\n\nIn March 2017, a YouTube channel began uploading footage of a strange, long-lost pet collector game for the Sony Playstation known only as PETSCOP. Initially created as a way to chronicle his discoveries and exploration within, the narrator Paul soon unearthed a mystery far deeper and more frightening than anyone could have ever imagined. What would unfold over the next two years would completely expand the possibilities of screenlife, video games, YouTube, and the Let\u2019s Play format as vectors for astonishing art and captivating storytelling.\n\nThis October, please join us at Spectacle as we present to you the first ever public screening of the groundbreaking psychological horror series PETSCOP in its entirety. Join us after the viewing for a seminar between filmmaker Jordan Fish, internet and video game culturalist Liz Ryerson, and PETSCOP historian and YouTuber David Stockdale as we discuss the theories, meanings, and legacy of this important artifact of post-web mythology.\n\nOur programming block is broken into three distinct Pieces. A 10 minute intermission will follow each Piece, concluding in a seminar following the Epilogue. Each attendee will receive a playbill containing important text relevant to each episode.\n\nPIECE ONE\nEpisodes 1-10\n90 min.\n\nPIECE TWO\nEpisodes 11-16\n82 min.\n\nPIECE THREE\nEpisodes 17-24 + Epilogue\n97 min.\n\n\u201cJordan Fish is a screenwriter, filmmaker, and interactive director who loves cinema in all its forms. He\u2019s also interested in YouTube as a node of culture, and in films that feel almost like video games, defy categorization, or otherwise push the bounds of their format. Jordan\u2019s work has been featured in Pitchfork, Vice, Buzzfeed, and The Guardian. He is currently prepping his first feature, a paranoid thriller, for principle photography in 2025.\u201d\n\n\u201cLiz Ryerson is a writer, composer, podcaster, and game designer currently based in Brooklyn. Her writing about games has appeared in publications like Vice, the New Inquiry, and Jacobin. She also currently hosts the Experimental Game Workshop at the Game Developers Conference in San Francisco, and occasionally teaches at the NYU Game Center.\u201d\n\n\u201cDavid Stockdale is a YouTuber who delves into obscure and unusual media, with a particular focus on analog horror and experimental storytelling. His channel, Nightmare Masterclass, has gained attention for its lengthy investigation of PETSCOP. He\u2019s interested in the way online platforms are reshaping narrative and culture.\u201d\n\nVery special thanks to Tony Domenico, Steve Macfarlane, Liz Ryerson, Jordan Fish, Sylvie Shamlian, and David Stockdale.",
+  "thumbnail_url": "https://i.vimeocdn.com/video/1928676639-112b095f13d69e253c5c685de3cab44c050a73835cd43dc291c40dd0e28be501-d_1280?region=us",
+  "thumbnail_width": 1280,
+  "thumbnail_height": 720,
+  "thumbnail_url_with_play_button": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F1928676639-112b095f13d69e253c5c685de3cab44c050a73835cd43dc291c40dd0e28be501-d_1280%3Fregion%3Dus&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png",
+  "upload_date": "2024-09-19 20:43:19",
+  "video_id": 1011167013,
+  "uri": "/videos/1011167013"
+}

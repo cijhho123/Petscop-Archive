@@ -1,0 +1,28 @@
+Source URL : https://vimeo.com/1011167013
+Page title : PETSCOP (Tony Domenico, 2017) on Vimeo
+Uploader   : Spectacle (Spectacle Theater), uploaded 2024-09-19
+Duration   : 80 seconds
+Captured   : 2026-09-24
+Method     : Playwright/Chromium for the page; Vimeo oEmbed API for metadata
+
+NOTE ON SCOPE: this is the 80-second TRAILER Spectacle Theater cut to promote
+the October 2024 screening. It is NOT the 269-minute series - the full series
+is already archived under "Official Petscop content/Petscop youtube channel".
+
+VIDEO FILE NOT RETRIEVED. Every route to the stream returned HTTP 401:
+  - yt-dlp (anonymous OAuth token endpoint 401)
+  - player.vimeo.com/video/1011167013/config              401
+  - the embed URL with a spectacletheater.com Referer     401
+  - direct browser navigation to the player with Referer  401
+archive.org was also unreachable from this network, so no Wayback fallback was
+possible. The oEmbed metadata endpoint did respond, which suggests a
+network-level restriction on Vimeo's media/player hosts rather than the video
+being private. Retrying from a different network will most likely work:
+  yt-dlp "https://vimeo.com/1011167013"
+
+What IS preserved here:
+  - the Vimeo page itself (HTML, PDF, screenshot)
+  - Poster frame.jpg - the video's poster/thumbnail at full resolution
+  - video description.txt - the complete description, which carries the whole
+    screening billing (runtime, date, Q&A panel, ticket info)
+  - video metadata (oEmbed).json - title, uploader, duration, dimensions
