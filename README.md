@@ -37,7 +37,9 @@ The purpose of this archive is to preserve, organize and document official Petsc
 
 * The creator of Petscop, Tony's online presence, including interviews can be found [here](Tony's%20online%20presence).
 
-* Tony's past works can be found [here](Tony's%20other%20works).
+* Tony's past works can be found [here](Tony's%20other%20works) - including **Spinning** (2026), his most recent work, a paranormal story written as a fictional forum thread.
+
+* Press coverage, reference entries and the 2024 Spectacle Theater screening can be found [here](Media%20coverage).
 
 
 ### Credits and thanks
@@ -50,13 +52,15 @@ Thanks to the moderator of the [Petscop Wiki](https://petscop.fandom.com/wiki/Pe
 Thanks to the youtubers who sink their teeth in great attempt to explain this enigmatic story, providng the community with high quaility content and thought-provoking findings.
 
 
+Concrete, enumerated open items (with video IDs, blocked downloads and repo-health notes) are tracked in [TODO.md](TODO.md).
+
 #### To-Do list: 
 - Add channel description and profile history under [here](Official%20Petscop%20content/Petscop%20youtube%20channel)
 - Add all the Comprehensive Progress Document content to its respective folder (including all external links and media)
-- Investigation videos by Nightmare Masterclass and Sock Muppet.
+- Investigation videos by Nightmare Masterclass and Sock Muppet. (started: one Nightmare Masterclass video under [Petscop Community/Investigation videos](Petscop%20Community/Investigation%20videos) - transcript + description only, audio pending)
 - ~~Petscop Wiki archive at https://petscop.fandom.com/wiki/Petscop~~ - done, see [Petscop Wiki](Petscop%20Community/Petscop%20Wiki) (full offline mirror, 1217 pages + 493 media)
 - Add readmes to folders and index them.
 - Preserve the fan-made IRL Petscop game. https://giftscop.com/
-- Update the Twitter feed from Tony (last updated: late 2021)
+- ~~Update the Twitter feed from Tony (last updated: late 2021)~~ - done, see [snapshot 2026-09-24](Tony's%20online%20presence/%40pressedyes%20-%20twitter%20account/snapshot%202026-09-24) (499 tweets 2011-2024, 140 media files)
 - Add more things to the todo list
 - Add "start here" section to the readme
