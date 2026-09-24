@@ -1,0 +1,56 @@
+{{Infobox episode
+|image = Thumb14.jpg
+|link = https://youtu.be/OPzYMFdyKQQ
+|upload = July 17, 2018<br>7:08:44 PM (UTC-4)
+|runtime = 27 minutes 4 seconds
+|previous = [[Petscop 13]]
+|next = [[Petscop 15]]
+}}
+'''Petscop 14''' was posted on July 17, 2018 with a video length of 27:04.
+
+On June 27, 2018, the [[channel managers]] hinted the contents of this video would be a compilation of Paul's "attempts".
+
+''A transcript for this episode can be accessed at [[{{PAGENAME}}/Transcript]].''
+
+== Synopsis ==
+The video begins in a new room within the [[house]], with a ''demo'' text visible on the top of the screen. The player navigates to a miniature [[windmill]] on the right side of the room. Interacting with it causes the following text box to appear:
+<blockquote><poem>This windmill vanished off the face of the earth.
+Here's a similar puzzle. For you, [[Marvin]]:
+There are two pictures of a door.
+In the first picture, the door is closed.
+In the second picture, taken later, the door is open.
+Nobody opened the door.
+The door did not open itself.
+The door, in fact, did not open at all.
+What happened?</poem></blockquote>
+
+The video then cuts to the main room of the house, the ''demo'' text is no longer visible. [[Paul]], standing in front of a closed door, discusses an idea regarding how he might get past the door. The idea involves pretending that the door is actually open. As he explains his idea, the video fades to an alternate view where the ''demo'' text is visible, and the door is open, allowing him to enter it.
+
+Paul explains that he knows the layout of this room because he saw it in the [[Recording#Demos|demo recording]] that appeared earlier in the video. Noting that Marvin did not inspect the objects on the left side of the room, Paul attempts to do so, expecting another text box to appear. Instead, it opens a menu allowing the player to inspect 15 framed CDs.
+
+The video cuts to a later point, and Paul is discussing the results of his last attempt at exploring the room. He goes on to explain that the demo recordings are based on past gameplay sessions, and that the game will sometimes play them automatically.
+
+He states that the footage shown in [[Petscop 13]] was only possible through this demo system, as he had lost the original video footage (but not the audio), and was able to recover it when the game replayed the recordings. He also states that things are sometimes different during demo playback, compared to the original session, mentioning the lack of music in Petscop 13, and that the congratulatory text box at the end was different.
+
+After several attempts, Paul manages to push the bucket into the room, and completes a short puzzle in order to obtain a key to the [[garage]], which he uses to enter the garage, causing the game to reboot back to the [[Garalina]] logo, which is now rotated differently than when it was last shown.
+
+Paul finds that his save files have been deleted, and a file named "Strange situation" has replaced his original file. Upon loading the file, he finds that the house is now decorated for [[Care]]'s birthday party. There are now two calendars in the house: a green one corresponding to the year 1997, and a red one which Paul speculates is either 1995 or 2017. November 12th is animated.
+
+Paul is now able to enter the bedroom which was previously closed. After some time has passed, several text boxes appear, which Paul states are "based off of a conversation that I had last year on my birthday." He attempts to leave the room, but the game crashes. He then says he needs to call [[Jill]].
+
+The video cuts, and Paul discusses how he searched for information online regarding whether it's possible to modify information on a CD-R.
+
+Paul enters the garage and finds a [[Tarnacop]] computer displaying the [[Petscop Discovery Pages]], but the game's resolution is low enough as to make the text illegible.
+
+Paul then traverses back to the bedroom, but upon entering, an empty text box appears and the game crashes. The video then ends.
+
+== Notes ==
+{{main|Misconceptions_and_rumors#Empty_text_boxes}}
+People often mistake the empty text box at the end of the video as [[censorship]], however this is not the case. The black boxes used to censor video footage are completely dark, whereas text boxes are not. 
+
+== Theories ==
+Paul's main save renamed itself to "Strange situation". This is the same name of a [[Wikipedia:Strange_situation|psychological procedure]] used to observe attachment relationships between a child and their caregiver.
+
+"Tarnacop", the word on the garage computer tower, is Romanian (târnăcop) for pickaxe or mattock.
+
+{{VideoNav}}

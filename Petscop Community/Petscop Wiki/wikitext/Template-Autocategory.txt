@@ -1,0 +1,4 @@
+<div style="background: #A13987; border-style: solid; border-top: 5px solid #0f0a0c; border-right: 5px solid #060403; border-bottom: 5px solid #010200; border-left: 5px solid #060405; padding: 10px;">
+<font color="white" size = "3">'''''Pages should not be added manually to this category.''' <br> It will automatically be applied by {{#if:{{{1|}}}|[[Template:{{{1}}}]]|a template}}.''
+</font> </div>
+<noinclude>[[Category:Templates]][[Category:Notice templates]]</noinclude>

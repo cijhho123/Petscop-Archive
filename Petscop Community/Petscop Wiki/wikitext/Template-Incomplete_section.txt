@@ -1,0 +1,6 @@
+{{clear}}<div style="background-color:rgba(128,128,128,.15); border:5px solid #1D1E21; margin: 10px 5px 10px 5px; padding: 0px;border-radius:10px;">
+{|style="border-radius:10px"
+|width=2% style="background-color:#C269DD;"|
+|style="padding:8px 0px 0px 10px"|
+This section of the article is incomplete. If you have information, you can help [{{SERVER}}{{localurl:{{NAMESPACE}}:{{PAGENAME}}|action=edit}} add to this section].
+|}</div><includeonly>{{#ifeq:{{NAMESPACENUMBER}}|0|[[Category:Pages with incomplete sections]]}}</includeonly><noinclude>[[Category:Templates]][[Category:Notice templates]]</noinclude>

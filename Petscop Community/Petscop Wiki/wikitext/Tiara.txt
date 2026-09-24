@@ -1,0 +1,78 @@
+{{Speculative}}
+[[File:Tiara sprite.png|thumb|Fanmade recreated sprite]]
+'''Tiara''' is a recurring character in Petscop. [[Game|In-game]], she appears as a [[guardian]] with a black & white head drawing when viewed by [[players|other players]]; however, she appears as the default guardian when she is playing. 
+
+The in-game Tiara character is sometimes referred to as "Belle" on occasion by the game, conflicting with [[Belle]], [[Paul]]'s friend. During the recordings shown in [[Petscop 12]] which show Tiara playing, the textboxes insist that Tiara is actually Belle, though they discuss in detail that "Belle" was supposed to become Tiara. The character herself insists she is called Tiara. [[Paul]] refers to the character as Tiara. Through [[P2 to TALK]], [[Marvin]] refers to her as Bell(e).
+
+The name "Tiara" additionally refers to someone who, at the time of the game's development, was (presumably) an adult knowledgable about [[rebirthing]] that [[Rainer]] knew personally. 
+
+One of the [[recording]]s shown in the recordings list in [[Petscop 19]] is called "tiara".
+
+In [[Petscop 23]], a letter is addressed to a '''Tiara Leskowitz'''. To which of the two Tiaras this refers to is unknown, though its context may lean more towards the younger Tiara.
+
+Both Tiaras are represented with <span id="purple">purple</span> text, along with Belle. 
+
+== History ==
+=== Adult ===
+The only time that the "adult" Tiara knowledgable about rebirthing (and the first time "Tiara" was ever mentioned in the videos by name) was clearly referred to was in [[Petscop 3]], on a note in [[Care]]'s [[Child Library]] room:
+<blockquote>Tiara says young people can be psychologically damaged ‘beyond rebirthing’.</blockquote>
+
+=== In-game character ===
+[[File:Loading-nmp-bright.png|thumb|260px|Loading screen depicting Tiara when entering the [[Newmaker Plane]]]]
+Tiara's guardian's head appears as a darkened [[loading screen]] shown in [[Petscop 1]], once Paul leaves [[Even Care]] after entering the code from the [[note]] and enters the [[Newmaker Plane]].
+
+Tiara's character is first shown in [[Petscop 2]] in the [[Quitter's Room]], mirroring [[Paul]]'s movements. When Paul walks behind a bookshelf in the back of the room, she is temporarily de-synced from mirroring his movements until he stops. A sound effect plays upon the de-sync beginning, identical to that of the sound of the door in the [[Newmaker Plane]] opening prior in the video.
+
+Tiara is acknowledged by and then mentioned by the [[red tool]] as shown in [[Petscop 5]].
+
+When Paul asks "Who is Tiara?", the red tool replies "Petscop kid very smart". When Paul asks "Remember being born?" (referring back to the "Do you remember being born?" question on the wall of the Quitter's Room), the red tool replies "I'm not Tiara".
+
+In [[Petscop 7]], while Paul is idling in the Quitter's Room while he looks through his notes, the second movement of Stravinsky’s Septet begins playing, and while it is playing, she temporarily does not sync with his movements.
+
+In [[Petscop 11]], [[Marvin]] says "Tiara plays bad music too" to [[Pall]] after they start playing the [[Needles Piano]] improperly. (This is inconsistent with Marvin referring to her later as "Bell(e)".)
+
+In Petscop 12, a [[recording]] shown through demo playback showcases Tiara's gameplay. The recording starts in the Quitter's Room, which judging by her 0 [[pieces]] count, may be her starting location. She is forced to replicate the movements of a second player, which [[sync]]s with some of Paul's gameplay in [[Petscop 10]]. Later, messages start playing that begin to refer to her as Belle, after she is "freed" from the Quitter's Room. They suggest she has been running Petscop for a long time and ask if she is still playing in a certain room. Near the end of the shown recordings, the following is said that may clarify the reasoning for her inconsistently being called "Belle";
+<blockquote><poem>
+I'm calling you Belle because that's who you are.
+You might be confused as to what happened.
+I was overeager before, and started calling you Tiara prematurely.
+I created a space in the menu for you, still unused now.
+Then I put you inside the machine, and played the second movement of Stravinsky's Septet on the Needles.
+I played it wrong, but that would have been okay.
+If you hadn't given up halfway, you would be Tiara. This is not what happened, and now I'm gone.
+</poem></blockquote>
+
+In [[Petscop 15]], Tiara is brought into a classroom in the [[school]] by [[Marvin]]. Marvin refers to her as "Bell(e)", though she states after he leaves that she is Tiara and ''not'' Bell(e). She then tells [[Pall]] how to access [[Draw Mode]].
+
+In [[Petscop 19]], the list of [[recording]]s in the [[secret menu]] includes one named "tiara".
+
+In [[Petscop 22]] while trying to solve a puzzle with Belle over the phone, [[Paul]] directly refers to the character on the other side of the Quitter's Room as "Tiara". Later in his recordings, Tiara (with pupils) walks out in front of the player camera shortly after the [[guardian]] is hit by a car, and as Belle stops talking and the phone call drops, Tiara's face shakes randomly for a few minutes.
+
+In [[Petscop 23]], Tiara walks into the third floor school classroom shortly after Marvin leaves Pall alone there. She tells Pall that she's sorry, and after Pall says "help", she uses Draw Mode to write the code for the [[locker]] onto the chalkboard before leaving. She is later standing near the [[Machine|machine in the school basement]] with Marvin, having contributed 500 [[pieces]] to one side of the machine.
+
+At the end of the [[Petscop Soundtrack]], Tiara talks to Pall about the day that he was "smuggled away" to his "new house" by "Boss" ([[Lina]]) and how she was in the back seat of the car with him, excited to be his new friend. After Pall replies with "family" to this, Tiara tells him that "we can investigate this together".
+
+=== Tiara Leskowitz ===
+In [[Petscop 23]], a "Tiara Leskowitz" is referred to on the "Your New Life Letter" found in the [[locker]] in the [[school]].
+
+Her relationship to [[Lina Leskowitz]] is unclear.
+
+== Theories ==
+Depending on when the time running Petscop was given, Tiara may have been running the game since late 1999, June 2000, or sometime in between.
+
+Tiara may be controlling the [[pink tool]], evidenced by knowing how to use [[Draw Mode]], and being around Marvin. This is further suggested after the Stravinsky's Septet event in Petscop 7, as "COME HERE" is written on the "Do you remember being born?" note after she re-appears, which may imply she may have written it.
+
+Tiara's name may be a reference to [[Candace Newmaker allusions|Candace Newmaker]]'s original name, Candace Tiara Elmore.
+
+=== Belle and Tiara ===
+It is sometimes suggested that [[Belle]] is controlling the in-game Tiara character in the present day at times, particularly in [[Petscop 22]]. Almost all representations of Tiara after she is "freed" in [[Petscop 10]] may be implied to actually be Belle playing, though it is unclear how this is possible through any setup of a PlayStation that wouldn't be obvious to Paul.
+
+The "Petscop kid very smart" response to "Who is Tiara?" may actually be referring to Belle, considering that she was one of the "Petscop Kids" (playtesters) and one of the few to make any progress with the puzzles in [[Even Care]]- her listing in the [[Book of Baby Names]] also refers to her as "smart". This may further relate to that Belle may have been meant to become Tiara, and the in-game Tiara character is a representation of what was supposed to happen with Belle- or the aftermath of Belle/Tiara "giv[ing] up halfway" with the [[machine]]. "Tiara Leskowitz" may then have meant to be who Belle was supposed to become, and may relate to Belle's seemingly negative reaction to Paul saying that she wasn't part of the [[family]] in [[Petscop 22]].
+
+Tiara's [[P2 to TALK]] message sound is listed in the [[Sound Test]] as "Belle Message". This may, at minimum, suggest Belle was "implemented" into Petscop in some form.
+
+The "tiara" [[recording]] (followed by the "FUCK-FUCK-FUCK" recording) may be the in-game representation of attempting to guide "Belle" into becoming "Tiara", followed by Tiara giving up on becoming Tiara and therefore still being Belle but still believing herself to be Tiara, as per the descriptions in [[Petscop 12]]. If the recordings suggest Belle and Tiara are for the same person, it may suggest that after Belle successfully caught all the pets in Even Care as a playtester, that [[Rainer]] wanted to further work with her, attempting and failing to create a representation of her in-game through some medium (such as "[[rebirthing]]") into a [[pet]] similar to how [[Care]] is a "pet" representing [[Carrie Mark]], and leaving her in-game as the unfinished "Tiara character". This may further clarify the intent of the "Tiara Leskowitz" letter referring to a "new life".
+
+Tiara's "we can investigate this together" line to [[Pall]] from the [[Petscop Soundtrack]] seems to be a reference to Paul saying the same thing in [[Petscop 2]] to Belle, which may further suggest that she is supposed to be Belle, or an in-game representation of Belle (along with that Pall is supposed to directly be a recent representation of Paul or possibly Paul himself).
+
+{{CharacterNav}}

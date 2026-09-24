@@ -1,0 +1,32 @@
+{{Infobox episode
+|title = Petscop
+|image = Thumb01.jpg
+|link = https://youtu.be/6e6RK8o1fcs
+|upload = March 12, 2017<br>5:56:41 PM (UTC-4)
+|runtime = 9 minutes 7 seconds
+|next = [[Petscop 2]]
+}}
+'''"Petscop"''', or informally referred to as '''"Petscop 1"''', is the first video uploaded to the [[Petscop (channel)|Petscop channel]]. It was uploaded on March 12, 2017. The video description reads "The game I found", and holds a transcription of the note talked about in the video.
+
+In this episode, [[Paul]] introduces a strange game he found, and showcases the oddities he has discovered so far, mainly focused on the game's unfinished overworld.
+
+''A transcript for this episode can be accessed at [[{{PAGENAME}}/Transcript]].''
+
+== Synopsis ==
+The narrator, Paul, is recording footage of an unreleased video game called [[Petscop (game)|Petscop]] that he found to show to someone ([[Belle]]) to prove that he is not lying about having it. The startup indicates it was developed by [[Garalina]] for the [[wikipedia:PlayStation_(console)|PlayStation]].
+
+After creating a file, the player is tasked with collecting 48 creatures referred to as [[pets]] from 8 different [[homes]] in an area called the [[Gift Plane]]. As Paul describes in his [[wikipedia:Let's Play|Let's Play]]-style commentary, there seems to be only 1 level present in the game, called [[Even Care]].
+
+Inside, by solving puzzles, he is able to catch the pets [[Amber]], [[Pen]], [[Randice]], and [[Wavey]]. He explains how each of them is caught, as he has figured it out previously. However, he is unsure how to catch [[Roneth]], despite attempts.
+
+Referring to a [[note]] found with the game, Paul enters a cheat code which stops the game's music and replaces the exterior of Even Care with a [[Newmaker Plane|dark expansive area]]. Paul theorizes that based on the note he should be able to find something there, but hasn't found anything previously.
+
+The video is interrupted by a sudden jump cut, after which Paul explains he managed to find a door by wandering around for fifteen minutes. As Paul is unable to open the door, he is unsure of how to continue. He asks the person he is recording for (Belle) to inform him if she noticed anything in the footage that might provide an idea of how to open it.
+
+== Notes ==
+* Paul starts with 0 [[pieces]], and ends with 55. He calls them "money" during the episode.
+* The video was presumably not seen on the internet prior to April 8, 2017. 
+* On or around March 21, 2019, the description was updated to include the note transcription previously shown as an annotation in the video, as YouTube removed annotations.
+* Due to a YouTube bug, the video thumbnail displays an incorrect duration. Fans sometimes speculate that this was intentional, or that it implies additional footage was edited out, but [[Misconceptions_and_rumors#Video_lengths|these claims are unfounded]].
+
+{{VideoNav}}

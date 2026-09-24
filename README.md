@@ -54,7 +54,7 @@ Thanks to the youtubers who sink their teeth in great attempt to explain this en
 - Add channel description and profile history under [here](Official%20Petscop%20content/Petscop%20youtube%20channel)
 - Add all the Comprehensive Progress Document content to its respective folder (including all external links and media)
 - Investigation videos by Nightmare Masterclass and Sock Muppet.
-- Petscop Wiki archive at https://petscop.fandom.com/wiki/Petscop
+- ~~Petscop Wiki archive at https://petscop.fandom.com/wiki/Petscop~~ - done, see [Petscop Wiki](Petscop%20Community/Petscop%20Wiki) (full offline mirror, 1217 pages + 493 media)
 - Add readmes to folders and index them.
 - Preserve the fan-made IRL Petscop game. https://giftscop.com/
 - Update the Twitter feed from Tony (last updated: late 2021)

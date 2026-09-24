@@ -1,0 +1,2 @@
+This article covers the various '''objects''' seen throughout Petscop.
+[[Category:Browse]]

@@ -1,0 +1,102 @@
+[[File:P2 to TALK.png|thumb|The game prompting the player about P2 to TALK]]
+'''P2 to TALK''' is a form of communication inside [[Petscop (game)|Petscop]] that uses a second controller connected to the [[wikipedia:PlayStation_(console)|PlayStation]] to communicate using a phonetics-based system.
+
+It is used in [[Petscop 11]], [[Petscop 15]], [[Petscop 23]], and [[Petscop Soundtrack]].
+
+==Function==
+The [[wikipedia:PlayStation_controller|PlayStation controller]] buttons have set combinations that refer to a phoneme. These phonetic combinations refer to a dictionary table that output words that have the given phonetics. Errors in input (including words not in the dictionary table) will result in a "Not In Table" message.
+
+<gallery>
+P11 talk1.png|Marvin writing "Hello" in P2 to TALK
+P11 talk2.png|The result of Marvin's previous inputs
+p15 not in table.png|The "Not In Table" message, occurring during Petscop 15
+</gallery>
+===Combinations===
+''Only showing known combinations.''
+
+<center>
+{| class="wikitable" style="text-align: center"
+!Buttons
+![[File:PS-R2.png]]<br>R2
+![[File:PS-R1.png]]<br>R1
+![[File:PS-L2.png]]<br>L2
+![[File:PS-L1.png]]<br>L1
+!N/A
+|-
+![[File:PS-cross.png]]<br>Cross
+|long "u" / u:<br>''t<u>u</u>ne''
+|long "a" / eɪ<br>''b<u>ay</u>''
+|"mm" / m<br>''<u>m</u>ake''
+|"ss" / s<br>''<u>s</u>ip''
+|"ah" / ɑ<br>''b<u>a</u>r''
+|-
+![[File:PS-square.png]]<br>Square
+|"puh" / p<br>''<u>p</u>ut''
+|
+|"nn" / n<br>''<u>n</u>ew''
+|"zz" / z<br>''fu<u>s</u>e''
+|short "a" / æ<br>''c<u>a</u>p''
+|-
+![[File:PS-circle.png]]<br>Circle
+|"tuh" / t<br>''<u>t</u>urn''
+|long "e" / i:<br>''b<u>ee</u>''
+|"rr" / r<br>''<u>r</u>oad''
+|
+|
+|-
+![[File:PS-triangle.png]]<br>Triangle
+|"buh" / b<br>''<u>b</u>ook''
+|short "i" / ɪ<br>''k<u>i</u>ss''
+|"luh" / l<br>''<u>l</u>ook''
+|"sh" / ʃ<br>''<u>sh</u>ut''
+|"aw" / ɔ:<br>''c<u>a</u>ll''
+|-
+![[File:PS-left.png]]<br>Left
+|"th" / θ<br>''<u>th</u>eme''
+|
+|short "u" / ʌ<br>''b<u>u</u>ck''
+|"ng" / ŋ<br>''si<u>ng</u>''
+|short "e" / e<br>''b<u>e</u>t''
+|-
+![[File:PS-right.png]]<br>Right
+|"dh" / ð<br>''o<u>th</u>er''
+|"uw" / ʊ<br>''c<u>ou</u>ld''
+|
+|"gh" / g<br>''<u>g</u>ive''
+|"er" / ɚ<br>''play<u>er</u>''
+|-
+![[File:PS-up.png]]<br>Up
+|"ff" / f<br>''<u>f</u>ast''
+|long "o" / əʊ<br>''c<u>o</u>al''
+|"y" / j<br>''<u>y</u>es''
+|"jh" / dʒ<br>''<u>j</u>ust''
+|long "i" / aɪ<br>''t<u>i</u>me''
+|-
+![[File:PS-down.png]]<br>Down
+|"vv" / v<br>''<u>v</u>ery''
+|
+|"hh" / h<br>''<u>h</u>at''
+|"kuh" / k<br>''<u>c</u>ash''
+|"a" / eə<br>''th<u>e</u>re''
+|-
+![[File:PS-start.png]]<br>Start
+|"duh" / d<br>''<u>d</u>oor''
+|
+|"wuh" / w<br>''<u>w</u>ind''
+|"ch" / ʈʃ<br>''<u>ch</u>ime''
+|"uh" / ə<br>''b<u>u</u>n''
+|}
+</center>
+
+==Notes==
+Only [[Marvin]], "[[Paul#Pall|Pall]]", and [[Tiara]] have been seen using the P2 to TALK system. Marvin appears to be the most experienced with the system, inputting words the fastest. "Pall" is the slowest, and their errors indicate inexperience. Tiara inputs the combinations at a midrange speed (though faster in Petscop Soundtrack), likely to having some time in use.  
+
+Most names are not in the dictionary table. "Marvin" results in an error. Some names such as "[[Paul]]" and "Belle" have homophones such as "pall" and "bell", respectively, that are output instead. Others such as "[[Tiara]]" are otherwise actual words. The one known exception case is "[[Lina Leskowitz|Lina]]", though it outputs as "Boss".
+
+In [[Petscop 12]], when [[Marvin]] is seen repeating the same inputs from the [[recording|demo recording]] shown in [[Petscop 11]], his messages sent via P2 to TALK are absent, which may indicate that P2 to TALK was not accessible to the player at the time Petscop 12 was recorded.
+
+==Resources==
+* [[P2 to TALK/Alternate table|Alternate combination table]]
+* [[P2 to TALK/Vocabulary|Words using P2 to TALK shown in the Petscop episodes]]
+
+[[Category:Game mechanics]]

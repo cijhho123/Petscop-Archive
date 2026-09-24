@@ -1,0 +1,3 @@
+to clarify If I may,
+PS1 games could allow a player to save at any point, but they would still have to bring up the menu, select a save slot and save.
+There however was no random auto saving like in games now-a-days, unless the game had specific plotted checkpoints.

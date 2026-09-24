@@ -1,0 +1,23 @@
+{{Infobox episode
+|image = Thumb21.jpg
+|link = https://youtu.be/5pq0NeOMEGw
+|upload = April 21, 2019<br>4:01:22 PM (UTC-4)
+|runtime = 3 minutes 9 seconds
+|previous = [[Petscop 20]]
+|next = [[Petscop 22]]
+}}
+'''Petscop 21''' was uploaded at approximately 16:00 (UTC-4) on April 21, 2019.
+
+The description of the video reads "The Sign".
+
+==Summary==
+The entire video is simply the player character, presumably controlled by [[Care]], either walking around signs or moving randomly in the sign hallway in [[Even Care]]. No effort is made to exit the room or read a sign. 
+
+The [[gen]] is 8 and the title of the [[recording]] is "care-dancing-sign".
+
+==Theories==
+"The Sign" is a song by Ace of Base.<ref>[[Wikipedia:The Sign (song)]]</ref> When playing the song along with the video, the movements match up to the song and lyrics. It is possible the point of the recording was to show Care “dancing” to the song, likely listened to at the same time outside of the game. 
+
+==References==
+<references/>
+{{VideoNav}}

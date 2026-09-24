@@ -1,0 +1,31 @@
+{{Infobox episode
+|image = Thumb13.jpg
+|link = https://youtu.be/2ZqR5StCDt0
+|upload = March 11, 2018<br>5:43:21 PM (UTC-4)
+|runtime = 7 minutes 6 seconds
+|previous = [[Petscop 12]]
+|next = [[Petscop 14]]
+}}
+'''Petscop 13''' was posted on March 11, 2018 with a video length of 7:06. 
+
+In this episode, [[Paul]] uses the bucket in the [[house]] to collect several additional [[pieces]], and later discovers how to catch [[Roneth]].
+
+''A transcript for this episode can be accessed at [[{{PAGENAME}}/Transcript]].''
+
+==Synopsis==
+The video starts off with [[Paul]] in the [[house]]. The ''demo'' text is present at the top of the screen. Paul discovers a [[teal tool]] on the road, and captures it using the bucket from the house. Afterwards, he brings the bucket back into the house, and the tool allows Paul to collect the pieces from the table near [[Care]]'s door.
+
+The video cuts to [[Even Care]], where Paul has created a new save file. He brings the bucket from [[Randice]] & [[Wavey]]'s room into [[Roneth]]'s room, and catches Roneth in a way similar to how he captured the tool outside of the house.
+
+After reading Roneth's description, Paul proceeds to catch the remaining pets in Even Care. The game then displays a congratulatory message:
+<blockquote><poem>
+Congratulations ... you caught every pet in Even Care (aside from [[Toneth]], who isn't here yet).
+You have seen everything in the game, so far, but there will obviously be more.
+It's a growing organism.
+Your controller inputs will be useful, but your feedback will be even more useful.
+Please leave the Playstation on when you leave. You can stand up now.
+</poem></blockquote>
+
+Before the video ends, the sound of a car door opening and then closing can be heard.
+
+{{VideoNav}}

@@ -1,0 +1,84 @@
+{{Improve|Add timestamp reference markers and more action details}}
+:''['''CUT''']''
+
+[Wavering tone]
+
+<blockquote><poem>
+Hi <span id="purple">Belle</span>.
+You're free!
+I left these messages for you to look at, in case you were ever rescued.
+So, while you walk around, looking for something to do, I'll come up periodically.
+When the messages run out, I'll be out of your hair forever and ever.
+</poem></blockquote>
+
+:''['''CUT''']''
+
+<blockquote><poem>
+<span id="gravepink">Michael Hammond</span>
+1988 — 1995
+Mike was a gift.
+</poem></blockquote>
+ 
+[Wavering tone]
+
+<blockquote>
+You've apparently been running Petscop nonstop for <span id="red">553758221</span> seconds, or <span id="blue">153822</span> hours.<br>
+That looks dubious to me. What do you think?
+</blockquote>
+ 
+[Wavering tone]
+ 
+<blockquote>
+Are you still sitting on a chair?<br>
+Can you still look around the room? Is there still a room?
+</blockquote>
+
+[Wavering tone]
+ 
+<blockquote>
+This is the Child Library.<br>
+You're not family, so I didn't add your traits to the face system.
+</blockquote>
+ 
+[Chute interacted with]
+ 
+<blockquote>
+That means I didn't add your eyes, or your eyebrows, or your nose.
+</blockquote>
+
+:''['''CUT''']''
+ 
+[Wavering tone]
+
+<blockquote>
+Don't get lost.
+</blockquote>
+
+:''['''CUT''']''
+
+[Wavering tone]
+
+<blockquote>
+Happy birthday <span id="purple">Belle</span>!<br>
+I'm
+</blockquote>
+
+:''['''CUT''' - cuts off end of previous message]''
+
+[Wavering tone]
+
+<blockquote><poem>
+I'm calling you <span id="purple">Belle</span> because that's who you are.
+You might be confused as to what happened.
+I was overeager before, and started calling you <span id="purple">Tiara</span> prematurely.
+I created a space in the menu for you, still unused now.
+Then I put you inside the machine, and played the second movement of Stravinsky's Septet on the Needles.
+I played it wrong, but that would have been okay.
+If you hadn't given up halfway, you would be <span id="purple">Tiara</span>. This is not what happened, and now I'm gone.
+</poem></blockquote>
+
+:''[Pause menu opened]''
+
+:'''''Pause menu message:''' Demo Recording''
+
+[[Category:Transcripts]]

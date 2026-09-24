@@ -1,0 +1,49 @@
+<!--<center>
+'''TRANSLATIONS'''<br>
+[[Petscop 18/Transcript|English (original)]] • [[Petscop 18/Transcript-ES|Español]]
+</center>
+----
+-->
+:''[In [[secret menu]]]''
+
+:''<nowiki>[</nowiki>"[[Extra Stuff]]" selected]''
+
+'''0:12'''<br>
+''01 guardian_history''
+
+''02 amber_history''
+
+''03 randice_history''
+
+''04 toneth_history''
+
+''05 pen_history''
+
+''06 hudson_history''
+
+''07 wavey_jumping''
+
+''08 gift_plane_map''
+
+'''1:04'''<br>
+''09 the_house''
+
+'''1:30'''
+:''[Music fades out]''
+
+:''[House moves closer]''
+
+'''1:55'''
+:''[House moves closer]''
+
+'''2:02'''
+:''[Sound clip plays]''
+
+'''2:11'''
+:''[House moves closer]''
+
+'''2:25'''
+:''[House moves closer]''
+ 
+:''['''Video ends''']''
+[[Category:Transcripts]]

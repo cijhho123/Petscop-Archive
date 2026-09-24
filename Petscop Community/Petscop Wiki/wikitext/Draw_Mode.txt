@@ -1,0 +1,21 @@
+[[File:Texture-editor-p15.png|thumb|300px|The part of the texture editor seen in [[Petscop 15]].]]
+'''Draw Mode''' is a hidden menu that appears to be a [[Wikipedia:VRAM|VRAM]] viewer and rudimentary texture editor. It is first directly shown in [[Petscop 15]], but may have been used by [[Players|other players]] as early as [[Petscop 5]].
+
+It can be accessed by a code input on the P1 controller:
+{{P2|l2|square|r1|triangle|r2|up|r2|circle|r1|circle}}
+With [[P2 to TALK]] (on the P2 controller), this phonetically spells "Nifty".
+
+During Petscop 15, the player is taught the code to access the texture editor by [[Tiara]]. Tiara appears to make use of it again in [[Petscop 23]], and is likely to have been using it through the [[pink tool]] in Petscop 5 and [[Petscop 7]].
+
+==Function==
+[[File:Draw Mode Writing.png|thumb|The player drawing lines onto the game's textures via Draw Mode]]
+Textures recently accessed by the player (or that possibly may be soon accessed) are displayed in an atlas. (In Petscop 15, most of the textures come from the school, where the code was used.) 
+
+[[File:Draw Mode Effects.png|thumb|Lines drawn via Draw Mode are visible in the game]]
+A pencil tool can be used on the textures that can draw lines in pink. After exiting the menu, the drawings will be retained on the textures as they are shown in game.
+
+Sprites do not appear to be included in the atlas.
+
+== Theories ==
+Someone could have possibly used Draw Mode to modify the [[red tool]] to communicate with the player and recolor it pink.
+[[Category:Game mechanics]]

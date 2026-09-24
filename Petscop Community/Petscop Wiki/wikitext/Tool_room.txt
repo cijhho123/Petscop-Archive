@@ -1,0 +1,47 @@
+{{Unofficial name}}
+[[File:Tool room.png|thumb]]
+The '''tool room''' is a location under the [[Newmaker Plane]], located to the left from the upper path out of the [[grave room]]. It is most notably where the [[red tool]] can be found.
+
+== Locations ==
+=== Exterior ===
+The exterior of the entrance to the tool room has a dark, animated image. 
+Inside the image, two shapes in yellow and red have a few frames of animation of connecting and disconnecting. These shapes are later seen on the box of the [[Board_games#Accident|Accident board game]].
+<gallery>
+Tool room exterior.png|Outside the tool room
+Shapes outside tool room.png|The shapes in the image
+Shapes outside tool room brightened.png|The shapes in the image (brightened)
+</gallery>
+
+=== Interior hall ===
+The interior hall area of the tool room has a few potted plants, along with illegible notes and drawings of [[blue tool]]s on the walls.
+
+<gallery>
+Drawings in tool room.png|Drawings found in the tool room
+Tool room interior.png|Walking up to the tool
+</gallery>
+
+=== Red tool ===
+:{{Main|Red tool}}
+A large red tool stands upright in the far room. The player can interact with the red tool to ask it questions. 
+
+Sometimes, the tool turns [[pink tool|pink]] and behaves differently than it normally does.
+
+<gallery>
+Tool.png|The red tool
+</gallery>
+
+=== Screen ===
+If the player walks behind the tool, they can interact with a screen to observe the [[windmill]]. The view of the screen is based on the position of a camera on top of the Newmaker Plane.
+
+While [[Marvin]] is playing during [[Petscop 20]], the camera moved be moved up and down, and turned horizontally. A [[symbol block]] can be found in the tool room by rotating the camera to face the opposite direction.
+
+<gallery>
+Tool room screen.png|The screen prompt
+Windmillscreen.png|View of the windmill from the screen
+Symbol block tool.png|Symbol block
+</gallery>
+
+== Theories ==
+The black camera may be analogous to a player being a [[shadow monster man]], which is what enables it to see the windmill while it is in this state. It only turns red in [[Petscop 6]] after the windmill disappears from the screen.
+
+{{LocationNav}}

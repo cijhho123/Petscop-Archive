@@ -1,0 +1,10 @@
+{| class="wikitable" width="100%" style="border:solid black 3px;"
+!colspan="2" align="center" style="padding:5px; background:rgba(73,72,72,.2); border-bottom:3px solid black;"|<center><span style="font-size:24px; font-weight:normal; font-family:'PetscopWide',monospace;">[[:Category:Locations|LOCATIONS]]</span></center>
+|-
+!width=20% style="padding:5px; border-right:3px solid black;"|<span style="font-size:20px; font-weight:normal; font-family:'PetscopWide',monospace;">Gift Plane</span>
+|[[Gift Plane]]{{·}}[[Even Care]]{{·}}[[Odd Care]]{{·}}[[Work Zone]]
+|-
+!style="padding:5px; border-right:3px solid black;"|<span style="font-size:20px; font-weight:normal; font-family:'PetscopWide',monospace;">Newmaker Plane</span>
+|[[Newmaker Plane]]{{·}}[[Office]]{{·}}[[Grave room]]{{·}}[[Tool room]]{{·}}[[Quitter's Room]]{{·}}[[Child Library]]{{·}}[[Windmill]]{{·}}[[Party room]]{{·}}[[House]]{{·}}[[School]]
+|}
+<includeonly>{{#ifeq:{{NAMESPACENUMBER}}|0|[[Category:Locations]]}}</includeonly><noinclude>[[Category:Navboxes]]</noinclude>

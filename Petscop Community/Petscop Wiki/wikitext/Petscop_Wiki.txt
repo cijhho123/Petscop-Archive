@@ -1,0 +1,42 @@
+<mainpage-leftcolumn-start />
+==Welcome to the Petscop Wiki==
+The '''Petscop Wiki''' is a community-edited encyclopedia for documenting information on the ''Petscop'' webseries, along with relevant findings and credible theories.
+
+'''Petscop''' is a webseries telling a story about a mysterious PlayStation game of the same name. The videos are presented in a [[wikipedia:Let's Play|Let's Play]] format, posted on YouTube on [https://www.youtube.com/c/Petscop a channel titled "Petscop"], narrated by a person named Paul. ''For more information about the Petscop series, see [[Petscop]].''
+
+== Index ==
+{| border="0" style="background: rgba(0,0,0,0);"
+|-
+|<div class="navigationimagescharacters">[[File:Characters.png|center|link=Category:Characters]]</div>
+|<div class="navigationimageslocations">[[File:Locations.png|center|link=Category:Locations]]</div>
+|-
+|<div class="navigationimagesobjects">[[File:Objects.png|center|link=Category:Objects]]</div>
+|<div class="navigationimagesgameplay">[[File:Gameplay.png|center|link=Category:Game mechanics]]</div>
+|-
+|<div class="navigationimagestheories">[[File:Theories.png|center|link=Category:Theories]]</div>
+|<div class="navigationimagestranscripts">[[File:Transcripts.png|center|link=Category:Transcripts]]</div>
+|}
+
+<mainpage-endcolumn />
+
+<mainpage-rightcolumn-start />
+[[File:Petscop logo.png|thumb|298px|right]]
+
+<font size="4">'''External Links'''</font>
+----
+*'''[https://www.youtube.com/c/Petscop Official Petscop Channel]'''
+*[https://www.reddit.com/r/Petscop/ r/Petscop]
+
+
+<font size="4">'''Basic Rules'''</font>
+----
+*Be friendly and respectful of other users.
+*Trolling, vandalism, and other bad-faith contributing is prohibited.
+*Avoid intentionally being misleading.<br>''No gamejacking.''
+*No doxxing, discussion of contact, or harassment towards real people or organizations.
+
+Please read [[MediaWiki:Community-corner|Community Messages]] for more information and advisories.
+
+<mainpage-endcolumn />
+__NOTOC__ __NOEDITSECTION__
+[[Category:Browse]]

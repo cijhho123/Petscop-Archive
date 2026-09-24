@@ -1,0 +1,18 @@
+[[Tarnacop]] machines are computers that are seen several times throughout [[Petscop|the series]]. Very little is known about them, however they seem to be closely tied to [[Garalina]] and the development of [[Petscop_(game)|Petscop]].
+
+== History ==
+A Tarnacop machine is first seen in the [[garage]] during [[Petscop 14]]. When [[Paul]] interacts with it, it displays low resolution images of the [[Petscop Discovery Pages]], along with an image of the [[guardian]] standing in the [[Newmaker Plane]]. The machine appears to be running [[wikipedia:Internet Explorer 5|Internet Explorer 5]] under [[wikipedia:Windows 9x|Windows 9x]].
+
+During [[Petscop 23]], when the player explores the [[School#Third_floor|school's third floor]], eight Tarnacop machines can be found in front the numbered doors. Each of them are displaying the Garalina logo, rotating counter-clockwise, except for the seventh one, which is displaying an image of the [[windmill]] interior. After the player uses the [[green tool]] to collect the [[pieces]] in the room, all of the Tarnacop machines appear to lose power.
+
+Later in Petscop 23, the Tarnacop machine from the garage can be seen in a [[loading screen]].
+
+The [[Petscop Soundtrack]]'s description states that the tracks were "Recovered from a Tarnacop machine."
+
+== Gallery ==
+<gallery>
+Captura de pantalla (147).png|The Tarnacop computer showcasing one section of the discovery pages website during Petscop 14.
+Guardian screenshot on Tarnacop machine.png|The Tarnacop computer showing the guardian in the Newmaker Plane during Petscop 14.
+School_Tarnacop.png|One of the eight Tarnacop machines on the school's third floor, from Petscop 23.
+Loading-sky.png|A Tarnacop machine in a loading screen, from Petscop 23.
+</gallery>

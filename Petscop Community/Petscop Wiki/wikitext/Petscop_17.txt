@@ -1,0 +1,29 @@
+{{Infobox episode
+|image = Thumb17.jpg
+|link = https://youtu.be/Ew4HcmqPWhw
+|upload = April 21, 2019<br>12:00:11 AM (UTC-4)
+|runtime = 13 minutes
+|previous = [[Petscop 16]]
+|next = [[Petscop 18]]
+}}
+'''Petscop 17''' was uploaded at midnight (UTC-4) on April 21, 2019.
+
+''A transcript for this episode can be accessed at [[{{PAGENAME}}/Transcript]].''
+==Synopsis==
+
+The video begins in the garage, with an empty text box visible on screen, like in the previous video.
+
+It is unclear whether Paul is the one controlling the game. The video does not contain any indication that it's a recording at this point in time, and the video contains no narration from Paul.
+
+The [[pause menu]] is opened. "The ghost room is a ship in the bottle" is displayed under the piece counter.
+
+The player navigates to [[Sound Test]] and enters an esoteric code in order to access the [[secret menu]]. From here, the player chooses [[Room Impulse]], selects the [[house]], then sets the "[[Gen]]." field to 10. Upon pressing "Play," the player is taken back to the game screen where the birthday variation of the house is loaded in.
+
+A large number of players appear to be walking around the room. They each appear as [[guardian|guardians]], but with red triangular heads, identical to how [[Paul]] looked during [[Petscop 12]]. After using a dial on the lower left corner of the screen to focus numerous guardians, the player eventually selects one which leaves the house.
+
+Outside of the house, the movements of each guardian are reversed. The player focuses the same same guardian that was selected previously. Shortly afterwards, a text box appears, telling the reader that they are [[Carrie Mark]], and inquiring about what happened on November 11th of 1997, asking the player to retrace their steps.
+
+While traversing the [[Newmaker Plane]], the player finds [[Lina Leskowitz]]'s grave.
+
+Eventually, the player reaches the underground road, and begins walking North. The video then ends.
+{{VideoNav}}

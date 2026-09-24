@@ -1,0 +1,82 @@
+{{OOU}}
+[[File:Tony Twitter profile picture.png|thumb|Tony's profile picture on Twitter/X]]
+'''Tony Domenico''' (also known as '''Mr. Yes''' and '''Thrompd''') is the creator of the [[Petscop]] web series. He mainly communicates publicly through Twitter at [https://x.com/pressedyes @pressedyes].
+
+In the [[Book of Baby Names]] and in the list of [[recording]]s, one of the testers is named Tony, with the description being "dummy". Tony later referenced this when he came forward as being the creator of Petscop.<ref>https://x.com/pressedyes/status/1195159037819719680</ref>
+
+== Creation of Petscop ==
+Petscop was originally presented with its creator being unknown. While various theories were made over the series' run on who may have been behind Petscop, Tony was not found until November 2019, which was coincidentally when he planned to come forward about Petscop.<ref>https://x.com/pressedyes/status/1195323320180387840</ref>
+
+Originally, on November 13, 2019, Tony jokingly tweeted "I made PetCop".<ref>https://x.com/pressedyes/status/1195159037819719680</ref> Coincidentally, not knowing about this tweet, on November 14, u/Mewmore shared on Reddit a video on YouTube of the game "'''Nifty'''" from 2013, which contained elements from Petscop.<ref>https://www.youtube.com/watch?v=JKdQ0ZBS_f0</ref>
+
+On November 14, 2019, Tony more clearly came forward about being the creator of Petscop, and shared some images of his work to prove it. He also further clarified that Petscop had concluded "except for one thing" (which was later shown as the [[Petscop Soundtrack]]).<ref>https://x.com/pressedyes/status/1195327939312791552</ref> On November 15, he further proved that he was the creator by modifying the [[Channel]]'s description.<ref>https://x.com/pressedyes/status/1195329959650381824</ref>
+
+After this, Tony has gradually shared some additional information about Petscop's development on Twitter, as well as within interviews.<ref>https://egmnow.com/theres-something-hiding-in-petscop/</ref>
+
+=== Development of Petscop ===
+The earliest known direct work on Petscop is from December 2015, based on an unlisted YouTube video titled "'''Sprite'''"<ref>https://www.youtube.com/watch?v=L29O3JEU47c</ref> that Tony shared on Twitter/X on November 9, 2021.<ref>https://x.com/pressedyes/status/1458049038071238664</ref> Petscop was programmed in C++ with Cinder.<ref>https://x.com/pressedyes/status/1214571474280947716</ref> The real Petscop program is technically playable, but not as a real game; Tony has stated that he doesn't plan to release it.<ref>https://x.com/pressedyes/status/1371948849183535107</ref>
+
+Around the time that Tony came forward about Petscop, one of the images he shared was captioned "Care". This image resembles [[Caskets|Casket 2]].<ref>https://twitter.com/pressedyes/status/1195148462041583616</ref>
+
+On November 14, 2019, Tony showed a "''Care virtual pet''" concept from 2013.<ref>https://x.com/pressedyes/status/1195117520795185157</ref> He later explained on November 25, that this was an early idea for Petscop.<ref>https://x.com/pressedyes/status/1199049644757700610</ref> On November 18, 2019, Tony went into detail on how Petscop used input [[recording]]s, and how they shaped the development of Petscop. They were originally created as an aid due to difficulties with screen capturing software. The implementation allowed for Tony to modify aspects of the game after the gameplay was recorded; later, this was noted to allow for the inputs to play back in a "different world".<ref>https://x.com/pressedyes/status/1196616836277817344</ref> He apparently lost the original input recordings for [[Petscop 1]] and [[Petscop 4]].<ref>https://x.com/pressedyes/status/1507798673593352202</ref>
+
+On November 27, 2019, Tony mentioned the Care sound effects in the [[Sound Test]] were from recordings of him around 1997. The next day, he additionally published the [[Petscop Soundtrack]].<ref>https://x.com/pressedyes/status/1199913949749268480</ref>
+
+Starting in early December 2019 and finishing on December 16, 2019, Tony updated the videos on the [[channel]] to have subtitles. The next day, he enabled [[Wikipedia:YouTube#Uploading|Community Contributions]] for fan translations of the subtitles. This feature was removed from YouTube entirely in September 2020, preventing further translations from being added. On December 31, 2019, Tony shared a video of an early concept for a [[Garalina]] logo intro.<ref>https://x.com/pressedyes/status/1212102498523254784</ref>
+
+On March 26, 2022, Tony discussed that he might recreate some of the Petscop videos.<ref>https://x.com/pressedyes/status/1507798671823413250</ref> However, on July 30th, 2023 stated that he is no longer interested in re-releasing Petscop in any form.<ref>https://x.com/pressedyes/status/1685433774656417792</ref>
+
+== Relevant past works ==
+Some of Tony's previous works contain elements that were used in Petscop or that had inspiration taken from for Petscop.
+
+:''<u>Tony has stated that these other works are '''NOT''' canon to Petscop.</u>''<ref>https://x.com/pressedyes/status/1195323477584158720</ref>
+
+=== Nifty ===
+:''"Nifty" redirects here. For the Petscop gameplay feature, see [[Draw Mode]].''
+Nifty is a game Tony released in July, 2007. In Nifty, the fictional development company of the video games developed in its story is named [[Garalina]], which was reused for Petscop. The tiles in Nifty depict symbols that were reused for the room background symbols for [[Even Care]] and the [[symbol blocks]]. The word "nifty", when typed out with [[P2 to TALK]] inputs on the player 1 controller, is a cheat code that opens [[Draw Mode]]. One of the music tracks in the later part of Nifty is the basis of the "explore" song in Petscop, played during [[Room Impulse]]. The sound that plays when the code for the [[secret menu]] is successfully entered is reused directly from Nifty, where it is originally used as a jingle in certain circumstances.
+
+The lore of Nifty consists of a meta-narrative, which claims that its developer, '''Garalina''', originally released a game called "''Nift''" late in the year 2000. After a disaster took place in which players of Nift would commit suicide, Garalina quickly recalled all copies of the game, and went bankrupt within a couple of months. As the player progresses through puzzles in the game, text files are created which are written as press releases from Garalina. The readme file explains that Nift originally had a kind of memetic effect on the player, causing them to be personally attached to the game's mascot. When the mascot dies halfway through the game, the player became so emotionally shattered that they committed suicide. The game Nifty is a modified version of the game that did not have this memetic effect. 
+
+Nifty is how Tony was mainly found as being the identity of the creator of Petscop after an old clip of Nifty from August 2007 was found on YouTube<ref>https://www.youtube.com/watch?v=sRGScErzcF8</ref> and shared on Reddit, though he had quietly announced that he was the creator coincidentally around the same time Nifty was found. Tony has officially stated that Nifty is not at all canon to Petscop.
+
+Nifty can be found and downloaded on Tony's website [https://thrompd.hinchy.co/ here].
+
+<gallery>
+Nifty tiles.png|Tiles in Nifty, which include symbols that can also be seen in Petscop.
+Nifty Garalina logo.png|Garalina's logo from the "Helper Maker" program included with Nifty.
+</gallery>
+
+=== Tapers ===
+Tapers is a story that Tony posted in 2009. Some elements of Tapers were used to develop Petscop's story, though they were taken in a different direction from Tapers. These elements can be seen to have been possibly used for Petscop:
+* One part of the story closely follows a man named Marvin. He follows around a young girl named Care, though this Care is not related to Marvin. Marvin later kidnaps Care and takes her to an abandoned school.
+** At one point in the story, Marvin refers to Care with various incorrect names, one of which is Carrie.
+** After being taken to the abandoned school, Care is initially in a classroom with a blackboard that has words written on it.
+** A machine is in one part of the abandoned school.
+* In some instances, Care is described as being cold within her room.
+* Care's house is implied to have originally been painted green, and painted over with black paint.
+* Care's mother is very worried about a different man (the narrator) that had been following Care around, and tells Care to stay away from him.
+
+Tapers is not canon to Petscop.
+
+Tapers can be found on Tony's website [https://thrompd.hinchy.co/tapers/ here].
+<br/>'''''WARNING:''' Tapers contains descriptions of violent and gory scenes; if sensitive to this type of content, please read with caution.'' 
+
+=== Other ===
+==== Tarnacop ====
+"Tarnacop" was a term used by Tony and some of his friends as a recurring theme. At one point after he came forward about Petscop, he shared an image on Twitter with the caption "Tarnacop robot 2007", which depicts a robot with the same logo shown on the [[Tarnacop]] machines in Petscop.<ref>https://x.com/pressedyes/status/1195136971976388608</ref>
+
+==== Reused characters ====
+As early as 2009,<ref>https://x.com/pressedyes/status/1365507419636453376</ref> Tony has had characters with the same names as Petscop characters that he has reused on multiple occasions. Most notably are of Care and Marvin, mainly within Tapers. The depictions of these characters have changed over time.
+
+Around the time that Tony came forward about Petscop, he shared multiple images of old depictions of characters named Marvin and Care,<ref>https://x.com/pressedyes/status/1195117325634150400</ref><ref>https://x.com/pressedyes/status/1195126318347763713</ref> sometimes used in other projects. In one project from 2013 whose image was shared on Twitter, Care (closely resembling the depiction of [[Care]] in Petscop) is mentioned to be a "virtual pet" in a school basement.
+
+In February 2021, Tony shared an image of a mockup from 2012 of an "adventure game/visual novel" on Twitter. He mentions that the game would have involved Care, Marvin, Mike, and Rainer.<ref>https://x.com/pressedyes/status/1365502977532919809</ref> He mentions in replies to the tweet that Petscop's characters of Paul and Tiara did not exist before Petscop.<ref>https://x.com/pressedyes/status/1365504689408778241</ref>
+
+== Trivia ==
+* On December 7, 2019, Tony discussed that he did make the [[Petscop Discovery Pages]] and planned to publicize them, but the idea was scrapped.<ref>https://x.com/pressedyes/status/1203507474894069760</ref><ref>https://web.archive.org/web/20191208045131/https://twitter.com/pressedyes/status/1203507474894069760</ref>
+* On August 27, 2020, Tony mentions that the "'''Caught'''" text, which appears when catching a [[pet]], was originally going to be "''Gotcha''".<ref>https://x.com/pressedyes/status/1299053420079349761</ref>
+* On March 12, 2021, Tony mentioned in a reply to another user on Twitter/X that the sprite histories in [[Extra Stuff]] were the real Developments of the sprites.<ref>https://x.com/pressedyes/status/1370342296831557636</ref> 
+* On December 24, 2021, Tony mentions the "'''mike2'''" recording was originally going to be named "''mike-hunt''".<ref>https://x.com/pressedyes/status/1474477721145196548</ref>
+
+== References ==
+<references/>

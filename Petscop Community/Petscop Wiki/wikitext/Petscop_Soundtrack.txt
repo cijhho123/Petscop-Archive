@@ -1,0 +1,68 @@
+{{Infobox episode
+|image = ThumbOST.jpg
+|link = https://youtu.be/JB82_-Ngucc
+|upload = November 28, 2019<br>6:54:57 AM (UTC-5)
+|runtime = 44 minutes 44 seconds
+|previous = [[Petscop 24]]
+|next = 
+}}
+'''Petscop Soundtrack '''was uploaded on November 28, 2019.
+
+The video functions as a finale for [[Petscop]], along with providing a soundtrack.
+
+The description is mostly written in an in-universe perspective, describing the tracks being obtained from a "[[Tarnacop]] machine", though it also links to a resource to buy a high quality version of the soundtrack.
+
+''A transcript for this episode can be accessed at [[{{PAGENAME}}/Transcript]].''
+
+== Synopsis ==
+The majority of the video consists of timestamped music tracks and sections of compiled sound effects.
+
+At 42:03 in the video until the end, an in-game session of [[Tiara]] talking to "[[Pall]]" plays out through [[P2 to TALK]].
+
+== Video Description ==
+<blockquote>
+https://petscop.bandcamp.com/<br>
+<br>
+Recovered from a Tarnacop machine. To all involved, thank you. Track titles are the original source file names (aside from SFX 1 and SFX 2, which contain compiled sound effects).<br>
+<br>
+00:00 garalina<br>
+00:14 petscop<br>
+00:30 gift-plane<br>
+03:58 level1<br>
+07:40 level2<br>
+11:54 bathroom-tomb<br>
+13:07 credits<br>
+15:10 SFX 1<br>
+16:33 birthday<br>
+19:05 lost<br>
+20:22 driving<br>
+21:31 school<br>
+24:39 girl-world<br>
+25:14 counselor<br>
+27:09 explore-min<br>
+29:12 explore<br>
+33:05 bottom<br>
+38:10 SFX 2<br>
+<br>
+And now, the present:
+</blockquote>
+
+== Notes ==
+* The area shown as the track ''level2'' is played resembles the [[loading screen]] that appears during [[Petscop 20]] as the player exited [[Even Care]].
+* Some of the sound effects in ''SFX1'' and ''SFX2'' are [[Unused_content#Sound_Effects|not used]] anywhere else in the series.
+* Most of the SFX sections appear to play in the order of presentation in the [[Sound Test]] menu. This is not exact, as some entries are not in order.
+* The [https://petscop.bandcamp.com/album/petscop-soundtrack Bandcamp] page for the soundtrack lists its artist as "[[Rainer]]".
+* The word "Boss" in the gamepad language is displayed when the phonetic combination comes out as "[[Lina Leskowitz|Lina]]".
+* The thumbnail image appears to be the white sphere from the Sound Test superimposed on a pink background, which is in turn reminiscent of a [[loading screen]] with a black disc from [[Petscop 6]]. This image is also used for the Bandcamp album art, although cut in half to fit a square.
+* The bench and window in the final segment appears to be an exact mirror of the bench seen through a window in [[Petscop 9]], indicating the two locations are on the opposite sides of the same wall.
+
+== Theories ==
+While the track ''bathroom-tomb'' is not heard elsewhere in the series, it is the subject of several theories:
+* It has been speculated that [[Rainer]] committed suicide in the [[House#Bathroom|house's bathroom]].
+* As the track is played in the soundtrack video, the camera is focused on the dirt column in Randice & Wavey's room, emphasizing the similarities with this room's layout and that of the house.
+
+== External links ==
+* [https://petscop.bandcamp.com/album/petscop-soundtrack Petscop Soundtrack] on Bandcamp.
+* [https://daily.bandcamp.com/features/petscop-soundtrack-interview Behind the Music of “Petscop,” The Cursed Video Game That Never Was], interview with the creator of Petscop.
+
+{{VideoNav}}

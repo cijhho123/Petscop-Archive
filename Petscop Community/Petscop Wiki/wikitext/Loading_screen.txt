@@ -1,0 +1,191 @@
+'''Loading screens''' in [[Petscop (game)|Petscop]] appear for several seconds while certain rooms are being loaded.
+
+Some loading screens are very dark. Brightened versions of such loading screens may be found below.
+
+==List of loading screens==
+===Gift Plane===
+{| class = "wikitable"
+!Image
+!style="width: 7em"|Videos
+!Appearance
+|-
+|[[File:Loading1.png|200px]]
+|<u>[[Petscop 1]]</u><br />
+<sup>[https://youtu.be/6e6RK8o1fcs?t=50 0:50]</sup><br>
+<u>[[Petscop 20]]</u><br />
+<sup>[https://youtu.be/gRpCY8fr070?t=194 1:11]</sup>
+|Entering the [[Gift Plane]]
+|-
+|[[File:Loading2.png|200px]]
+|<u>Petscop 1</u><br />
+<sup>[https://youtu.be/6e6RK8o1fcs?t=109 1:49]</sup>
+
+Petscop 9<br />
+<sup>[https://youtu.be/nogEDJu2Z4c?t=10m8s 10:08]</sup>
+|Entering [[Even Care]]/[[Odd Care]]
+|-
+|[[File:Loading3.png|200px]]
+|<u>[[Petscop 9]]</u><br />
+<sup>[https://youtu.be/nogEDJu2Z4c?t=11 0:11]</sup>
+|Playing the first recording featuring Odd Care
+|-
+|[[File:Loading4.png|200px]]
+|<u>[[Petscop 19]]</u><br />
+<sup>[https://youtu.be/bwjvp_HJ62c?t=200 3:20]</sup>
+|Entering the [[gen]] 2 version of Even Care / opening "mike2" [[recording]]
+|}
+
+===Newmaker Plane===
+{| class = "wikitable"
+!Image
+!Brightened image
+!style="width: 7em"|Videos
+!Appearance
+!Description
+|-
+|[[File:Loading-nmp.png|200px]]
+|[[File:Loading-nmp-bright.png|200px]]
+|<u>Petscop 1</u><br />
+<sup>[https://youtu.be/6e6RK8o1fcs?t=7m24s 7:24]</sup>
+|Leaving Even Care and entering the [[Newmaker Plane]] (after entering the code from the [[note]])
+|[[Tiara]]'s head, obscured
+|-
+|[[File:Loading-under.png|200px]]
+|[[File:Loading-under-bright.png|200px]]
+|<u>[[Petscop 2]]</u><br />
+<sup>[https://youtu.be/teJDdkWHAdw?t=1m2s 1:02]</sup><br>
+[[Petscop 8]]<br>
+<sup>[https://youtu.be/XPDbQMGFUL8?t=153 2:33]</sup><br>
+[[Petscop 12]]<br />
+<sup>[https://youtu.be/y82EsETuMbM?t=272 4:32]</sup>
+|Entering the door to underneath the Newmaker Plane
+|Top-down view of the [[Quitter's Room]] furniture (non-mirrored side)
+|-
+|[[File:Loading-yard.png|200px]]
+|[[File:Loading-yard-bright.png|200px]]
+|<u>Petscop 2</u><br />
+<sup>[https://youtu.be/teJDdkWHAdw?t=4m15s 4:15]</sup><br>
+Petscop 12<br />
+<sup>[https://youtu.be/y82EsETuMbM 3:10]</sup><br>
+Petscop 17<br />
+<sup>[https://youtu.be/Ew4HcmqPWhw?t=729 12:09]</sup><br>
+Petscop 22<br>
+<sup>[https://youtu.be/iJtIcSyqYa4?t=570 9:30]</sup><br>
+|Entering or leaving the [[grave room]]
+|''Unknown'' - likely the [[School#Basement|school basement]] stairway
+|-
+|[[File:Loading-grass.png|200px]]
+|[[File:Loading-grass-bright.png|200px]]
+|<u>Petscop 2</u><br />
+<sup>[https://youtu.be/teJDdkWHAdw?t=11m22s 11:22]</sup><br>
+Petscop 4<br>
+<sup>[https://youtu.be/IwaRKux9eR8?t=9 0:09]</sup><br>
+Petscop 6<br>
+<sup>[https://youtu.be/c_zCl8GV_dE?t=258 4:18]</sup><br>
+Petscop 9<br>
+<sup>[https://youtu.be/nogEDJu2Z4c?t=180 3:00]</sup><br>
+Petscop 14<br>
+<sup>
+[https://youtu.be/OPzYMFdyKQQ?t=870 14:30]<br>
+[https://youtu.be/OPzYMFdyKQQ?t=1455 24:15]
+</sup><br>
+Petscop 17<br />
+<sup>[https://youtu.be/Ew4HcmqPWhw?t=687 11:27]</sup>
+|Entering the door up to the Newmaker Plane (near the Quitter’s Room) from either side
+|Grass on the Newmaker Plane
+|-
+|[[File:Loading-party.png|200px]]
+|[[File:Loading-party-bright.png|200px]]
+|<u>Petscop 9</u><br />
+<sup>[https://youtu.be/nogEDJu2Z4c?t=7m15s 7:15]</sup><br>
+[[Petscop 10]]<br />
+<sup>[https://youtu.be/RAM0bcJnijg?t=78 1:18]</sup>
+|Entering the [[Party room]], from [[Child_Library#Lina.27s_room|Lina's room]]
+|The party hat/cone shaped [[pieces|piece]]
+|-
+|[[File:Loading-house.png|200px]]
+|[[File:Loading-house-bright.png|200px]]
+|<u>[[Petscop 11]]</u><br />
+<sup>
+[https://youtu.be/nXHUw2nw6aA?t=6m28s 6:28]<br>
+[https://youtu.be/nXHUw2nw6aA?t=19m15s 19:15]<br>
+[https://youtu.be/nXHUw2nw6aA?t=19m49s 19:49]<br>
+[https://youtu.be/nXHUw2nw6aA?t=19m49s 22:34]
+</sup><br>
+Petscop 13<br />
+<sup>[https://youtu.be/2ZqR5StCDt0?t=16s 0:16]</sup><br />
+Petscop 14<br />
+<sup>
+[https://youtu.be/OPzYMFdyKQQ?t=15m10s 15:10]<br>
+[https://youtu.be/OPzYMFdyKQQ?t=1483 24:43]
+</sup><br />
+Petscop 17<br />
+<sup>
+[https://youtu.be/Ew4HcmqPWhw?t=146 2:26]<br>
+[https://youtu.be/Ew4HcmqPWhw?t=286 4:46]
+</sup>
+|Entering or leaving the [[house]]
+|''Unknown'' - possibly a piano with a rocking chair in front of it
+|-
+|[[File:Loading GiRL.png|200px]]
+|[[File:Loading GiRL bright.png|200px]]
+|<u>Petscop 11</u><br />
+<sup>[https://youtu.be/nXHUw2nw6aA?t=11m40s 11:40]</sup>
+|Appears prior to the first [[school]] recording
+|Girl image, from the second floor of the school
+|-
+|[[File:Loading-school.png|200px]]
+|[[File:Loading-school-bright.png|200px]]
+|<u>Petscop 11</u><br />
+<sup>[https://youtu.be/nXHUw2nw6aA?t=14m10s 14:10]</sup><br>
+Petscop 22<br>
+<sup>[https://youtu.be/iJtIcSyqYa4?t=787 13:07]</sup>
+|Entering the school
+|A figure’s head (possibly [[Marvin]]) with the [[Needles Piano]] in front of its face
+|-
+|[[File:Loading-class.png|200px]]
+|[[File:Loading-class-bright.png|200px]]
+|<u>Petscop 11</u><br />
+<sup>[https://youtu.be/nXHUw2nw6aA?t=25m32s 25:32]</sup>
+|Entering the room where the [[Needles Piano]] is played on the first floor of the school
+|A modified upright piano, with a PS1 controller (surrounded by a ring) attached to it. Possibly the same piano that appears in the [[ghost room]]s
+|-
+|[[File:Loading-garage.png|200px]]
+|[[File:Loading-garage-bright.png|200px]]
+|<u>[[Petscop 14]]</u><br />
+<sup>[https://youtu.be/OPzYMFdyKQQ?t=25m 25:00]</sup>
+|Entering the [[garage]] during [[Strange situation]]
+|A below-map view of the dirt pillar extending under [[Even_Care#Randice_.26_Wavey.27s_room|Randice & Wavey’s room]] in Even Care
+|-
+|[[File:Loading-marvnmp.png|200px]]
+|[[File:Loading-marvnmp-bright.png|200px]]
+|<u>[[Petscop 20]]</u><br />
+<sup>[https://youtu.be/gRpCY8fr070?t=194 3:14]</sup>
+|Leaving Even Care and entering the Newmaker Plane (after entering the code from the note) in the "marvin" recording
+|Unknown area in [[Unused content#.22Work Zone.22 .2F Level 2|Work Zone]], which appears to be round & in darkness but with a light source illuminating the only exit, which appears to be a revolving door.
+|-
+|[[File:Loading-caskets.png|200px]]
+|[[File:Loading-caskets-bright.png|200px]]
+|<u>Petscop 20</u><br />
+<sup>[https://youtu.be/gRpCY8fr070?t=468 7:48]</sup>
+|Entering a door to underneath the Newmaker Plane (alternate room) in the "marvin" recording
+|''Unknown'' - seemingly a photo of a chair or couch, with a pillow and box of crayons
+|-
+|colspan="2"|[[File:Loading-basementdemo.png|200px|center]]
+|<u>[[Petscop 23]]</u><br />
+<sup>[https://youtu.be/P-nUhmeo87I?t=13 0:13]</sup>
+|Appears prior to the school basement recording
+|A figure’s head (possibly Marvin) viewed from the side 
+|-
+|colspan="2"|[[File:Loading-garalina.png|200px|center]]
+|<u>Petscop 23</u><br />
+<sup>[https://youtu.be/P-nUhmeo87I?t=32 0:32]</sup>
+|Entering the third floor of the school ([[Computer room]])
+|The [[Garalina]] logo on a black background
+|-
+|colspan="2"|[[File:Loading-sky.png|200px|center]]
+|<u>Petscop 23</u><br />
+<sup>[https://youtu.be/P-nUhmeo87I?t=1204 20:04]</sup>
+|Appears after the Newmaker Plane brightens after the [[machine]] event in the school basement recording, prior to returning to the title screen
+|The garage, with the door open
+|}

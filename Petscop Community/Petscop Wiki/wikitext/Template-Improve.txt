@@ -1,0 +1,7 @@
+<div style="background-color:rgba(128,128,128,.15); border:5px solid #1D1E21; margin: 10px 5px 10px 5px; padding: 0px;border-radius:10px;">
+{|style="border-radius:10px"
+|width=2% style="background-color:#FF6A00;"|
+|style="padding:8px 0px 0px 10px"|
+'''This article is incorrect, outdated, or otherwise needs improvement.''' Help update the page by [{{SERVER}}{{localurl:{{NAMESPACE}}:{{PAGENAME}}|action=edit}} ''editing it''].
+{{#if:{{{1<includeonly>|</includeonly>}}}|<br><small>'''The specific issues are:''' ''{{{1}}}''</small>}}
+|}</div><includeonly>{{#ifeq:{{NAMESPACENUMBER}}|0|[[Category:Pages needing improvement]]}}</includeonly><noinclude>[[Category:Templates]][[Category:Notice templates]]</noinclude>

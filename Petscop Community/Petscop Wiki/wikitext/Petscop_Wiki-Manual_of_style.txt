@@ -1,0 +1,13 @@
+This is the manual of style for {{SITENAME}}.
+
+The goal of a manual of style is to lay down guidelines for how articles ''should'' look. This is so pages look consistent between one another, instead of having entirely different writing styles and content layouts.
+
+== Guidelines ==
+:''These guidelines are limited due to having few editors. This will be expanded upon later on.''
+* Do not make your own decision on how pages should look. You should be using these guidelines and referring to established pages. 
+**If you have an idea on how something about how pages look should change, ''propose it first'' to have the community input on it.
+* Check out how other pages are written to get an idea on how to format new pages or additional sections to pages.
+* Use American English and avoid writing in a casual manner.
+* In cases where words are written using unconventional capitalization for stylistic purposes (e.g. "GARALINA", "TOOL" or "GiRL") the grammatically correct capitalization should be used instead.
+** This is intended to keep the style consistent with formal writing within the series itself. For instance, "tool" is not written in uppercase letters in video descriptions or subtitles, and "Girl" uses regular capitalization in sound test ("Girl World").
+* Unless something is directly shown within the series itself, all speculative writing should be kept within an article's '''theories section'''.

@@ -1,0 +1,5 @@
+[[wikipedia:{{{1}}}|{{{1}}}]]
+<noinclude>
+==Documentation==
+<nowiki>{{Wikipedia}}</nowiki> is simple; it creates a simple link to the Wikipedia article specified, and saves time.
+[[Category:Templates]]</noinclude>

@@ -1,0 +1,7 @@
+{| class="wikitable" width="100%" style="border:solid black 3px;"
+! colspan="2" align="center" style="padding:5px; background:rgba(73,72,72,.2); border-bottom:3px solid black;"|<center><span style="font-size:24px; font-weight:normal; font-family:'PetscopWide',monospace;">[[:Category:Episodes|EPISODES]]</span></center>
+|-
+| [[File:Petscop logo.png|thumb|center]]
+|align="center"|[[Petscop 1|Petscop]]{{·}}[[Petscop 2]]{{·}}[[Petscop 3]]{{·}}[[Petscop 4]]{{·}}[[Petscop 5]]{{·}}[[Petscop 6]]{{·}}[[Petscop 7]]{{·}}[[Petscop 8]]{{·}}[[Petscop 9]]{{·}}[[Petscop 10]]{{·}}[[Petscop 11]]{{·}}[[Petscop 12]]{{·}}[[Petscop 13]]{{·}}[[Petscop 14]]{{·}}[[Petscop 15]]{{·}}[[Petscop 16]]{{·}}[[Petscop 17]]{{·}}[[Petscop 18]]{{·}}[[Petscop 19]]{{·}}[[Petscop 20]]{{·}}[[Petscop 21]]{{·}}[[Petscop 22]]{{·}}[[Petscop 23]]{{·}}[[Petscop 24]]{{·}}''[[Petscop Soundtrack]]''
+|}
+<includeonly>{{#ifeq:{{NAMESPACENUMBER}}|0|[[Category:Episodes]]}}</includeonly><noinclude>[[Category:Navboxes]]</noinclude>

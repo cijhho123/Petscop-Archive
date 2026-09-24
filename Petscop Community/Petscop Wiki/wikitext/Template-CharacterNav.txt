@@ -1,0 +1,12 @@
+{| class="wikitable" width="100%" style="border:solid black 3px;"
+!colspan="2" align="center" style="padding:5px; background:rgba(73,72,72,.2); border-bottom:3px solid black;"|<center><span style="font-size:24px; font-weight:normal; font-family:'PetscopWide',monospace;">[[:Category:Characters|CHARACTERS]]</span></center>
+|-
+!colspan="2" style="padding:5px; border-bottom:3px solid black;"|<center>[[Players]]{{·}}[[Family]]{{·}}[[Intended audience]]</center>
+|-
+!width=20% style="padding:5px; border-right:3px solid black;"|<span style="font-size:20px; font-weight:normal; font-family:'PetscopWide',monospace;">People</span>
+|[[Paul]]{{·}}[[Belle]]{{·}}[[Carrie]]{{·}}[[Marvin]]{{·}}[[Rainer]]{{·}}[[Anna]]{{·}}[[Mike]]{{·}}[[Lina]]{{·}}[[Jill]]{{·}}[[Daniel]]
+|-
+!style="padding:5px; border-right:3px solid black;"|<span style="font-size:20px; font-weight:normal; font-family:'PetscopWide',monospace;">Characters</span>
+|[[Guardian]]{{·}}[[Amber]]{{·}}[[Pen]]{{·}}[[Randice]]{{·}}[[Roneth]]{{·}}[[Toneth]]{{·}}[[Wavey]]{{·}}[[Care]]{{·}}[[Tiara#In-game_character|Tiara]]
+|}
+<includeonly>{{#ifeq:{{NAMESPACENUMBER}}|0|[[Category:Characters]]}}</includeonly><noinclude>[[Category:Navboxes]]</noinclude>

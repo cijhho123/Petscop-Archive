@@ -1,0 +1,307 @@
+{| class="wikitable" style="text-align: center"
+!Lead
+!Combination
+!Result
+!IPA
+!Example
+!Used in
+|-
+|rowspan="9"|R2
+|{{P2|r2|cross}}R2 + Cross
+|long "U"
+|uː
+|t<u>u</u>ne
+|11: m'''u'''sic, t'''oo''', d'''o'''<br>
+23: r'''oo'''m, y'''ou'''<br>
+OST: n'''ew''', ho'''u'''se, t'''o'''gether
+|-
+|{{P2|r2|square}}R2 + Square
+|"puh"
+|p
+|<u>p</u>ut
+|11: '''p'''all, '''p'''lay(s), tri'''pp'''ed, sto'''p'''<br>
+15: '''p'''resent, '''p'''ress, '''p'''layer<br>
+23: hel'''p'''
+|-
+|{{P2|r2|circle}}R2 + Circle
+|"tuh"
+|t
+|<u>t</u>urn
+|11: '''t'''ripped, los'''t''', s'''t'''op, '''t'''iara, '''t'''oo, i'''t''', righ'''t''', nex'''t''', '''t'''ime<br>
+15: si'''t''', presen'''t''', no'''t''', nif'''t'''y, wha'''t'''<br>
+23: pu'''t'''<br>
+OST: wai'''t'''ing, sea'''t''', wai'''t''', inves'''t'''iga'''t'''e, '''t'''ogether
+|-
+|{{P2|r2|triangle}}R2 + Triangle
+|"buh"
+|b
+|<u>b</u>ook
+|11: '''b'''a'''b'''y, '''b'''ecome, '''b'''ad
+15: '''b'''ell<br>
+OST: remem'''b'''er, '''b'''eing, '''b'''orn, '''b'''ack, '''b'''e
+|-
+|{{P2|r2|left}}R2 + Left
+|"th"
+|θ
+|<u>th</u>eme
+|11: '''th'''anks<br>
+OST: toge'''th'''er
+|-
+|{{P2|r2|right}}R2 + Right
+|"dh"<br><sup>alt "th"</sup>
+|ð
+|o<u>th</u>er
+|15: '''th'''e, '''th'''is<br>
+OST: '''th'''ere
+|-
+|{{P2|r2|up}}R2 + Up
+|"ff"
+|f
+|<u>f</u>ast
+|11: '''f'''unny, '''f'''or, '''f'''ell<br>
+15: ni'''f'''ty<br>
+23: '''f'''uck<br>
+OST: '''f'''riend, '''f'''amily
+|-
+|{{P2|r2|down}}R2 + Down
+|"vv"
+|v
+|<u>v</u>ery
+|11: lo'''v'''ely<br>
+15: mar'''v'''in*<br>
+OST: dri'''v'''ing, dri'''v'''er, in'''v'''estigate
+|-
+|{{P2|r2|start}}R2 + Start
+|"duh"
+|d
+|<u>d</u>oor
+|11: melo'''d'''y, an'''d''', ba'''d''', '''d'''o, sa'''d'''<br>
+OST: smuggle'''d''', coul'''d''', frien'''d'''
+|-
+|rowspan="5"|R1
+|{{P2|r1|cross}}R1 + Cross
+|long "a"
+|ei
+|b<u>ay</u>
+|11: pl'''ay'''(s), b'''a'''by, '''a'''nd, ok['''ay''']<br>
+15: pl'''ay'''er<br>
+OST: w'''ai'''ting, aw'''ay''', w'''ai'''t, investig'''a'''te<ref name="dn">This entry is here from presumed completion.</ref>
+|-
+|{{P2|r1|circle}}R1 + Circle
+|long "e"
+|iː
+|b<u>ee</u>
+|11: funn'''y''', m'''u'''sic, bab'''y''', sh'''e''', b'''e'''come, melod'''y''', lovel'''y'''<br>
+15: h'''e'''re, t'''i'''ara, nift'''y'''<br>
+OST: boss (l'''i'''na)<ref name="lina"></ref>, r'''e'''member, b'''e'''ing, s'''ea'''t, m'''e''', b'''e''', famil'''y''', w'''e'''
+|-
+|{{P2|r1|triangle}}R1 + Triangle
+|short "i"
+|ɪ
+|k<u>i</u>ss
+|11: mus'''i'''c, w'''i'''ll, '''i'''s, '''i'''t, tr'''i'''pped<br>
+15: marv'''i'''n*, s'''i'''t, th'''i'''s, n'''i'''fty<br>
+23: '''i'''n<br>
+OST: wait'''i'''ng, be'''i'''ng, driv'''i'''ng, fam'''i'''ly, '''i'''nvest'''i'''gate
+|-
+|{{P2|r1|right}}R1 + Right
+|short "oo"
+|ʊ
+|
+|23: p'''u'''t<br>
+OST: c'''ou'''ld
+|-
+|{{P2|r1|up}}R1 + Up
+|long "o"
+|əʊ
+|c<u>o</u>al
+|11: hell'''o''', '''o'''k<br>
+15: n'''o'''<br>
+OST: b'''o'''rn, y'''ou'''r, 
+|-
+|rowspan="8"|L2
+|{{P2|l2|cross}}L2 + Cross
+|"mm"
+|m
+|<u>m</u>ake
+|11: '''m'''usic, beco'''m'''e, '''m'''elody, ti'''m'''e<br>
+15: '''m'''arvin*, a'''m'''<br>
+23: co'''m'''e, i''''m''', roo'''m'''<br>
+OST: re'''m'''e'''m'''ber, s'''m'''uggled, '''m'''e, fa'''m'''ily
+|-
+|{{P2|l2|square}}L2 + Square
+|"nn"
+|n
+|<u>n</u>ew
+|11: fu'''nn'''y, tha'''n'''ks, a'''n'''d, '''n'''ext<br>
+15:  marvi'''n'''*, prese'''n'''t, '''n'''ot, '''n'''ifty, '''n'''o, o'''n'''e<br>
+23: i'''n'''<br>
+OST: boss (li'''n'''a)<ref name="lina"></ref>, so'''n''', bor'''n''', '''n'''ew, frie'''n'''d, ca'''n''', i'''n'''vestigate
+|-
+|{{P2|l2|circle}}L2 + Circle
+|"rr"
+|r
+|<u>r</u>oad
+|11: fo'''r''', t'''r'''ipped, so'''rr'''y, tia'''r'''a, '''r'''ight<br>
+15: ma'''r'''vin*, he'''r'''e, p'''r'''esent, p'''r'''ess<br>
+23: a'''r'''e, '''r'''oom<br>
+OST: the'''re''', '''r'''emember, bo'''r'''n, d'''r'''iving, you'''r''', d'''r'''iver, f'''r'''iend
+|-
+|{{P2|l2|triangle}}L2 + Triangle
+|"luh"
+|l
+|<u>l</u>ook
+|11: he'''ll'''o, he'''ll''', pa'''ll''', p'''l'''ay(s), wi'''ll''', me'''l'''ody, '''l'''ove'''l'''y, fe'''ll''', '''l'''ost<br>
+15: be'''ll''', p'''l'''ayer<br>
+23: he'''l'''p<br>
+OST: boss ('''l'''ina)<ref name="lina">This is a special case where the combination spells out "Lina", but outputs as "boss".</ref>, smugg'''l'''ed, fami'''l'''y
+|-
+|{{P2|l2|left}}L2 + Left
+|short "u"
+|ʌ
+|b<u>u</u>ck
+|11: f'''u'''nny<br>
+15: th'''e''', wh'''a'''t, one<br>
+23: f'''u'''ck<br>
+OST: s'''o'''n, sm'''u'''ggled, '''a'''way
+|-
+|{{P2|l2|up}}L2 + Up
+|"y"
+|j
+|<u>y</u>es
+|23: '''y'''ou<br>
+OST: '''y'''our
+|-
+|{{P2|l2|down}}L2 + Down
+|"hh"
+|h
+|<u>h</u>at
+|11: '''h'''ello, '''h'''ell, '''h'''a<br>
+15: '''h'''ere<br>
+23: '''h'''elp<br>
+OST: '''h'''er, 
+|-
+|{{P2|l2|start}}L2 + Start
+|"wuh"
+|w
+|<u>w</u>ind
+|11: '''w'''ill<br>
+15: '''w'''hat, one<br>
+OST: '''w'''aiting, a'''w'''ay, '''w'''ait, '''w'''e
+|-
+|rowspan="8"|L1
+|{{P2|l1|cross}}L1 + Cross
+|"ss"<br><sup>occ. "zz"</sup>
+|s
+|<u>s</u>ip
+|11: thank'''s''', i'''s''', lo'''s'''t, '''s'''top, '''s'''orry, play'''s''', ne'''x'''t, '''s'''ad
+15: '''s'''it, thi'''s''', pre'''ss'''<br>
+OST: '''s'''on, '''s'''muggled, hou'''se''', '''s'''eat, inve'''s'''tigate
+|-
+|{{P2|l1|square}}L1 + Square
+|"zz"
+|z
+|fu<u>s</u>e
+|11: mu'''s'''ic
+15: pre'''s'''ent
+|-
+|{{P2|l1|triangle}}L1 + Triangle
+|"sh"
+|ʃ
+|<u>sh</u>ut
+|11: '''sh'''e
+|-
+|{{P2|l1|left}}L1 + Left
+|"ng"
+|ŋ
+|si<u>ng</u>
+|OST: waiti'''ng''', bei'''ng''', drivi'''ng'''
+|-
+|{{P2|l1|right}}L1 + Right
+|"gh"
+|g
+|<u>g</u>ive
+|OST: smu'''gg'''led, investi'''g'''ate, to'''g'''ether
+|-
+|{{P2|l1|up}}L1 + Up
+|"jh"
+|dʒ
+|<u>j</u>ust
+|OST: '''d'''riving, '''d'''river
+|-
+|{{P2|l1|down}}L1 + Down
+|"kuh"
+|k
+|<u>c</u>ash
+|11: musi'''c''', be'''c'''ome, than'''k'''s, ne'''x'''t, o'''k'''<br>
+23: '''c'''ome, fu'''ck'''<br>
+OST: ba'''ck''', '''c'''ould, '''c'''an
+|-
+|{{P2|l1|start}}L1 + Start
+|"ch"
+|ʈʃ
+|<u>ch</u>ime
+|11: '''t'''ripped
+|-
+|rowspan="8"|''(N/A)''
+|{{P2|cross}}Cross
+|"ah"
+|ɑ
+|b<u>a</u>r
+|11: h'''a''', s'''o'''rry, ti'''a'''ra<br>
+15: m'''a'''rvin*, n'''o'''t<br>
+23: '''a'''re<br>
+|-
+|{{P2|square}}Square
+|short "a"
+|æ
+|c<u>a</u>p
+|11: th'''a'''nks, b'''a'''d, s'''a'''d<br>
+OST: h'''o'''use, b'''a'''ck
+|-
+|{{P2|triangle}}Triangle
+|"aw"
+|ɔ:
+|c<u>a</u>ll
+|11: p'''a'''ll, f'''o'''r, l'''o'''st
+|-
+|{{P2|left}}Left
+|short "e"
+|e
+|b<u>e</u>t
+|11: h'''e'''llo, h'''e'''ll, m'''e'''lody, f'''e'''ll, n'''e'''xt<br>
+15: pr'''e'''sent, b'''e'''ll, pr'''e'''ss<br>
+23: h'''e'''lp<br>
+OST: rem'''e'''mber, fri'''e'''nd, inv'''e'''stigate, tog'''e'''ther
+|-
+|{{P2|right}}Right
+|"er"
+|ɚ
+|play<u>er</u>
+|15: play'''er'''<ref name="dn"></ref>
+OST: h'''er''', rememb'''er''', driv'''er''', togeth'''er'''
+|-
+|{{P2|up}}Up
+|long "i"
+|aɪ
+|t<u>i</u>me
+|11: r'''i'''ght, t'''i'''me<br>
+15: '''i'''<br>
+23: '''i''''m<br>
+OST: dr'''i'''ving, dr'''i'''ver
+|-
+|{{P2|down}}Down
+|"a"
+|eə
+|
+|15: '''a'''m<br>
+OST: th'''e'''re, f'''a'''mily, c'''a'''n
+|-
+|{{P2|start}}Start
+|"uh"
+|ə
+|b<u>u</u>n
+|11: bec'''o'''me, mel'''o'''dy, l'''o'''vely, tiar'''a'''<br>
+23: c'''o'''me<br>
+OST: boss (lin'''a''')<ref name="lina"></ref>
+|}

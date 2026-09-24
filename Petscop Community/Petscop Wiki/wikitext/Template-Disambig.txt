@@ -1,0 +1,6 @@
+<div style="background: #222; border-style: solid; border-top: 5px solid #0f0a0c; border-right: 5px solid #060403; border-bottom: 5px solid #010200; border-left: 5px solid #060405; margin: 10px 5px 10px 5px; padding: 10px;">
+<center><font color="#00AAFF" size="6" style="font-family: 'PetscopWide',monospace;">"Where am I?"</font><br>
+<font size="3" color=white>'''This article is a disambiguation page.'''
+
+The following is a list of links to pages that might share the same or similar titles. Please follow one of the disambiguation links below or [[Special:Search|search]] to find the page you were looking for if it is not listed.</font></center></div><includeonly>{{#ifeq:{{NAMESPACENUMBER}}|0|[[Category:Disambiguations]]}}</includeonly>
+<noinclude>[[Category:Templates]][[Category:Notice templates]]</noinclude>

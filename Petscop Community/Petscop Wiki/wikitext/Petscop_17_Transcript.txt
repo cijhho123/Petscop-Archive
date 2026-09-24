@@ -1,0 +1,94 @@
+{{Improve|Add timestamp reference markers and more action details, finish formatting}}
+
+:''<nowiki>[</nowiki>[[Pause menu]] opened]''
+
+:''The ghost room is a ship in a bottle.''
+
+:''["Options" selected]''
+
+:''["[[Sound Test]]" selected]''
+
+:''[Player scrolls through entire sound test]''
+
+
+:''[#85 played once, #84 played once]''
+
+:''[#85 played twice, #84 played once]''
+
+:''[#85 played three times, #84 played once]''
+
+:''[#85 played 360 times, #84 played once]''
+
+
+:''[Sound effect plays - [[Secret menu]] opened]''
+
+:''["[[Room Impulse]]" selected]''
+
+:''["[[house]]" room selected]''
+
+:''["[[Gen]]." setting set to 10]''
+
+:''[Play is pressed - house loads]''
+
+:''[Various player selections]''
+<!-- detail timing later -->
+
+:''[Selected player exits house onto [[Newmaker Plane]]]''
+
+<blockquote><poem>
+Hi there.
+Wake up. You’re free!
+There you go. Thank you.
+I want you to retrace your steps.
+</poem></blockquote>
+
+:''[Player character walks backwards]'' 
+
+<blockquote><poem>
+The family, as usual, wants to learn what happened to you between November 10th and 12th of 1997.
+On November 10th of 1997, you ran away from your daddy’s school building, and on the 12th, you arrived at your house.
+The question is: where were you on November 11th? And what were you doing there?
+I hope to guide you to that location, with a spell, which I will begin now:
+<span id="yellow">You are a girl named Carrie Mark, and you were born on November 12th, 1992.
+You have a mommy named Anna, a daddy named Marvin, an auntie named Jill, an uncle named Thomas, a cousin named Daniel, ......
+I know what you must be thinking. Have these statements always been true? Or have I cursed you?
+Is there such a thing? A curse that changes your past?
+Stop thinking.
+You were kidnapped, and spent 5 months studying in an abandoned elementary school.
+You ran away, crying, ashamed, covering your face.
+You were blind.</span> At some point, <span id="yellow">your movements stopped making sense.</span>
+Bumping into walls and doors. Dodging invisible obstacles.
+Find the moment.
+When were you led astray on the road?
+</poem></blockquote>
+
+:''['''CUT''']''
+
+<blockquote><poem>
+A girl went missing around here.
+Story goes, your daddy used to sit on a bench with a birthday cake, trying to lure her home.
+Instead of “missing girl” signs, he put up “birthday girl” signs, promising cake to the birthday girl[?]
+Of course, the birthday girl never came home, to his disappointment.
+When I learned about this absurd story, I spent a lot of time digging.
+Eventually, I found out what really happened to that girl.
+Want to know? Ask.
+</poem></blockquote>
+
+:''["Ask:" prompt appears]''
+
+:''[Player asks "What happened to her?"]''
+
+:''[Grave slowly raises from ground]''
+
+:''[Player interacts with grave]''
+
+<blockquote><poem>
+<span id="gravepink">Lina Leskowitz</span> 
+1968 – 1977
+They didn’t see her.
+</poem></blockquote>
+
+:''['''CUT''']''
+
+:''['''Video ends''']''
+[[Category:Transcripts]]

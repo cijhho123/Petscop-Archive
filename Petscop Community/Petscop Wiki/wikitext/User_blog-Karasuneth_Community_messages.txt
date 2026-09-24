@@ -1,0 +1,35 @@
+''Moving this here since UCP will screw up community messages, but the content on here is important. No idea where else to put this with UCP.''
+----
+<big>'''Welcome to the Petscop Wiki!'''</big><br>
+This wiki is currently in the works to repair and update after being abandoned.
+
+'''Have questions or need wiki staff?'''<br>
+Please contact at [[Message_Wall:Karasuneth|Karasuneth's message wall]]. 
+
+----
+'''Want to help out?'''<br>
+The wiki is still in the process of repair, but it's getting there. More minor pages still need creation, and a lot of pages need to be reorganized.
+
+Most importantly, the [[Special:Insights/popularpages|most viewed pages]] that have improvement or stub notices on them are a higher priority to fix.
+
+Check out these maintenance pages to find stuff to do!
+*[[:Category:Pages needing improvement|Articles needing to be improved, organized, or updated]]
+*[[:Category:Stubs|Article stubs]] ''(incomplete articles)''
+*[[Special:Insights/wantedpages|Wanted pages]] ''(articles needing creation)''
+
+
+Please, '''DO NOT plagiarize!''' Articles should NOT be copy-pasted from the Comprehensive Progress Document or other Petscop documentation sources.
+----
+'''Policies & guidelines enforced:'''
+*'''All personal theories''' should be in article comments (minor thoughts) or user blog (major pieces)! Only theories largely supported with evidence or context may be included in the mainspace articles.
+*[[:Category:Articles_that_use_fan_names|Pages that use fan names]] will be using the fan names used in the Comprehensive Progress Document.
+**Remember to mark these pages with {{t|FanName}}.
+*'''[https://petscop.fandom.com/d/f Discussions]''' on this wiki are now optimized and intended for more casual chat, with categories for art/creations, and for memes. 
+*'''Absolutely no doxxing or gamejacking''', violations may result in a block!
+----
+'''To-Do List and Notices:'''
+*'''Most episode pages need rewrites.''' The [[Petscop 1]] article is a good example for how episode pages should be written. 
+**Transcripts are on subpages that will be revised later. These need to be updated with the content of the actual transcript at some point.
+**Summaries do not need to go into extreme detail. What generally occurs of importance needs to be documented on the main article, with highlights, notes, and supported theories outlining anything else.
+* We are currently not prioritizing adding out of universe info that involve Petscop's creator and his prior works until we fix current pages to in-universe content. 
+[[Category:Blog posts]]

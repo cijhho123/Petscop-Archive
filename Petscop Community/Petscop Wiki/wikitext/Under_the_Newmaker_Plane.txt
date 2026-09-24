@@ -1,0 +1,100 @@
+The area '''under the Newmaker Plane''' consists of rooms and pathways with various purposes and gameplay features. It can be accessed from cellar doors on the [[Newmaker Plane]].
+
+== Rooms & locations ==
+=== Cellar ===
+The cellar is the first location [[Paul]] encounters under the Newmaker Plane, in [[Petscop 2]]. It is the room that connects to the first cellar door that Paul finds.
+
+<gallery>
+Cellar stairs.png|Stairs down to the cellar
+Cellar dials.png|Dials in the cellar
+Cellar box.png|Furnace in the cellar
+</gallery>
+
+=== Office ===
+{{main|Office}}
+The office comes after a hallway between it and the cellar. It contains a ringing phone that reads "[[Care]] left the room", and an interactive note depicting the A/B/NLM stages of [[rebirthing]].
+
+<gallery>
+Office.png|The office
+</gallery>
+
+=== Hallway ===
+The hallway between the office and tunnel (in [[Room Impulse]] as "hallway2") contains three images of "places" that can be interacted with to view closer. The images depict the [[house]], [[school]], and [[windmill]].
+
+<gallery>
+Hallway2 entry.png|Entrance to the hallway
+Hallway2 pictures.png|A picture of a place
+Painting 1.png|The house image
+Painting 2.png|The school image
+Painting 3.png|The windmill image
+</gallery>
+
+=== Tunnel ===
+The tunnel area prominently features a tunnel which cars drive out of. It leads to the grave room and the area outside the Child Library. [[Marvin]] appears here at one point.
+
+<gallery>
+Tunnel road.png|The tunnel
+Tunnel entry.png|Entry to tunnel area
+Tunnel passages.png|Passage to the grave room
+Tunnel passages2.png|Passage to the Child Library area
+</gallery>
+
+=== Grave room ===
+{{main|Grave room}}
+The grave room is named for it being the location of [[Michael Hammond]]'s grave. It also contains a shed with two floors that involve a flower and [[Care NLM]], related to catching Care NLM as a [[pet]].
+
+<gallery>
+Grave room.png|The grave room
+Flower shack.png|Shed top floor
+Shed basement 1.png|Shed bottom floor
+</gallery>
+
+=== Tool room ===
+{{main|Tool room}}
+The tool room is where the [[red tool]] (and [[pink tool]]) are located, along with a screen that allows players to watch the [[windmill]].
+
+<gallery>
+Tool room exterior.png|Exterior of the tool room
+Drawings in tool room.png|Main area
+Tool room.png|The tool in the tool room
+</gallery>
+
+=== Quitter's Room ===
+{{main|Quitter's Room}}
+The Quitter's Room is a room with two mirrored sides to it, where another [[player]] typically mirrors the current player. [[Tiara]] is initially found here, and one of the sides is closed off at first.
+
+<gallery>
+Outside the Quitter's Room.png|Exterior of the Quitter's Room
+Quitter-0.png|The Quitter's Room
+</gallery>
+
+=== Child Library ===
+{{main|Child Library}}
+The Child Library contains an interactive easel to input face details into as to pull up a room related to that face after some time. Certain rooms based on faces shown in other areas (such as the grave room) seem to lead to rooms that have more significance. In one case, one room leads to the party room.
+
+Outside the Child Library leading from the tunnel room to it is a long hallway with text on the wall reading "GOOD GRIEF AND ALAS". The side opposite has a doorway that leads to an empty area with no purpose.
+
+<gallery>
+Child Library hallway text.png|Hallway outside the Child Library
+Childlibraryinside.png|Inside the main room of the Child Library
+Generic CL room 1.png|An example of a room inside the Child Library
+</gallery>
+
+=== Party room ===
+{{main|Party room}}
+The party room is accessed through [[Lina Leskowitz]]'s room in the Child Library. It contains multiple interactive presents with various objects, including the green [[key]] to the house, and is where [[Odd Care]] can be accessed.
+
+<gallery>
+Party room entry.png|Party room entrance
+Party room cake.png|Party area
+Party room.png|Part of the party room
+Party room side room.png|Side area
+</gallery>
+
+=== Road Map ===
+The Road Map area is where the [[caskets]] are displayed and the start of the Places, which leads back into the hallway between the office and tunnel (hallway2).
+<gallery>
+Road Map entry.png|Entry to the Road Map
+Road Map caskets.png|Caskets area
+</gallery>
+{{LocationNav}}

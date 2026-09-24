@@ -1,0 +1,49 @@
+/* Offline stylesheet for the Petscop Wiki archive.
+   Fandom's load.php returns 403 to non-browser clients, so the original skin
+   CSS could not be preserved. This approximates a readable dark wiki layout. */
+:root { --bg:#0f0f12; --panel:#17171c; --text:#e6e6ea; --muted:#9a9aa5;
+        --link:#7db4ff; --border:#2b2b33; --accent:#c9a227; }
+* { box-sizing:border-box; }
+body { margin:0; background:var(--bg); color:var(--text);
+       font:16px/1.65 -apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif; }
+.archive-banner { background:var(--accent); color:#1a1a1a; padding:.6rem 1rem;
+                  font-size:.85rem; text-align:center; font-weight:600; }
+.wrap { max-width:60rem; margin:0 auto; padding:1.5rem 1.25rem 4rem; }
+.page-title { font-size:2.1rem; margin:1.2rem 0 .3rem;
+              border-bottom:2px solid var(--border); padding-bottom:.4rem; }
+.meta { color:var(--muted); font-size:.82rem; margin-bottom:1.6rem; }
+a { color:var(--link); text-decoration:none; }
+a:hover { text-decoration:underline; }
+a.archive-missing, a.archive-external { color:#c98b8b; border-bottom:1px dotted #7a4a4a; }
+h2,h3,h4 { border-bottom:1px solid var(--border); padding-bottom:.25rem;
+           margin-top:2rem; }
+img { max-width:100%; height:auto; }
+table { border-collapse:collapse; margin:1rem 0; background:var(--panel); }
+table, th, td { border:1px solid var(--border); }
+th, td { padding:.45rem .7rem; text-align:left; vertical-align:top; }
+th { background:#20202a; }
+.infobox, .portable-infobox { float:right; clear:right; width:23rem;
+    max-width:100%; margin:0 0 1rem 1.5rem; background:var(--panel);
+    border:1px solid var(--border); border-radius:6px; padding:.75rem; }
+.pi-title, .pi-header { font-weight:700; color:var(--accent); }
+.pi-data { display:flex; gap:.6rem; border-top:1px solid var(--border);
+           padding:.35rem 0; }
+.pi-data-label { flex:0 0 8rem; color:var(--muted); font-weight:600; }
+blockquote { border-left:3px solid var(--accent); margin:1rem 0;
+             padding:.3rem 1rem; color:var(--muted); }
+pre, code { background:#1c1c24; border:1px solid var(--border);
+            border-radius:4px; padding:.15rem .35rem; font-size:.9em; }
+pre { padding:.8rem; overflow-x:auto; }
+footer { border-top:1px solid var(--border); padding:1.5rem;
+         text-align:center; color:var(--muted); }
+.toc { background:var(--panel); border:1px solid var(--border);
+       border-radius:6px; padding:.75rem 1rem; display:inline-block; }
+/* index page */
+.ns-group { margin:2rem 0; }
+.ns-group h2 { color:var(--accent); }
+.cols { columns:3 15rem; column-gap:1.5rem; }
+.cols a { display:block; padding:.12rem 0; break-inside:avoid; }
+.stats { display:flex; flex-wrap:wrap; gap:1rem; margin:1.5rem 0; }
+.stat { background:var(--panel); border:1px solid var(--border);
+        border-radius:6px; padding:.7rem 1.1rem; }
+.stat b { display:block; font-size:1.5rem; color:var(--accent); }

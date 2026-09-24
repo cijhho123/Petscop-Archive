@@ -1,0 +1,84 @@
+<!--<center>
+'''TRANSLATIONS'''<br>
+[[Petscop 16/Transcript|English (original)]] • [[Petscop 16/Transcript-ES|Español]]
+</center>
+----
+-->
+:''[game frozen in garage]''
+
+'''0:24'''
+:''[screen comes up]''
+
+<blockquote>
+No controller input has been detected<br>
+for a very long time.
+
+Family, neighbors, police, (or whoever,)<br>
+[<span id="orange">KEEP GAME CONSOLE RUNNING,</span>]<br>
+call provided phone number.
+</blockquote>
+
+'''0:59'''
+:''[screen changes]''
+
+<blockquote>
+Burn-in Monitor<br>
+("ghost room"/"testing room")
+</blockquote>
+
+'''1:14'''
+:''[screen changes]''
+
+<blockquote>
+No controller input has been detected<br>
+for a very long time.
+
+Family, neighbors, police, (or whoever,)<br>
+[<span id="orange">KEEP GAME CONSOLE RUNNING,</span>]<br>
+call provided phone number.
+
+(203)
+</blockquote>
+
+'''1:49'''
+:''[screen changes]''
+
+<blockquote>
+Burn-in Monitor<br>
+("ghost room"/"testing room")
+</blockquote>
+
+'''2:03'''
+:''[screen changes]''
+
+<blockquote>
+No controller input has been detected<br>
+for a very long time.
+
+Family, neighbors, police, (or whoever,)<br>
+[<span id="orange">KEEP GAME CONSOLE RUNNING,</span>]<br>
+call provided phone number.
+</blockquote>
+
+'''2:10'''
+:''['''CUT''']''
+
+<blockquote>
+No controller input has been detected<br>
+for a very long time.
+
+Family, neighbors, police, (or whoever,)<br>
+[<span id="orange">KEEP GAME CONSOLE RUNNING,</span>]<br>
+call provided phone number.
+</blockquote>
+
+'''2:22'''
+:''[screen changes - dot moving]''
+
+<blockquote>
+Burn-in Monitor<br>
+("ghost room"/"testing room")
+</blockquote>
+
+:''['''Video ends''']''
+[[Category:Transcripts]]

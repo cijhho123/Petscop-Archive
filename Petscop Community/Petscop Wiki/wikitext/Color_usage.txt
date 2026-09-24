@@ -1,0 +1,122 @@
+Various colors are used to reference specific characters in text boxes throughout the videos, and with other objects.
+
+== Colors ==
+=== Yellow ===
+A <span id="yellow">yellow</span> text color is used for [[Care]], including instances of Care's name (or full name), Care talking (e.g. "Nobody loves me!" in Care's [[Child Library]] room) or certain descriptions of Care (e.g. the "spell" shown in [[Petscop 17]]).
+*Daisies and similar flowers are shown on occasion throughout Petscop, particularly in relation to Care (such as with [[Casket]] 1, or the flower in the [[grave room|shed in the grave room]]). Most of them either contain yellow, or are completely yellow.
+*Care's bed in her bedroom in the [[house]] has yellow bedding, and her carpet is a golden color. 
+*The [[egg]] created after putting Care B into the machine in the [[school]] basement has yellow as a primary color.
+*The balloon put onto the [[guardian]] and one of the balloons outside of the house in [[Strange situation]] are yellow.
+*The "T" in "caught" when catching a pet is yellow.
+*Yellow pinwheels can be seen around the [[party room]].
+*One of the presents in some variations of the house has a yellow ribbon.
+*Some letters on the alphabet carpet on the third floor of the school are yellow.
+*One of the colors that the "girl" letters in the [[school]] can turn is yellow.
+
+=== Red ===
+A <span id="red">red</span> text color is used for [[Toneth]]. In [[Room Impulse]] [[recording]]s shown in Petscop 22, the custom name given to the counselor in the counselor textbox (which in this case, was set to "[[Paul]]") is also red. There is red text given to "<span id="red">48</span> pets" and "<span id="red">8</span> homes" on the [[Gift Plane]]'s sign, and "<span id="red">553758221</span> seconds" in a textbox addressed to "Belle" in [[Petscop 12]].
+
+*The first and most notable [[tool]] is the [[red tool]], who also writes in red and has a red Ask box.
+*Many of the [[caskets]] (including those that are [[censored]]) involve red as a primary color.
+*Paul has a red triangular shape as a head when his inputs are played back during Petscop 12.
+*The egg created after putting Care B into the machine in the [[school]] basement has red as a secondary color.
+*The screen turns a tinted red on "loves me not" petal plucks from the flower in the shed in the [[grave room]].
+*The [[Needles Piano]] turns red when it starts playing "bad music".
+*The calendar for 1995/2017 is red.
+*When the camera watching the [[windmill]] from the [[tool room]] turns red, it cannot view the windmill.
+*[[Mike]]'s room in the [[Child Library]] is primarily in a pale red color.
+*Even numbers on the treadmill in [[Odd Care]] are red.
+*The "C" in "caught" when catching a [[pet]] is red.
+*Toneth and [[Roneth]] both have red as a main design color.
+*Multiple cars shown in the series, both full size and toys, are shown in red.
+*Some letters on the alphabet carpet on the third floor of the school are red.
+*The background room color of the school is red.
+*One of the [[loading screen]]s depicts a red piano with a brighter red ring around a PlayStation controller.
+*One of the colors that the "girl" letters in the school can turn is red. The girl's torso is also red.
+*The background of [[Graverobber]] is red. One of the pawns in the minigame are red, which also represents the player that goes first. One of the markings for its "record" function is red (this may be unique to the red player). 
+
+=== Blue ===
+A <span id="blue">blue</span> text color is used for [[Amber]] and [[Anna]]. In Anna's case, this includes instances of her talking (e.g. "Care isn't growing eyebrows." in Care's Child Library room). There is blue text given to "<span id="blue">153822</span> hours" in a textbox addressed to "Belle" in Petscop 12.
+*The [[Garalina]] logo is blue.
+*Some of the file menu UI is blue.
+*One of the two beds in the [[master bedroom]] in the house has blue bedding.
+*One of the tools shown in drawings in the [[tool room]] and the house is blue. The [[blue tool]] also appears on the [[Tarnacop]] computer in the [[garage]]. 
+*The "U" in "caught" when catching a pet is blue.
+*The [[egg]] seen in the "mike2" [[recording]] has blue as a primary color.
+*Multiple cars shown in the series, both full size and toys, are shown in blue.
+*Some letters on the alphabet carpet on the third floor of the school are blue.
+*One of the balloons outside of the house and inside the house near the single cake slice in [[Strange situation]] are blue.
+*One of the presents in some variations of the house has a blue ribbon.
+*One of the colors that the "girl" letters in the school can turn is blue.
+*Presents in the [[Gift Plane]] along with the archway on the Gift Plane road are blue.
+*One of the main colors of [[Even Care]] is blue.
+
+=== Green ===
+A <span id="green">green</span> text color is used for [[Randice]] and [[Marvin]]. In Marvin's case, this includes instances of him talking (e.g. "That's a puzzle." in Care's Child Library room).
+*Marvin's [[guardian]] character (when [[Players|viewed by other players]]) and other [[loading screen]]s featuring Marvin depict him with a green head. 
+*The house was originally painted green, as it was Marvin's house. The [[key]] to the house was also green. Doors and windows in the house are green.
+*The calendar for 1997 is green. Marvin's "custody days" are also in green.
+*One of the two beds in the [[master bedroom]] in the house has green bedding. The carpet is also green. In a recording showing Marvin in the master bedroom shown at the beginning of [[Petscop 14]], the background of this room is also green.
+*There is a [[green tool]] in the [[school]] that can disassemble objects for or assemble objects with [[pieces]].
+*The "H" in "caught" when catching a pet is green.
+*One of the presents in some variations of the house has a green ribbon.
+*Some letters on the alphabet carpet on the third floor of the school are green.
+*One of the pieces types are a green ring. Another piece type is a silvery-green shape.
+*One of the colors that the "girl" letters in the school can turn is green.
+
+=== Purple ===
+A <span id="purple">purple</span> text color is used for [[Tiara]] (both the real-life adult person and the in-game character), along with [[Belle]] (though this appears to refer to the in-game Tiara, not the real-life Belle). This includes instances of their names, or of them talking (e.g. "beyond rebirthing" from the adult Tiara in Care's Child Library room). Purple is also used for some of the game's menu text, such as in the [[pause menu]].
+*The [[Quitter's Room]] furniture is purple. The "do you remember being born?" note is also written in purple.
+*The [[Needles Piano]]'s default color is purple.
+*The egg found in the school locker has purple as a secondary color.
+*The ribbons of the primary gift boxes such as on the title screen and in the [[party room]] are purple.
+*The "Care-with-Mike's-eyebrows" room in the Child Library is primarily in a purple color.
+*The "A" in "caught" when catching a pet is purple.
+*Some letters on the alphabet carpet on the third floor of the school are purple.
+*One of the pieces types are a purple prism.
+
+=== Orange ===
+In [[Room Impulse]] [[recording]]s shown in Petscop 22, the default name pulled in the counselor textbox (from the file name, which is currently "Strange situation") is <span id="orange">orange</span>.
+*The [[Burn-in Monitor]] and the [[secret menu]] are predominantly orange. The Room Impulse dial is also orange.
+*The [[ghost room]]s, their diagrams, and their numbers are orange.
+*The extra symbols on the alphabet carpet on the third floor of the school are orange.
+*The car that hits the [[guardian]] when it is walking past the tunnel as a [[shadow monster man]] glows bright orange.
+
+=== Other ===
+Colors with some associations and patterns, but do not have textbox colors:
+
+*Teal
+**There is a [[teal tool]] that can be captured outside of the house with a [[bucket]] to disassemble pieces from the objects outside Care's bedroom.
+**One of the more prominent [[piece]] types, shaped like a party hat, is teal. This teal party hat piece appears on the piece counter, in a loading screen to the [[party room]], and as an object that can be disassembled in the third floor of the school with the green tool.
+**The "G" in "caught" when catching a pet is teal.
+
+*Pink
+**Petscop's logo, many surface game loading screens, and the backgrounds of the primary [[pause menu]] are pink.
+**There is a [[pink tool]] that sometimes takes control over the red tool, which appears to be controlled by the in-game Tiara. It has pink text and a pink Ask box.
+**The [[Draw Mode]]'s pencil is and draws in pink.
+**The "Mike [[egg]]" seen in the "mike2" [[recording]] has pink as a secondary color.
+**The egg found in the school locker has pink as a primary color.
+**The figure of [[Lina]] in the [[windmill]] and at the end of the [[Petscop Soundtrack]] appears to have a pink dress shape.
+**One of the presents in some variations of the house has a pink ribbon.
+**Some letters on the alphabet carpet on the third floor of the school are pink.
+**One of the piece types are a pink shape.
+**One of the other main colors of Even Care is pink.
+**The main background color of the soundtrack is pink.
+
+*Black, white, gray
+**A [[white tool]] is used to remove pieces from the internals of the [[Windmill]].
+**The house's green walls were painted black (by [[Anna]] and [[Rainer]]) after Marvin was kicked out of the house. A black paint [[bucket]] appears in the house at one point; this is used to paint over the walls in the [[master bedroom]]. When the [[teal tool]] falls into the paint bucket, it is covered in black paint.
+**[[Care]]'s room in the [[Child Library]] is primarily shown with black and gray colors. It also has a black paint roller, similar to the one used to paint over the walls in the house later.
+**Lina's room in the Child Library is primarily shown with white and gray colors.
+**When the camera watching the windmill from the [[tool room]] is black, it can view the windmill.
+**The windmill is mostly in black, white, and gray.
+**Many clocks are shown in gray.
+**The cake in the party room is white.
+**Becoming a [[shadow monster man]] involves turning the character into a black "shadow".
+
+== Notes ==
+* The text colors of black & white are excluded from relevance since the game uses them as the default text colors.
+* The pale pink on the graves of [[Michael Hammond]] and [[Lina Leskowitz]] are highly indicative to be unrelated to the other instances of pink.
+* The name being shown in red in the counselor textbox is not confirmed to be specific to that "Paul" was entered or not, so while a possibility exists that red also represents Paul, it is not confirmed. 
+* Some of the instances of purple are sometimes disputed as being pink, and vice versa; they are organized on this page based on majority consensus to what color the instances are.
+[[Category:Theories]]

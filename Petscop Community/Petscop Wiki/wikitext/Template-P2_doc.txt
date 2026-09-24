@@ -1,0 +1,28 @@
+== Description ==
+This template is used to automate [[P2 to TALK]] input combination displays and offer hover-over of the combination.
+
+== Usage ==
+Use <code><nowiki>{{P2}}</nowiki></code> and add button inputs as additional sets to display the combination.
+
+=== Valid parameters ===
+<s>''NOT case-sensitive''</s> '''Temporarily case-sensitive''' 
+<div class="mw-collapsible">
+*r1
+*r2
+*l1
+*l2
+*start
+*up
+*down
+*left
+*right
+*square
+*cross
+*circle
+*triangle
+*n ''("???" - use for unknown combinations)''
+</div>
+
+== Example ==
+<pre>{{P2|l2|down|left|l2|triangle|r1|up}}</pre>
+{{P2|l2|down|left|l2|triangle|r1|up}}

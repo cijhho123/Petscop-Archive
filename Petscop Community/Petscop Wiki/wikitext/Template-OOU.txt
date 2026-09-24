@@ -1,0 +1,5 @@
+{{clear}}
+<div style="background: #222; border-style: solid; border-top: 5px solid #0f0a0c; border-right: 5px solid #060403; border-bottom: 5px solid #010200; border-left: 5px solid #060405; margin: 10px 5px 10px 5px; padding: 10px;">
+<center><font color="#C37FFF" size="6" style="font-family: 'PetscopWide',monospace;">"You're in the other place too!"</font><br>
+<font size="3" color=white>This article is mainly written in an '''out of universe''' perspective, or is focused on a topic that is not part of the series' story. Please read carefully.</font></center></div><includeonly>{{#ifeq:{{NAMESPACENUMBER}}|0|[[Category:Articles written out of universe]]}}</includeonly>
+<noinclude>[[Category:Templates]][[Category:Notice templates]]</noinclude>

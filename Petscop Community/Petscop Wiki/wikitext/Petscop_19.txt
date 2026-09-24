@@ -1,0 +1,20 @@
+{{Infobox episode
+|image = Thumb19.jpg
+|link = https://youtu.be/bwjvp_HJ62c
+|upload = April 21, 2019<br>11:54:35 AM (UTC-4)
+|runtime = 7 minutes 44 seconds
+|previous = [[Petscop 18]]
+|next = [[Petscop 20]]
+}}
+'''Petscop 19''' was uploaded at approximately 11:50 (UTC-4) on April 21, 2019.
+
+''A transcript for this episode can be accessed at [[{{PAGENAME}}/Transcript]].''
+== Synopsis ==
+The video starts in the [[secret menu]]. The player selects "All [[Recording]]s" and scrolls through the entire list of 248 recordings, until they reach the end of the list.
+
+The oldest recording, ''sort-test'', is selected. Its [[gen]] is 1. The player selects "play." The [[guardian]] has no animation and also uses an early concept from [[Petscop 18]]. The room consists of a long row of tiles, using textures that also appear in [[Even Care]]. The player moves through each of the tiles, presumably to test depth-sorting.
+
+The video cuts, and a gen 2 recording, titled ''mike2'', is played. The player (presumably [[Mike]]) appears in an unfinished version of Even Care. After moving through walls, they enter [[Randice]] & [[Wavey]]'s room, finding an [[Easter Egg]] on the right side of the room.
+
+The screen then cuts to a gen 3 recording named ''care'', and then another, named ''belle''. Numerous additional recordings from gen 4 and 5 are shown, ending with one called ''belle3'', where the player (presumably [[Belle]]) catches [[Pen]].
+{{VideoNav}}

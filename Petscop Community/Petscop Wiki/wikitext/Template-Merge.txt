@@ -1,0 +1,9 @@
+<div style="background-color:rgba(128,128,128,.15); border:5px solid #1D1E21; margin: 10px 5px 10px 5px; padding: 0px;border-radius:10px;">
+{|style="border-radius:10px"
+|width=2% style="background-color:#4F5ED6;"|
+|style="padding:8px 0px 0px 10px"|
+'''This page has been suggested to be merged with another article{{#if:{{{1|}}}|, [[{{{1|}}}]]}}.'''
+
+Remember to fix page links [[Special:Whatlinkshere/{{NAMESPACE}}:{{PAGENAME}}|that link here]] to the merged page before deleting this one. [{{fullurl:{{FULLPAGENAME}}|action=history}} The page history] will remain at this page.
+|}</div>
+<includeonly>[[Category:Candidates for merging]]</includeonly><noinclude>[[Category:Templates]][[Category:Notice templates]]</noinclude>

@@ -1,0 +1,4 @@
+== Summary ==
+Petscop Discovery Pages main page, perspective corrected and stitched
+== Licensing ==
+{{Permission}}

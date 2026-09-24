@@ -1,0 +1,27 @@
+<div style="background: #D66400; border-style: solid; border-top: 5px solid #0f0a0c; border-right: 5px solid #060403; border-bottom: 5px solid #010200; border-left: 5px solid #060405; margin: 10px 5px 10px 5px; padding: 10px;">
+<font>This article solely lists unintended bloopers, bugs, or plot holes that may have occurred during the development of Petscop, in the most critical of analysis. It does not reflect negatively on Petscop or its developer in any way.
+
+This page is locked to allow for any additions to be manually checked, and so that misconceptions aren't added. Please [[Message Wall:Karasuneth|contact Karasuneth]] for suggested modifications to this page.</font>
+</div>
+This is a list of '''presumed''' mistakes, errors, or inaccuracies in [[Petscop]].
+
+== List ==
+=== P2 to TALK ===
+There are some strange examples of phoneme use in [[P2 to TALK]].
+*"Put" in Petscop 23 only includes phonetics that suffice for "ut", not including "p" (R2 + SQUARE). 
+*"House" in Petscop Soundtrack only includes phonetics that include "ouse", not including "hh" (L2 + DOWN).
+*"Music" (Petscop 11) uses R1 + CIRCLE + R2 + CROSS for the "u" sound rather than L2 + UP ("y" sound).
+
+=== Startup ===
+The PlayStation startup used at the beginning of Petscop 1 is inaccurate (possibly custom-made), as the SCEA fade-in is too slow.
+
+=== Color limitations ===
+The PlayStation generally only renders 16-bit colors, using dithering to reduce banding artifacts. While Petscop does apply dithering, the colors appear to use a higher bit depth than what the PlayStation is capable of rendering.
+
+=== Fonts ===
+Poetsen One is a font used in numerous instances in Petscop, including the title screen logo, most surface game [[loading screen]]s, 3D signs, and the "GiRL" text on the [[School#Second_floor|school's second floor]]. The font itself seems to have been published in 2012 according to its copyright date embedded within the font file<ref>Creator's official download of Poetsen One: http://www.rfuenzalida.com/poetsen/</ref>.
+
+The font used in the [[Garalina]] logo, Days Sans Black, has copyright attributed to 2014<ref>Official download: https://www.1001fonts.com/days-sans-black-font.html</ref>.
+
+== References ==
+<references/>

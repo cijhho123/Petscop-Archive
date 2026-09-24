@@ -1,0 +1,12 @@
+<infobox>
+	<title source="title"><default>{{PAGENAME}}</default></title>
+	<image source="image"><caption source="imagecaption"/></image>
+	<data source="link"><label>Link</label><default>''?''</default></data>
+	<data source="upload"><label>Uploaded</label><default>''?''</default></data>
+	<data source="runtime"><label>Runtime</label><default>''?''</default></data>
+	<group layout="horizontal">
+	    <header>Order</header>
+	    <data source="previous"><label>Previous</label></data>
+	    <data source="next"><label>Next</label></data>
+	</group>
+</infobox>

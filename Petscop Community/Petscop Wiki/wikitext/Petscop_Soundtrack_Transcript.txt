@@ -1,0 +1,149 @@
+'''42:03'''
+
+:''<nowiki>[</nowiki>[[Care]]'s voice saying "and now..."]''
+
+:''[Saw tones to the tune of Paul's Melody play briefly]''
+
+:''[Player walks forward]''
+
+<blockquote> 
+'''Tiara:'''
+:(R2 → ↓ L2 ●)
+:There
+
+:(R1 ▲ L1 ✕)
+:Is
+
+:(L2 ▲ R1 ● L2 ■ ▶)
+:Boss
+
+:(L2 ▶ R1 ✕ R2 ● R1 ▲ L1 ←)
+:Waiting
+
+:(R2 ↑ ▲ L2 ●)
+:For
+
+:(L2 ↓ →)
+:Her
+
+:(L1 ✕ L2 ← L2 ■)
+:Son
+
+
+:(R2 ■ ▲ L2 ▲)
+:Pall
+
+:(R2 ▶ R2 ✕)
+:Do
+
+:(L2 ↑ R2 ✕)
+:You
+
+:(L2 ● R1 ● L1 ✕ ← L2 ✕ R1 ▲ →)
+:Remember
+
+:(R2 ▲ R1 ● R1 ▲ L1 ←)
+:Being
+
+:(R2 ▲ R1 ↑ L2 ● L2 ■)
+:Born
+</blockquote>
+
+'''42:56'''
+:''[Tiara moves closer to player]''
+
+<blockquote> 
+'''Tiara:'''
+:(L1 ✕ L2 ✕ L2 ← L1 → L2 ▲ R2 ▶)
+:Smuggled
+
+:(L2 ← L2 ▶ R1 ✕)
+:Away
+
+:(L1 ↑ L2 ● ↑ R2 ↓ R1 ▲ L1 ←)
+:Driving
+
+:(R2 ● R2 ✕)
+:Too
+
+:(L2 ↑ R1 ↑ L2 ●)
+:Your
+
+:(L2 ■ R2 ✕)
+:New
+
+:(■ R2 ✕ L1 ✕)
+:House
+
+
+:(L2 ▲ R1 ● L2 ■ ▶)
+:Boss
+
+:(R1 ▲ L2 ■)
+:In
+
+:(L1 ↑ L2 ● ↑ R2 ↓ →)
+:Driver
+
+:(L1 ✕ R1 ● R2 ●)
+:Seat
+
+:(L2 ✕ R1 ●)
+:Me
+
+:(R1 ▲ L2 ■)
+:In
+
+:(R2 ▲ ■ L1 ↓)
+:Back
+
+
+:(↑)
+:I
+
+:(L1 ↓ R1 → R2 ▶)
+:Could
+
+:(L2 ■ ✕ R2 ●)
+:Not
+
+:(L2 ▶ R1 ✕ R2 ●)
+:Wait
+
+:(R2 ● R2 ✕)
+:Too
+
+:(R2 ▲ R1 ●)
+:Be
+
+:(L2 ↑ R1 ↑ L2 ●)
+:Your
+
+:(R2 ↑ L2 ● ← L2 ■ R2 ▶)
+:Friend
+</blockquote>
+
+'''43:56'''
+<blockquote> 
+'''"Pall":'''
+:(R2 ↑ ↓ L2 ✕ R1 ▲ L2 ▲ R1 ●)
+:Family
+</blockquote>
+
+<blockquote> 
+'''Tiara:'''
+:(L2 ▶ R1 ●)
+:We
+
+:(L1 ↓ ↓ L2 ■)
+:Can
+
+:(R1 ▲ L2 ■ R2 ↓ ← L1 ✕ R2 ● R1 ▲ L1 → R1 ✕ R2 ●)
+:Investigate
+
+:(R2 → R1 ▲ L1 ✕)
+:This
+
+:(R2 ● R2 ✕ L1 → ← R2 ← →)
+:Together
+[[Category:Transcripts]]

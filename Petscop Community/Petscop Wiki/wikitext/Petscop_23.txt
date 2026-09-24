@@ -1,0 +1,33 @@
+{{Infobox episode
+|image = Thumb23.jpg
+|link = https://youtu.be/P-nUhmeo87I
+|upload = September 2, 2019<br>12:01:31 AM (UTC-4)
+|runtime = 20 minutes 18 seconds
+|previous = [[Petscop 22]]
+|next = [[Petscop 24]]
+}}
+'''Petscop 23''' was uploaded at midnight (UTC-4) on September 2, 2019.
+
+''A transcript for this episode can be accessed at [[{{PAGENAME}}/Transcript]].''
+
+==Synopsis==
+The video begins on the title screen. A [[demo recording]] begins playing.
+
+The demo begins in the [[school]]. The player navigates to the third floor, and uses the [[green tool]] to collect 26 [[pieces]] from a large conical object. After this, the room becomes very dark.
+
+The player proceeds into the next room, where they find something written on a chalkboard, which is [[censored]] in the video.
+
+[[Marvin]] appears and asks the player (referred to as "[[Pall]]") which room they're in, using [[P2 to TALK]]. The player inspects each of the eight rooms displayed on the walls, before gesturing to Marvin that they're in room 1, to which Marvin responds "Thanks" and "Here I Come." The player says "What No No" before attempting to type something else, but then stopping. Both [[players]] then stand still for quite some time. The video cuts to a later point in time, and Marvin leaves the room.
+
+[[Tiara]] enters the room, and says "I'm Sorry." The player asks for help, and Tiara writes "9 2 19" on the chalkboard using [[Draw Mode]]. The player then navigates to the locker on the first floor, and uses the code Tiara wrote on the chalkboard in order to unlock it. Inside, an [[egg]] and a letter are found.
+
+The player then descends to the basement and, after pushing a framed photo into a large hole in the floor, catches [[Care B]]. They proceed further, into a room containing a large machine. Marvin is standing in the middle of the room, and Tiara is standing near the left side of the machine, where there are pieces hovering nearby. The player approaches the right side of the machine, and the screen fades to black. The piece counter appears, and begins rapidly counting down to zero. After this, the screen fades back in, and there are now pieces on the right side of the machine.
+
+Marvin instructs the player to "Put Baby," then the player places Care B into the machine, and closes it. The [[Needles Piano]] appears, which the player picks up and begins playing. Eventually, the instrument turns red, and Marvin becomes angry, repeatedly asking the player to stop, before leaving the room. The player then opens the machine, only to find that Care B has been replaced by a red and yellow egg.
+
+The player brings the egg to the locker and places it inside, then walks to the bench outside of the school. The Newmaker Plane becomes brighter, and then the demo ends, transitioning back to the title screen.
+
+== Notes ==
+The code to the locker, 9 2 19, corresponds with the date the video was uploaded.
+
+{{VideoNav}}

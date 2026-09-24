@@ -1,0 +1,6 @@
+<div style="background: #2F7F77; border-style: solid; border-top: 5px solid #0f0a0c; border-right: 5px solid #060403; border-bottom: 5px solid #010200; border-left: 5px solid #060405; margin: 10px 5px 10px 5px; padding: 10px;">
+<font color=white>'''This page has been suggested to be moved to [[{{{1}}}]], for the following reason(s): {{{2}}}<br>
+If you think this page should not be moved, please explain why in the comments section. Otherwise, please use the [[Special:MovePage/{{FULLPAGENAME}}|move tool]] to move the page.
+</font> </div>
+ <includeonly>[[Category:Candidates for moving]]</includeonly>
+<noinclude>[[Category:Templates]][[Category:Notice templates]]</noinclude>

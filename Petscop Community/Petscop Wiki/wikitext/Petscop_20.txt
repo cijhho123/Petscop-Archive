@@ -1,0 +1,36 @@
+{{Infobox episode
+|image = Thumb20.jpg
+|link = https://youtu.be/gRpCY8fr070
+|upload = April 21, 2019<br>2:59:35 PM (UTC-4)
+|runtime = 18 minutes 14 seconds
+|previous = [[Petscop 19]]
+|next = [[Petscop 21]]
+}}
+'''Petscop 20''' was uploaded at approximately 15:00 (UTC-4) on April 21, 2019.
+
+In this episode, the "marvin" [[recording]] in the All Recordings section of the [[secret menu]] is played, and parts of subsequent auto recordings. They're presumably played by [[Marvin]].
+
+''A transcript for this episode can be accessed at [[{{PAGENAME}}/Transcript]].''
+==Summary==
+The video begins in the "All [[Recording]]s" portion of the [[secret menu]]. The player navigates to a [[gen]] 6 recording titled ''marvin'' and plays it.
+
+In the recording, [[Marvin]] creates a save file named "MVM", explores the [[Gift Plane]] and [[Even Care]], eventually entering the code from the [[note]] and entering the [[Newmaker Plane]]. He walks around, but does not seem to find anything.
+
+The video cuts several times, showing several additional gen 6 recordings where Marvin wanders the Newmaker Plane. Eventually, a gen 7 recording, named ''auto-ugu8PsPt'' is played. Here, a text box appears, instructing Marvin to find an unmarked grave, and informing him that his movement speed has been increased so he may search faster.
+
+After Marvin begins searching, the video cuts to a gen 8 recording, called ''auto-1lTWsbyV''. Here, Marvin begins in front of a wooden door, like the one [[Paul]] found in [[Petscop 1]]. Unlike in Petscop 1 however, Marvin is able to open the door immediately by interacting with it. Through the door, Marvin finds a room containing the four [[caskets]], along with their descriptions.
+
+After viewing the caskets, he continues exploring. Notably, as he proceeds past the room with the caskets, he enters the hallway from where he disappeared in [[Petscop 8]].
+
+Later, Marvin is in the [[tool room]], interacting with the [[red tool]]. Afterwards, he interacts with the [[windmill]] screen, now with movement controls. Moving the camera up plays quiet audio of a child's voice. Moving the camera down into the room and turning it, a [[symbol block]] is visible. The [[pause menu]] is opened and the [[pets]] menu is checked, showing that Marvin has [[Toneth]]. Exiting the pets menu, the person watching the recording also pauses and returns to the [[Sound Test]] menu. The video then ends.
+
+==Notes==
+* There are no [[pieces]] anywhere in which Marvin plays that he can collect.
+* The gen 7 recordings can be presumed to take place after July 10, 1997, as Rainer notes his first messages to be written then. The gen 8 recordings can be presumed to take place after November 12, 1997, as they detail events after Care returned home.
+* The first picture shown in "Places" seems to correspond with the opposite view of the [[party room]]'s window. 
+* The symbol block shown corresponds with the connector room (between Pen's room and Randice & Wavey's Room) of Even Care.
+
+==Theories==
+* The lack of the "don't know how to open doors" message in the first room of Even Care and opening the basement door may suggest Marvin is capable of opening doors.
+
+{{VideoNav}}

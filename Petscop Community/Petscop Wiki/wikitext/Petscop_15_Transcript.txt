@@ -1,0 +1,128 @@
+:''[Demo - in the [[school]], first floor]''
+ 
+'''0:16'''
+:''[Player navigates to second floor of school]''
+
+'''0:32'''
+:''[Player pulled back to girl image]''
+ 
+:''[Player walks around girl image, music playing]''
+
+<blockquote>
+G i R L
+</blockquote>
+
+:''[Player walks off]''
+ 
+'''1:12'''
+:''[Player pulled back to girl image]''
+ 
+'''1:30'''
+:''[Player pulled back to girl image]''
+
+'''1:50'''
+:''[Player enters classroom in side hallway - [[Marvin]] is in the room]''
+
+<blockquote>
+'''Player:'''
+:{{P2|l2|cross|cross|l2|circle|r2|down|r1|triangle|l2|square}}
+:Not In Table
+
+'''Marvin:'''
+:{{P2|l1|cross|r1|triangle|r2|circle}}
+:Sit
+
+:{{P2|l2|down|r1|circle|l2|circle}}
+:Here
+
+:{{P2|r2|up|triangle|l2|circle}}
+:For
+
+:{{P2|r2|right|l2|left}}
+:The
+
+:{{P2|r2|square|l2|circle|left|l1|square|left|l2|square|r2|circle}}
+:Present
+</blockquote>
+ 
+'''2:30'''
+:''[Player sits at desk directly in front of chalkboard]''
+
+'''2:58'''
+:''[Tone plays - Marvin appears with [[Tiara]]]''
+ 
+<blockquote>
+'''Marvin:'''
+:{{P2|r2|right|r1|triangle|l1|cross}}
+:This
+
+:{{P2|r1|triangle|l1|cross}}
+:Is
+
+:{{P2|r2|triangle|left|l2|triangle}}
+:Bell
+</blockquote>
+
+:''[Marvin walks out of room]''
+
+<blockquote> 
+'''Tiara:'''
+:{{P2|up}}
+:I
+
+:{{P2|down|l2|cross}}
+:Am
+
+:{{P2|r2|circle|r1|circle|cross|l2|circle|start}}
+:Tiara
+
+:{{P2|l2|square|cross|r2|circle}}
+:Not
+
+:{{P2|r2|triangle|left|l2|triangle}}
+:Bell
+
+:{{P2|r2|square|l2|circle|left|l1|cross}}
+:Press
+
+:{{P2|l2|square|r1|triangle|r2|up|r2|circle|r1|circle}}
+:Nifty
+</blockquote>
+
+'''3:52'''
+<blockquote>
+'''Player:'''
+:{{P2|l2|start|l2|left|r2|circle}}
+:What
+
+:{{P2|l2|square|r1|triangle|r2|up|r2|circle|r1|circle}}
+:Nifty
+
+
+'''Tiara:'''
+:{{P2|l2|square|r1|up}}
+:No
+
+:{{P2|r2|square|l2|triangle|r1|cross|right}}
+:Player
+
+:{{P2|l2|start|l2|left|l2|square}}
+:One
+
+:{{P2|r2|square|l2|circle|left|l1|cross}}
+:Press
+
+:{{P2|l2|square|r1|triangle|r2|up|r2|circle|r1|circle}}
+:Nifty
+</blockquote>
+ 
+'''5:01'''
+:''<nowiki>[</nowiki>[[Draw Mode]] activates]''
+
+:''[Player draws on textures]''
+
+'''6:04'''
+:''[Draw Mode closes]''
+
+:''['''Video ends''']''
+[[Category:Transcripts]]

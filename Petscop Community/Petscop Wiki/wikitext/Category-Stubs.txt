@@ -1,0 +1,5 @@
+{{Autocategory|Stub}}
+These pages are worthwhile, but incomplete. They need to be expanded with more information.
+
+To add an article to this page, use {{t|stub}}.
+[[Category:Article maintenance categories]]

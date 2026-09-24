@@ -1,0 +1,34 @@
+{{Infobox episode
+|image = Thumb16.jpg
+|link = https://youtu.be/BmTyTN-J6ZU
+|upload = October 31, 2018<br>6:35:46 AM (UTC-4)
+|runtime = 2 minutes 40 seconds
+|previous = [[Petscop 15]]
+|next = [[Petscop 17]]
+}}
+'''Petscop 16''' was uploaded October 31, 2018. It has a video length of 2:40.
+[[File:P16 empty textbox brightened.png|thumb|The image at the start of the video, brightened for better visibility]]
+
+A day before the video was uploaded, the channel's about section was changed to "Recordings of a video game.", and the profile picture was changed to a cropped image of the garage, with the orange car in it.
+
+''A transcript for this episode can be accessed at [[{{PAGENAME}}/Transcript]].''
+
+==Synopsis==
+The video takes place in the [[garage]], and the track ''lost'' is playing. Unlike in previous videos, an orange car is parked in the garage, and an empty text box covers the lower portion of the screen. Several other noises can also be heard in the background.
+
+About 20 seconds into the video, the music cuts out, and the [[Burn-in Monitor]] appears, displaying the following message:
+<blockquote><poem>No controller input has been detected for a very long time.
+
+Family, neighbors, police, (or whoever,)
+KEEP GAME CONSOLE RUNNING,
+call provided phone number.</poem></blockquote>
+
+After some time, it switches to displaying an overhead depiction of a [[ghost room]], with a blinking red circle on the bed. Eventually, it switches back to the initial message, and loops.
+
+After looping several times, the red circle begins moving off of the bed, and towards the chair. The video then ends.
+
+==Notes==
+{{main|Misconceptions_and_rumors#Empty_text_boxes}}
+People often mistake the empty text box as [[censorship]], however this is not the case here. The black boxes used to censor video footage are completely dark, whereas text boxes are not.
+
+{{VideoNav}}

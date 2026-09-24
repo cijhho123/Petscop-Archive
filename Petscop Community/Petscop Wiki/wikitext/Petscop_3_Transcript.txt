@@ -1,0 +1,209 @@
+{{Improve|needs to be redone in new transcript format}}
+<span id="paulcm">Paul:</span>  Alright, so, now we're gonna look at um, what's over here, which I, I forgot about this. So,
+
+'''0:05'''
+:''[Paul navigates to "[[Good Grief And Alas]]" hallway]'' 
+
+<span id="paulcm">Paul:</span> gonna look at this now.
+
+:''[Paul walks along hallway, reading "GOOD GRIEF AND ALAS"]''
+
+<span id="paulcm">Paul:</span>  Interesting.
+
+'''0:30'''
+:''[Paul interacts with Child Library chute, opening it]''
+
+<span id="paulcm">Paul:</span>  What's that? Do I, uh...
+
+:''[Paul interacts with Child Library chute twice more, closing then opening it]''
+
+<span id="paulcm">Paul:</span>  Think I have to put something there.
+
+'''0:53'''
+:''[Paul enters the Child Library]''
+
+'''1:11'''
+:''[Paul interacts with face canvas]''
+
+<span id="paulcm">Paul:</span>  What? Um.
+
+:''[Paul begins selecting facial features]''
+
+<span id="paulcm">Paul:</span> Oh? Okay. ''[laughs]'' Alright. Okay.
+
+'''1:51'''
+:''[Face entered - room rumbles]''
+
+<span id="paulcm">Paul:</span>  This is just flat-out a full game that I'm playing now. What am I supposed to do? Can I just walk out?
+
+:''[Paul leaves the Child Library - rumbling stops]''
+
+<span id="paulcm">Paul:</span> I don't think I was supposed to do that. Yeah. Uh.
+
+:''[Paul enters the Child Library]''
+
+<span id="paulcm">Paul:</span> Yeah, I reset it. Okay, try that again.
+
+'''2:43'''
+:''[Paul interacts with face canvas - begins selecting facial features]''
+
+'''2:58'''
+:''[Face entered - room rumbles]''
+
+<span id="paulcm">Paul:</span>  So, do I just wait? I think that's what I'm supposed to do. Or I have to put something in there.
+
+'''3:29'''
+:''['''CUT''' - still in Child Library, rumbling has stopped]''
+
+<span id="paulcm">Paul:</span>  Yeah, it turned out I just had to wait, but I had to wait a while. Uh. So, this is cleared out, I guess. So what's in here?
+
+'''3:40'''
+:''[Paul enters child room]''
+
+:''[Paul looks at table view]''
+
+<span id="paulcm">Paul:</span>  Uhh. Huh. 
+
+:''[Paul disables table view]''
+
+<span id="paulcm">Paul:</span>  Okay. Well, alright. Let's try another one, I guess.
+
+'''4:22'''
+:''['''CUT''' - returned to main room of Child Library, with a new face on the canvas]''
+
+<span id="paulcm">Paul:</span>  So, I just did it again. I put in another one of these. And I just let it go, and it- and the room rumbles for a while, but then it just stops kind of abruptly. Uh, so, what do we have here now? 
+
+:''[Paul enters child room]''
+
+<span id="paulcm">Paul:</span> Yeah. Uh.
+
+:''[Paul looks at table view]''
+
+:''[Paul disables table view]''
+
+<span id="paulcm">Paul:</span>  Yeah, so it seems like, I put in one of these faces, and it gives me a room with, uh, I guess that's a kid sitting on the bed, and like, a different pattern on the floor and the walls, and the
+
+:''[Paul looks at table view]''
+
+<span id="paulcm">Paul:</span>  thing here. So,
+
+:''[Paul disables table view]''
+
+<span id="paulcm">Paul:</span> uh, it seems like there are many combinations of these faces. So, if I were to guess, these rooms are... Because there's not much variation between these rooms. They're probably generated in some way. Uh, so I'll try a few more. Every time I put in one of these, I have to wait for like ten minutes, so I'm not gonna try too many of them. I'm gonna... yeah.
+
+'''5:40'''
+:''['''CUT''' - new child room]''
+
+<span id="paulcm">Paul:</span>  Here's another one.
+
+:''[Paul looks at table view]''
+
+:''[Paul disables table view]''
+
+'''5:59'''
+:''['''CUT''' - new child room]''
+
+<span id="paulcm">Paul:</span>  And here's another.
+
+:''[Paul looks at table view]''
+
+:''[Paul disables table view]''
+
+<span id="paulcm">Paul:</span>  Yeah.
+
+'''6:14'''
+:''['''CUT''' - in grass area outside Flower Shack and Michael's grave]''
+
+<span id="paulcm">Paul:</span>  So, anything uh, look familiar here? Yeah. Yeah so. Probably we're supposed to try these out, put in these faces, and see what we get. So, uh. Start with this one.
+
+'''6:31'''
+:''['''CUT''' - returned to main room of Child Library]''
+
+:''<nowiki>[</nowiki>[[Mike]]'s face entered on canvas - room rumbles]''
+
+<blockquote>
+Mike is not inside right now. He is dead.<br>
+You may visit his room.
+</blockquote>
+
+'''6:45'''
+:''['''CUT''' - in Mike's Child Library room]''
+ 
+<span id="paulcm">Paul:</span>  So this is the room corresponding to the face on the gravestone.
+ 
+:''[Paul looks at table view]''
+ 
+<span id="paulcm">Paul:</span>  Not sure what that is, on the right.
+
+:''[Paul disables table view]''
+
+<span id="paulcm">Paul:</span> Alright. Gonna try the other one now, I guess. Nothing, nothing to see here. The bed's empty.
+ 
+'''7:22'''
+:''['''CUT''' - returned to main room of Child Library]''
+ 
+:''<nowiki>[</nowiki>[[Care]]'s face entered on canvas - room rumbles]''
+
+<blockquote>
+<span id="yellow">Care</span> is missing.<br>
+You may visit her room.
+</blockquote>
+
+'''7:35'''
+:''['''CUT''' - in Care's Child Library room]''
+ 
+<span id="paulcm">Paul:</span>  Here's the other room. 
+
+:''[Paul looks at table view]''
+
+<span id="paulcm">Paul:</span> Uh,
+
+:''[Paul disables table view]''
+
+<span id="paulcm">Paul:</span> and it looks like there's something here.
+ 
+'''7:48'''
+:''[Paul interacts with note]''
+ 
+<blockquote>
+Your wife says, <span id="blue">"<span id="yellow">Care</span> isn't growing eyebrows."</span>
+</blockquote>
+
+<span id="paulcm">Paul:</span> Uh.
+
+<blockquote>
+You say, <span id="green">"That's a puzzle."</span><br>
+You're secretly very excited to hear this news.<br>
+You're in the bathtub thinking about her.<br>
+I have a guess at which child you'll pick next.<br>
+When you find her room, the passage to my right will lead to her.<br>
+She'll appear from the darkness, limping, and I'll shoot her in the head.<br>
+</blockquote>
+
+<span id="paulcm">Paul:</span> What am I reading?
+
+<blockquote>
+<span id="purple">Tiara</span> says young people can be psychologically damaged <span id="purple">"beyond rebirthing"</span>.<br>
+A young person walks into your school building.<br>
+They walk in with you. You're holding their hands.<br>
+They come out crying into their hands, because nobody will love them, not ever again.<br>
+<span id="yellow">"Nobody loves me!"</span><br>
+They wander the Newmaker Plane.
+</blockquote>
+
+'''9:34'''
+<br>
+<span id="paulcm">Paul:</span>  I'm not sure what to say about that. But, I'm wondering now, because the note, remember, the note that came with this game... it said "For you:" — It was "For you." And, this note is referring to the player, it's saying "you," uh, and, I was already thinking this, but, uh,<br>
+it seems like, uh, it's possible this game was made, for — well, this part of the game, was made for somebody to see. Like, or at least at some point, it was, it was, uh, I don't know. I don't know. It just seems like there was, it was intended for somebody. Not me, certainly. Uh. Okay.
+ 
+'''11:03'''
+:''['''CUT''' - now outside of Child Library]''
+ 
+<span id="paulcm">Paul:</span>  We're still not done, because we still have whatever is over here. 
+
+:''[Paul walks through doorway to find nothing]''
+
+<span id="paulcm">Paul:</span> Or not. Okay. So, okay. I'll just end this here, then. Heh.
+
+:''['''Video ends''']''
+[[Category:Transcripts]]

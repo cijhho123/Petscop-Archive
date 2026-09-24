@@ -1,0 +1,215 @@
+::''[Sony PlayStation logo plays]''
+
+'''0:19'''
+::''{{BGM|garalina}}''
+::''[Garalina logo plays]''
+
+'''0:29'''
+::''{{BGM|petscop}}''
+::''[on title screen]''
+:'''Alright, so uh, this is just to uh, prove to you that I'm not lying about this game that I found.'''
+::''[selects an empty file, begins entering "[[Paul]]" as a name]''
+:'''I'm just gonna walk you through everything that I've seen so far,'''
+::''[finishes name entry and continues]''
+:'''and uh, obviously it will be exactly as I described it, because this is it.'''
+
+'''0:47'''
+::''[selects "Continue Game", loading]''
+
+'''0:56'''
+::''{{BGM|gift-plane}}''
+::''[in [[Gift Plane]]]''
+
+'''1:01'''
+::''[interacts with sign]''
+<blockquote>
+The Gift Plane has closed indefinitely, and all personnel have left.<br>
+If you are unaware, The Gift Plane provided homes to over a hundred young [[Pets]].<br>
+Unfortunately, we have failed to remove all of the Pets from their homes.<br>
+<span id="red">48</span> Pets remain here, at the time of writing.<br>
+We would strongly encourage you to visit our <span id="red">8</span> homes and find some friends to take with you.<br>
+Every Pet is uniquely valuable. You should have no problem finding somebody that you love.<br>
+- The Gift Plane staff
+</blockquote>
+
+'''1:25'''
+:'''And uh, the first level is over here. '''
+::''["[[Even Care]]" label appears on screen]''
+:'''I'm just gonna keep going a bit here, so you can see that the game is apparently unfinished because there's nothing over here.'''
+
+'''1:35'''
+:'''So, I'm just gonna show you the one and only level. This actually is not the interesting part but I'm just uh, gonna show you,'''
+::''[enters Even Care, loading]''
+:'''I'm gonna walk you through all of this so you can see that this is exactly what I described.'''
+
+'''1:50'''
+::''{{BGM|level1}}''
+::''[in Even Care, entrance]''
+
+'''1:53'''
+::''[interacts with picture]''
+<blockquote>
+It's a picture of two friends, [[Toneth|<span id="red">Toneth</span>]] and [[Randice|<span id="green">Randice</span>]].<br>
+Are they not cute? Give them a chance!
+</blockquote>
+
+'''2:02'''
+::''[interacts with door]''
+<blockquote>
+This door is locked.<br>
+Or not, but you don't know how to open doors.
+</blockquote>
+
+'''2:11'''
+::''[enters sign room]''
+::''[interacts with first sign]''
+<blockquote>
+When you're choosing a pet, find somebody that you like.<br>
+You don't have to love them right away.
+</blockquote>
+::''[interacts with second sign]''
+<blockquote>
+Don't be discouraged if they run from you! They really do want a home.<br>
+They're afraid. Show them that there's nothing to be afraid of.
+</blockquote>
+
+'''2:31'''
+::''[enters [[Amber]]'s room]''
+:'''So, the first pet is in this room.'''
+::''[interacts with object on table]''
+<blockquote>
+It's a trophy, "awarded to our <span id="blue">Amber</span> for being a real champ yesterday and today."<br>
+"She hasn't left her cage once!"
+</blockquote>
+
+'''2:45'''
+:'''And uh, the first thing you gotta do here is uh,'''
+::''[interacts with left switch; left cage opens, Amber moves to right side]''
+:'''let her out of her cage, and she just moves to the other one.'''
+
+'''2:54'''
+<br>
+:'''And then you'''
+::''[interacts with right switch; right cage opens, Amber moves to left side]''
+:'''do that, take the money here,'''
+
+'''3:06'''
+:'''and then, actually, you go over here and'''
+::''[walks to left side, Amber moves to right side]''
+:'''she just does that. But if you uh, do this,'''
+::''[interacts with left switch and walks inside cage; left cage closes]''
+
+:'''if you lock yourself in here, then she just,'''
+::''[Amber moves to left side]''
+:'''Amber will just run over there and'''
+::''[Amber Caught]''
+
+'''3:20'''
+:'''So once you're in here, actually, you can find a little place here to walk to the other side. So that's that.'''
+
+'''3:30'''
+:'''And so there's actually, there's another'''
+::''[enters [[Roneth]]'s room]''
+:'''pet over here. I can't catch this one. I've tried.'''
+::''[walks towards Roneth to show him flying away]''
+:'''This is always what happens. So I don't know what's up with that one.'''
+
+'''3:43'''
+:'''So uh, actually I should show you the pause menu.'''
+::''[opens [[pause menu]]]''
+::''[pause message: "We hope you are enjoying the game."]''
+::''[opens Pets menu]''
+:'''So here you can see all the pets that you've, uh, collected. That you've caught.'''
+::''[selects Amber]''
+<blockquote>
+Amber is a young ball.<br>
+She's afraid to leave home. If her home is good, this is not a problem.<br>
+She is very heavy, and that makes her life a little harder, as well as yours.<br>
+What's the safest place you can put her in? You should start thinking about that.
+</blockquote>
+::''[closes Pets menu and pause menu]''
+
+'''4:05'''
+::''[enters Amber's room]''
+
+'''4:09'''
+::''[enters [[Pen]]'s room]''
+:'''Alright, so the second one here is sort of uh, a music one.'''
+::''[walks around on piano]''
+:'''The idea here is, you have to get your clone over there to overlap with it. And uh, I'll just cut to the chase, you just set this to, uh, what is it, seven.'''
+::''[sets treadmill to 7]''
+:'''And, uh, just like that.'''
+
+'''4:35'''
+::''[Pen Caught]''
+:'''I don't totally get that one, but that's that.'''
+
+'''4:45'''
+::''[enters connector room]''
+::''[enters Randice & [[Wavey]]'s room]''
+
+'''4:51'''
+:'''Alright, so this one's kind of interesting. Uh, so, the idea is, if you run over here to catch the flower here,'''
+::''[Randice burrows]''
+:'''then you'll just get rained on.'''
+:'''What you're supposed to do is whenever the flower comes over here, you notice it always comes to that exact spot over there, which you can uh, get this bucket into that exact spot.'''
+::''[pushes bucket to where Randice will surface]''
+:'''That the spot? Yeah.'''
+::''[Wavey rains into bucket, Randice wilts]''
+:'''Then the, then that happens, and you can just catch them both that way.'''
+
+'''5:26'''
+::''[Randice Caught]''
+::''[Wavey Caught]''
+
+'''5:31'''
+:'''Okay. So, yeah, that's it for the, actually that's everything. That's every single pet here that I've been able to catch. Uh, so, now I'm gonna show you the part that's actually interesting.'''
+
+'''5:45'''
+::''[CUT, in Roneth's room]''
+
+:'''Alright, so I still can't catch this guy. The reason we're here is because,'''
+::''[Paul audibly turns and looks at [[note]]]''
+:'''in the note that came with this, which is short, the first line, in all capital letters, I'm gonna read it, it says:'''
+:'''"I WALKED DOWNSTAIRS AND WHEN I GOT TO THE BOTTOM, INSTEAD OF PROCEEDING, I TURNED THE RIGHT AND BECAME A SHADOW MONSTER MAN".'''
+:'''Below that, a date: June 13th, 1997'''
+:'''"For you: Please go to my website on the sticker and also go to roneth's room and press start and press down down down down down right start".'''
+
+'''6:36'''
+:'''So I happen to know this is Roneth's room, because it works. So I go here.'''
+::''[opens pause menu]''
+::''[pause message: "We hope you are enjoying the game."]''
+:'''I'm just gonna do this now. Uh, so, what is it,'''
+::''[begins inputting code]''
+:'''down down down down down right start.'''
+::''[sound plays, music stops; closes pause menu]''
+:'''Alright. So, you can see that it accepted it, and the music stopped. I'm just gonna go out this way here.'''
+
+'''7:01'''
+::''[enters Amber's room; transitions now fade to black]''
+:'''So, it appears to be the same, except'''
+::''[enters sign room]''
+:'''when I actually leave here it'll be a little bit different.
+::''[enters entrance]''
+
+'''7:18'''
+::''[leaves Even Care, loading]''
+
+'''7:27'''
+::''[in [[Newmaker Plane]], in front of brick building]''
+:'''Alright. So there's uh, nothing out here, as far as I've seen. But actually, I think there is something out here. I just haven't seen it yet. Because it sure seems like'''
+::''[Paul audibly turns and looks at note again]''
+:'''in this note here, it sure seems like, right, I'm supposed to come out here and look at something. I haven't found anything yet, but I'm thinking if I just keep walking around here, I'm gonna find something eventually. I --'''
+
+'''8:01'''
+::''[CUT; in Newmaker Plane, next to cellar door]''
+
+:'''Hey, so, I was talking about how I couldn't find anything out here. Well, I just found this. And uh, last time I came out here, I was walking around in this space here for over an hour. And this time I find this in less than fifteen minutes. So, this is just luck, that I happened to find this.'''
+:'''And uh, I think, if I were to restart my console right now I would not be able to find this again. Probably. Because I don't remember what I- what I did. You know, all the directions that I went. So, um, so, I'm kind of scared to, you know, I wanna keep the console on until I figure this out.'''
+:'''The situation is that I cannot open this door. Uh, I probably can open the door, but I don't know what to do. So I thought I would just slip this in at the end. If you think you saw something that might provide a clue, uh, please let me know.
+:'''Alright. That's it.'''
+
+'''9:07'''
+::''[video ends]''
+
+[[Category:Transcripts]]

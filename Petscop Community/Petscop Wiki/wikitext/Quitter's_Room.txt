@@ -1,0 +1,42 @@
+[[File:Quitter-0.png|thumb|220x220px]]
+The '''Quitter's Room''' is a location under the [[Newmaker Plane]]. It is a room where [[Tiara]] is initially trapped in, until she is "freed" by Paul in [[Petscop 10]] (though not seen until [[Petscop 12]]).
+
+== Outside the Quitter's Room ==
+The Quitter's Room is to the right side of the passage going up from the [[grave room]], opposite the [[tool room]]. The exterior of the Quitter's Room is plain, with a hallway going to each side of the room. If a side of the Quitter's Room is closed off, it is not accessible from this point. Going up from either of the hallways first puts the player in a hallway area, before coming out into the Quitter's Room.
+
+Initially, [[Paul]] is only able to access the right, mirrored side of the Quitter's Room. The gates in [[Amber]]'s room in [[Odd Care]] appear to control what sides of the Quitter's Room are open. Opening the left side is necessary to free [[Tiara]] from the Quitter's Room.
+
+<gallery>
+Outside the Quitter's Room.png
+</gallery>
+
+== Inside the Quitter's Room ==
+The Quitter's Room is split into two reflected versions of itself, with a large mirror in the middle. The left side is the main side, while the right side is a reflection of the left side. There are some furniture objects around the room and a note on the wall, which line up with each side of the room. The note on the wall reads "Do you remember being born?" with a line on the bottom. The text "Quitter's Room" is written on the floor. There is a clock on the side of the room, which does not appear to change while in the room, but does seem to change its time on various occasions.
+
+Besides being mirrored, the only difference between the sides is that the left side has a [[symbol block]] on the bed. This symbol block suggests that Amber's room in [[Odd Care]] is associated with the Quitter's Room.
+
+An overhead perspective of the left side is shown in a [[loading screen]] when entering the first door to under the Newmaker Plane.
+
+When initially accessed, Tiara was trapped in the Quitter's Room. While Tiara is trapped, she mirrors the movements of the player on the opposite side of the room from her. When the player moves behind the bookshelf, her mirrored movement is desynchronized for a few moments, and sometimes making movements that the player did not make.
+
+<gallery>
+Born.PNG|The reverse text reads "Do you remember being born?"
+Quitter clock.png
+Loading-under-bright.png
+</gallery>
+
+== Appearances ==
+The Quitter's Room is first shown in [[Petscop 2]]. Its first appearance is in a loading screen, but Paul visits it later in the episode. He experiments with the mirrored movement, experiences the desync by going behind the bookshelf, and stops to study the footage. Afterwards, he discusses a bit about the reversed text before leaving the room.
+
+In the beginning of [[Petscop 7]], Paul is idling in the Quitter's Room when music begins to play. While it is playing, Tiara is not visible; after it concludes, Tiara reappears. After this, the note on the wall has been written on with [[Draw Mode]], asking Paul to "COME HERE" in pink text, which is written similar to [[pink tool]]'s messages. After this, Paul navigates to the [[tool room]] to find pink tool.
+
+In [[Petscop 10]], Paul opens both gates in [[Amber]]'s room in [[Odd Care]]. He then revisits the Quitter's Room, and is able to access the left side. After walking around, he walks up to the [[symbol block]], before the video abruptly cuts.
+
+In [[Petscop 12]], a recording of Tiara in the Quitter's Room is shown through demo playback, beginning in the right side of the Quitter's Room. Shortly after the video begins, Paul enters from the left side of the room and Tiara begins reflecting his position. This is a [[synchronized event]] from Paul's inputs in Petscop 10. When Paul walks outside the room, Tiara goes with him. Once their characters intersect, Paul's character disappears and Tiara regains control of her character, freed from the Quitter's Room.
+
+In the recording shown in the beginning of [[Petscop 22]] (which chronologically takes place after Petscop 10, after Paul has freed Tiara), at one point, Paul is standing in the left side of the Quitter's Room, telling [[Belle]] about how the "Tiara character" is no longer there.
+
+== Theories ==
+The line on the bottom of the "Do you remember being born?" note may indicate that an answer is supposed to be written there.
+
+{{LocationNav}}

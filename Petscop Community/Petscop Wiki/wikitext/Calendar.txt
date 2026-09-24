@@ -1,0 +1,29 @@
+[[File:calendarTOOL.png|thumb|The red tool with a calendar hovering in front of it.]]
+'''Calendars''' are recurring objects in [[Petscop (game)|Petscop]] that reflect in-game time periods and possibly represent [[timeline]] connections.
+
+Instances of calendars first occur in [[Petscop 10]], as responses to "What year is it?" and "What month is it?" from [[red tool]]. This occurs again in [[Petscop 20]] during the set of "[[marvin]]" [[recording]]s. These are not interactive. 
+
+Interactive calendars appear in the [[house]], and change between variations of it. The current day is animated, with holidays marked if one is occurring that day. Months can be navigated between. The PlayStation controller buttons are reversed in left and right at the top, but this appears to be in line with the [[options]] menu as seen in Petscop 20.
+
+== Colors==
+[[File:Housecalendars.png|thumb|Calendars in Dec. 25 of the house.]]
+There are three colors of calendars seen so far that appear to represent different years.
+
+The green calendar, seen in the house (during December 25, June 5, and November 12) and as responses to Marvin asking date-related questions to the red tool, represents '''1997'''. In the house, some days are marked in green.
+
+The grey calendar, only seen in the December 25 version of the house so far, represents '''2000'''. 
+
+The red calendar, seen in the November 12th variation of the house and as responses to [[Paul]] asking date-related questions to the red tool, represents '''2017'''.
+
+== Theories ==
+The calendar appearances and years seem to reflect important events.
+* The green and grey calendars appearing during December 25 (Christmas), may reflect one of the [[channel]] descriptions and the event described; "Rainer" gave this gift to us on ''Christmas 1997 and 2000''."
+* The green and red calendars appearing during November 12 ([[Care]]'s birthday, and also possibly Paul's) may insist connections between Care's return and Paul's conversation.
+
+The green highlighted spots on the green calendars may be reflective of custody between Marvin and [[Anna]] with Care. During the period that Marvin had kidnapped Care in 1997 (June 5 to November 10), all days are green.
+
+The colored calendars that appear during date-related questions to the red tool indicate some form of understanding of the current year the player is playing in, as Petscop 10 was during 2017 (when a red calendar was shown), and Petscop 20's shown recordings were from 1997 (when a green calendar was shown).
+
+== Resources ==
+* Fanmade interactive calendars from the house: https://newdefectus.github.io/calendars/
+[[Category:Objects]]

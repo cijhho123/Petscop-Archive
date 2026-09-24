@@ -1,0 +1,57 @@
+There are various recurring motifs throughout the [[Petscop|Petscop series]].
+
+== Gifts ==
+Gift boxes, events that commonly involve gifts, and the word "gift" have appeared numerous times within the [[game|Petscop game]] and in relation to other characters outside of the game.
+*Petscop's title screen features the game's logo in front of a gift box.
+*The [[Gift Plane]] is the hub world of the surface game of Petscop. It has numerous blue gift boxes held up by poles on its landscape. 
+** The [[loading screen]] for entering the Gift Plane also has one of these gift boxes held up by a pole, though it is colored more similarly to the gift box on the title screen.
+*The epitaph of [[Mike]]'s grave reads "Mike was a gift." His grave also has a gift box shape on top of it.
+*In Petscop 9, there are various gift boxes in what appears to be a birthday party. One gives Paul a green key, another contains a [[censored]] object, and another teleports Paul to the Newmaker Plane. All the gifts are white with a purple/pink ribbon, like the gift box on the title screen.
+*In [[Petscop 11]], a Christmas party is shown in the December 25 variation of the house. There are gift boxes colored white with various colors of ribbons under the Christmas tree in the living room.
+
+*After reading Care A's description, [[Paul]] mentions seeing Rainer at a birthday party once when he was younger.
+*In Petscop 14, during [[Strange situation]] as the November 12 variation of the house, [[Care]]'s birthday party is ongoing. Similar gift boxes that were under the Christmas tree previously are now visible under a table.
+*The [[channel]] description from June 8, 2017 to December 24, 2017 included the following text, describing Petscop itself: ''""Rainer" gave this gift to us on Christmas 1997 and 2000."''
+*[[Anna]]'s message at the end of the [[Book of Baby Names]] is a birthday card for Mike to be shown at his birthday party. It also mentions a gift in a black box for Mike, which [[Carrie]] helped pick out.
+
+The word "present" is also used in some instances. While some of these are clearly about gifts, the word is sometimes used in a way that it is possibly used like the word "now", perhaps simultaneously.
+*The channel description from December 24, 2017 to October 31, 2018 included the following text: ''"The purpose of this YouTube channel is to preserve and display the recordings within the video game "Petscop" while keeping some of their content private. They were first given to us as a Christmas present, many years ago."''
+*In Petscop 11, one of the textboxes that appears when Paul enters the house during its December 25 variation reads "Is this a present? Who is it for?"
+*[[Care A]]'s description, written by [[Rainer]], includes ''"I'm back. This is my present for you. I started it in 1996, for Marvin."'' which is presumably referring to Petscop itself. The message also mentions ''"Merry Christmas"'', which suggests this was supposed to be read on or around Christmas.
+*In recordings shown in [[Petscop 15]], when Marvin fetches Tiara for [[Pall]], he tells Pall to "Sit Here For The Present".
+*The [[Petscop Soundtrack]]'s video description includes the phrase "And now, the present:" at the end.
+
+== Music ==
+Music (particularly playing music) is a recurring theme in Petscop. Playing music, particularly with the Needles Piano, is crucial to the [[rebirthing]] process depicted in Petscop.
+* The puzzle to catch [[Pen]] involves a keyboard and transposing. Part of her description in the [[pets]] menu indicates that she is deaf and does not know what music is, and questions why she is around a keyboard. 
+* The [[Needles Piano]] is a recurring pyramid-shaped instrument. It is normally purple, but turns red when "bad music" is being continuously played.
+** In [[Petscop 11]] and [[Petscop 23]], the Needles Piano is spawned by Marvin and played by Pall. Both times, Pall ends up playing "bad music", which Marvin dislikes.
+** Playing the Needles Piano is part of the rebirthing process in Petscop. Its outcome is seemingly determined by how well it is played.
+* In Petscop 7, while Paul is idling in the Quitter's room, music begins to play that appears to make [[Tiara]] stop replicating his movements. The song played was part of the  [https://www.youtube.com/watch?v=ijSmRoPzMaY&feature=youtu.be&t=2m51s 2nd Movement of Stravinsky's Septet.] In Petscop 12, "Stravinsky's Septet on the Needles" is mentioned, which suggests the music in Petscop 7 was being played on the Needles Piano.
+* Multiple [[loading screen]]s depict real pianos or the Needles Piano.
+
+<gallery>
+LoadingScreen11-1.png
+Loading-class-bright.png
+Loading-school-bright.png
+</gallery>
+
+== Doors ==
+It is frequently implied that Paul is unable to directly open doors in Petscop, while Marvin easily passes through or opens doors.
+* When Paul is playing, one of the doors in the first room of [[Even Care]] cannot be opened, and the textbox states that it may be locked - or not, but the player does not know how to open doors. When Marvin plays and interacts with this door, said textbox is missing, implying that the door is simply locked for Marvin.
+* Paul had to wait for the cellar door on the [[Newmaker Plane]] to open by itself. Marvin can interact with the door to open it immediately.
+* In [[Odd Care]], the typically closed door from Even Care is open, and where Paul enters from. Some of the doors from Even Care are missing in Odd Care. One of the doors closes while Paul is trying to walk through it, right before the game crashes.
+* Paul is unable to open the door to the [[house]] after he unlocks it. It opens on its own after a while.
+* The bathroom door is initially closed until it is opened corresponding with the text boxes.
+* When Paul walks into the closet in Care's room, the closet door closes on him, and he is unable to leave until the room resets and the door re-opens.
+* Marvin runs through the closed door into the garage after catching Care A. Paul is unable to follow him.
+* In Petscop 14, Paul notices that the door to the master bedroom is open in [[recording]]s being played back through demos, but closed when playing. He has to pretend that the door is open and make inputs that allow him to gain a [[key]] and enter the [[garage]] in a recording to progress.
+* In recordings shown in [[Petscop 23]], the door to the closet in the [[basement]] where [[Care B]] is held is initially closed. It opens after pushing objects into the pit.
+
+<gallery>
+Odd Care room 1.png|First room of Odd Care
+</gallery>
+
+== References ==
+<references />
+[[Category:Theories]]

@@ -1,0 +1,19 @@
+;Description
+:This template is used to create a basic navigation box.
+;Syntax
+:Type <code>{{t|navbox|...}}</code> somewhere, with parameters as shown below.
+;Sample output
+
+<pre>{{navbox
+|header=Land of Bob
+|body=This <nowiki>[[place]]</nowiki> and that <nowiki>[[place]]</nowiki>.
+}}</pre>
+
+Results in...
+
+{{navbox
+|header=Land of Bob
+|body=This <nowiki>[[place]]</nowiki> and that <nowiki>[[place]]</nowiki>.
+}}
+
+<includeonly>[[Category:Templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>

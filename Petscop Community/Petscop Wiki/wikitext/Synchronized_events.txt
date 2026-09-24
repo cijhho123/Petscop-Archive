@@ -1,0 +1,37 @@
+'''Synchronized events''' are occurrences of inputs from any of the [[players]] being played back elsewhere.
+
+While most instances of synchronized events can be explained by recordings being played from another player's perspective, in a different generation, or both- there are a few instances where neither of these seem to apply by the known limitations of the [[game]] and its recording systems.
+== Instances ==
+=== Anomalies ===
+These occurrences have inconsistencies with how [[recording]]s appear to work.
+
+==== Petscop 2 & Petscop 9 ====
+The first instance of synchronized inputs occurs in [[Petscop 9]] based on inputs in [[Petscop 2]].
+
+In Petscop 2, Paul gradually plucks all the petals from the flower on the top level of the shed in the [[grave room]]. Some petals are picked initially, before Paul checks the lower floor and comes back to pick the rest. In Petscop 9, a recording played back through a demo is shown. None of the inputs in the recording align with any other occurrences, until the player in the recording gets onto the treadmill in [[Pen]]'s room. Then, the timing of Paul plucking the petals is played as movement inputs on the treadmill. 
+
+Unlike other synchronized events, this instance synchronizes the timing of certain inputs to a different input, instead of the exact inputs being played back. This sort of synchronization is never seen again in the series.
+
+==== Petscop 9 (Child Library) ====
+In Petscop 9, when Paul enters [[Lina]]'s room in the [[Child Library]], another [[guardian]] (with the same head as Paul's guardian) can be seen walking out the passageway at the back of the room. After Paul is done reading the note at the back of Lina's room, he exits the room in the very same way.
+
+Unlike other synchronized events, and instances of showing other [[players]] in general, this does not appear to be a distinct player, and there is no clear explanation for what happened.
+
+==== Petscop 11 (bathroom) ====
+In Petscop 11, both times that Paul enters the bathroom in the [[house]] initially, he makes the same exact inputs, up until the point where he walks into the bathtub in the first instance. The video is cut in the first instance, along with a ramp up to the bathtub being present along with a [[symbol block]] above the bathtub. On the second occurrence recording, Paul responds in confusion, claiming he thought he saw a block above the bathtub.
+
+=== Recording playback ===
+These occurrences are clear instances of recordings being played back from other player's perspectives, in other generations, or both.
+
+==== Petscop 10 & Petscop 12  ====
+In [[Petscop 10]], after Paul uses the states of the gates in [[Amber]]'s room in [[Odd Care]] to access the left side of the [[Quitter's Room]], he explores the other side of the room. Before the video cuts, he walks up to the [[symbol block]] on the bed.
+
+In [[Petscop 12]], a recording of [[Tiara]] playing is shown as a demo, starting in the right side of the Quitter's Room. Near the beginning of the video, she is snapped back to the entrance of the Quitter's Room, and forced to mirror the movements of the player on the left side, which is Paul. The movements Paul makes are exactly of those in Petscop 10. After he touches the symbol block, the recording goes on as he exits the room, Tiara still forced to mirror him. His character disappears as his movements intersect with Tiara mirroring him, and Tiara regains control. This appears to "free" her from the Quitter's Room.
+
+==== Petscop 11 & Petscop 12 ====
+In the first recording shown in [[Petscop 11]], [[Marvin]] walks into the [[school]], while [[Pall]] follows him.
+
+In Petscop 12, Tiara playing is being shown as a demo. Later in the video, she encounters Marvin walking around. Marvin is replicating his movements outside of the school from the recording shown in Petscop 11. When the point at which he would enter the school occurs, he freezes mid-animation. His [[P2 to TALK]] inputs do not show up when replayed in Petscop 12.
+
+==== Petscop 14 "attempts" ====
+In [[Petscop 14]], Paul is attempting to make progress within the [[house]]. He notices that in a recording, the door to the master bedroom is open and the room can be entered, while in his live gameplay it is not. Throughout part of the video, his live gameplay and its corresponding recording are overlaid in the video, as he makes "attempts" to push the [[bucket]] into the room, paint the wall, obtain a [[key]], and walk out and up to the door to the garage, all within the recordings.

@@ -1,0 +1,53 @@
+{{Unofficial name|fanname}}
+[[File:Room_8.png|thumb|The symbol of the Newmaker Plane entrance room.]]
+'''"Odd Care"''' is an alternate version of [[Even Care]] first shown via a [[recording|demo recording]] during [[Petscop 9]]. It can be accessed by the player through a brick building on the [[Newmaker Plane]] accessed via the [[party room]]. [[Paul]] visits it in Petscop 9 and [[Petscop 10]]. 
+
+The [[game]] has been shown to crash in some circumstances while in Odd Care.
+
+== Differences from Even Care ==
+The alternate version has a slightly different layout. One additional room is found in place of the first locked door in Even Care. The doors to the [[Gift Plane]], [[Roneth]]'s room, and the connector room (which leads to [[Randice]] & [[Wavey]]'s room) are closed at all times, and the tiles beyond the doors are missing. Doors have also been shown to close on some occasions for unknown reasons. There are no [[pets]] in Odd Care. 
+
+The treadmill in [[Pen]]'s room goes from -1 to 16, instead of 2 to 7. The piano in Pen's room is also missing.
+
+There are other slight differences, such as the first sign in the [[Even_Care#Sign_hallway|sign hallway]] reading somewhat differently than the version in Even Care:
+<blockquote>
+When you're choosing a pet, find one that you like.<br>
+You don't have to love them right away.
+</blockquote>
+Instead of "find somebody", it reads "find one".
+
+Odd Care uses [[Work Zone]]'s music, which was also used for Even Care in [[gen]]s 3 and 4. 
+
+There are some additional pieces to collect in Odd Care.
+
+== Crashes ==
+On three occasions as seen in the Petscop videos, the game appears to crash in Odd Care.
+
+The first crash occurs during the initial recording that Odd Care is seen in shown in Petscop 9. After the player in the demo sets the treadmill to 0, the visuals freeze in place, and the music cuts out a moment later.
+
+The second crash occurs while Paul is first visiting Odd Care. After he sets the treadmill to -1, he walks left to the other side of Pen's room, for the game to crash in the middle of his walking animation. 
+
+The third crash occurs while Paul is leaving Odd Care in Petscop 10 after opening both cages in Amber's room. The door in the room with the signs closes by itself before Paul can reach it, and as he walks back towards the door to Amber's room, the game crashes. This crash appears to label his save file with "PANICSV possible corruption" (though it is possible that other crashes may have also caused this); continuing his save file places him back at the gift box that took him to the brick building, back in the party room. Revisiting Odd Care reveals that despite the crash, it still saved which cages he opened in Odd Care. 
+
+== Newmaker Plane connections ==
+Some interactive objects in some parts of Odd Care affect things in the [[Newmaker Plane]] when changed in state, or relate to Odd Care in some way, represented by the [[symbol blocks]] there.
+
+The brick building on the Newmaker Plane that leads to Odd Care has a symbol block above it. The same symbol is seen in the background of the room seen in Odd Care immediately after entering the brick building.
+
+The state of the cages being open or closed in [[Amber]]'s room in Odd Care link to which sides of the [[Quitter's Room]] are open [[under the Newmaker Plane]]. On the left side of the Quitter's Room, which can only be accessed after opening the left gate in Odd Care, a symbol block with the same symbol as the background of Amber's room can be seen on the bed.
+
+The number set on the treadmill in Pen's room affects the amount of petals pulled from the flower in the shed in the [[grave room]]; when set to -1, it enables the player to catch [[Care NLM]]. After catching Care NLM, the light shifts to the back of the room, revealing a symbol block with the same symbol as the background of Pen's room.
+
+==Gallery==
+<gallery>
+Odd Care room 8.png|The entrance room from the Newmaker Plane
+Odd Care room 1.png|Reception
+Odd Care room 2.png|Sign hallway
+Odd Care room 3.png|Amber's room
+Odd Care room 5.png|Pen's room
+</gallery>
+
+== Theories ==
+The various differences in Odd Care may be due to it possibly being a different [[gen]] of Even Care.
+
+{{LocationNav}}

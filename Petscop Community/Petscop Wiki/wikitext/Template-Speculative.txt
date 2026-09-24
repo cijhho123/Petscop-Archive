@@ -1,0 +1,5 @@
+<div style="background: #222; border-style: solid; border-top: 5px solid #0f0a0c; border-right: 5px solid #060403; border-bottom: 5px solid #010200; border-left: 5px solid #060405; margin: 10px 5px 10px 5px; padding: 10px;">
+<center><font color="#82CC68" size="6" style="font-family: 'PetscopWide',monospace;">"That looks dubious to me. What do you think?"</font><br>
+<font size="3" color=white>This article is about a topic that has no widely accepted interpretation or clear details. </font></center></div><includeonly>{{#ifeq:{{NAMESPACENUMBER}}|0|[[Category:Articles which rely heavily on inference]]}}</includeonly>
+<noinclude>[[Category:Templates]][[Category:Notice templates]]</noinclude>
+{{clear}}

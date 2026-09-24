@@ -1,0 +1,18 @@
+{{Infobox episode
+|image = Thumb24.jpg
+|link = https://youtu.be/2KsWlk79rng
+|upload = September 2, 2019<br>12:01:42 AM (UTC-4)
+|runtime = 3 minutes 20 seconds
+|previous = [[Petscop 23]]
+|next = [[Petscop Soundtrack]]
+}}
+'''Petscop 24''' was uploaded at midnight (UTC-4) on September 2, 2019.
+
+''A transcript for this episode can be accessed at [[{{PAGENAME}}/Transcript]].''
+
+==Synopsis==
+The player opens the [[pause menu]]. The game preview window displays the [[Newmaker Plane]] with blue lighting similar to how it appeared near the end of [[Petscop 23]]. The message under the [[Pieces|piece]] counter reads "Now:". The [[Book of Baby Names]] is selected and, unlike in [[Petscop 6]], the player is allowed to use this option.
+
+A list of names, alongside very short descriptions, scrolls across the screen. After this, a note from [[Anna]] appears, directed at [[Michael Hammond]] whose 7th birthday was celebrated.
+
+{{VideoNav}}

@@ -1,0 +1,37 @@
+{{Speculative}}
+[[File:Burn-in monitor room.png|thumb|The room displayed by the Burn-in Monitor]]
+'''Ghost rooms''' (also known as '''testing rooms''') are small orange rooms depicted by the [[Burn-in Monitor]] and within the [[School#Third_floor|school's third floor]]. Each room contains a bed, chair, piano and a [[wikipedia:PlayStation_(console)|PlayStation]].
+
+Very little is known about the ghost rooms and their purpose.
+{{clear}}
+== History ==
+[[File:School F3 Room 1.png|thumb|The image of room 1]]
+A ghost room is first depicted during [[Petscop 16]] via the Burn-in Monitor.
+
+In [[Petscop 17]], a message within the [[pause menu]] says ''"The ghost room is a ship in a bottle."''
+
+During the [[recording]] shown in [[Petscop 23]], the player explores the school's third floor.
+The first room contains eight closed doors with numbers above them. In front of each door is a desk with a [[Tarnacop]] machine on it, with the monitor displaying a rotating [[Garalina]] logo, except for the seventh room, which shows the [[windmill]] interior on it's monitor.
+
+[[File:Room1 message.png|thumb|The message that appears briefly on the image of room 1.]]
+The walls of the second room depict images of the ghost rooms, labeled numerically, like the doors in the previous room. The player, addressed as "[[Pall]]", is asked by [[Marvin]] which room they are in. After viewing each room, the player circles around the wall near the image of room 1. Notably, the layout of room 1 matches with the layout depicted by the Burn-in Monitor.
+
+Just before the player stops viewing the image, a message appears for one frame, which reads ''"PUSH BED [AGAINST] HIDDEN DOOR,"'' and contains an arrow pointing to a location on the room's wall. The message is similar to those written via [[Draw Mode]].
+
+== Gallery ==
+<gallery>
+Room1.png|Room 1
+Room2.png|Room 2
+Room3.png|Room 3
+Room4.png|Room 4
+Room5.png|Room 5
+Room6.png|Room 6
+Room7.png|Room 7
+Room8.png|Room 8
+</gallery>
+
+== Theories ==
+[[File:Loading-class-bright.png|thumb|The piano loading screen from Petscop 11 (brightened)]]
+The piano appears to have a ring with a PlayStation controller inside of it, like the one that appears in a [[loading screen]] during [[Petscop 11]]. The pianos in the ghost rooms may be used to control the ingame [[Needles Piano]].
+
+The 8 ghost rooms may correlate to the 8 homes mentioned in the [[Gift Plane]].

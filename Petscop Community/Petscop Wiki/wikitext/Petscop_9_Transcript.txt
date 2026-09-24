@@ -1,0 +1,213 @@
+::''[On the title screen]''
+
+'''0:10'''
+::''['''[[Demo]] begins playing''']''
+::''{{BGM|level2}}''
+::''[in [[Even Care]], entrance]''
+::''[enters sign room]''
+::''[enters [[Amber]]'s room]''
+::''[enters [[Pen]]'s room]''
+
+'''0:36'''
+::''[steps onto treadmill (currently set to 16)]''
+::''[sets treadmill to 3; "pluck" sound every time number is lowered]''
+
+'''1:20'''
+::''[sets treadmill to 0; "pluck" sound every time number is lowered]''
+::''[music stops; game freezes]''
+
+'''1:28''
+::''['''CUT''']''
+::''[in the [[grave room]] (gameplay)]''
+::''[enters top floor of shed]''
+::''[exits shed]''
+::''[enters bottom floor of shed]''
+::''[exits shed]''
+::''[enters bottom floor of shed]''
+::''[exits shed]''
+
+'''2:00'''
+::''[walks down stairs to bottom floor, but moves right before entering; [[guardian]] clips out of side and is [[shadow monster man|completely dark]]]''
+:'''Uh.'''
+::''[walks down stairs to bottom floor, returning to normal; clips out side and turns dark again]''
+
+'''2:18'''
+::''['''CUT''']''
+::''[clips out side of shed and turns dark again]''
+::''[walks down stairs to bottom floor, returning to normal]''
+:'''Only works when I go...'''
+::''[clips out side of shed and turns dark again]''
+:'''this way.'''
+::''[walks into middle of room]''
+:'''This...'''
+
+'''3:00'''
+::''['''CUT''']''
+::''[walking out of northern cellar door onto the Newmaker Plane]''
+:'''Doesn't work with that one.'''
+
+'''3:21'''
+::''['''CUT''']''
+::''[in front of the red camera]''
+::''[walks forward towards windmill, which is now visible]''
+:'''Are you kidding me?'''
+::''[Downwards sliding quiet low tone]''
+::''[enters windmill]''
+
+'''3:49'''
+::''[interacts with the [[white tool]]]''
+::''[white tool moves as screen fades out]''
+::''[gains 50 [[pieces]]]''
+::''[screen fades back in; pieces and girl on top of gears gone]''
+::''[quiet rumbling]''
+::''[exits windmill; windmill has reversed direction]''
+
+'''4:13'''
+::''['''CUT''']''
+::''[rumbling continues]''
+::''[walking toward camera, guardian is no longer dark]''
+::''[walks up to windmill, which is no longer visible]''
+
+'''4:28'''
+::''['''CUT''']''
+::''[inside [[Child Library]]]''
+::''[interacts with easel]''
+::''[crumbling]''
+<blockquote>
+You found her.<br>
+You may visit her room.
+</blockquote>
+
+'''5:03'''
+::''['''CUT''']''
+::''[enters Child Library room]''
+::''[second guardian in room leaves]''
+:'''''kay?'''
+::''[views table]''
+::''[interacts with note on back wall]''
+
+<blockquote><poem>
+You must have guessed, but I was looking through your things.
+I found that picture of you from 1977, standing in front of an old windmill with your friend.
+You went there, and it was a bad idea. Your friend and the windmill both disappeared into thin air.
+Her sister was holding the camera. She took another picture minutes later: just you, no windmill, and no friend.
+You married her sister, and years later, your friend was reborn as your daughter.
+Your wife won't admit this is true, but I know it, because I found the evidence.
+Your friend never returned with you, and the windmill was gone. I went to see it myself. Where is it? What did you do?
+— Rainer, Newmaker
+</poem></blockquote>
+
+'''7:12'''
+::''[leaves Child Library room at the back, entering the [[party room]]]''
+::''[walks forward]''
+
+'''7:58'''
+::''[opens gift box on the right; gift box opens]''
+::''[jingle plays as a green [[key]] emerges from gift box and floats above the guardian]'' 
+
+'''8:14'''
+::''[opens gift box on the left (with a sticker on it); gift box opens]''
+::''[red triangular shape emerges from gift box spinning, its center [[censored]] before it is fully visible]''
+:'''W-- What the fuck?'''
+
+'''8:25'''
+::''['''CUT''']''
+:'''Okay, so, there's a bit of weirdness with the camera here.'''
+::''[walks around room]''
+::''[walks near the left gift box, which is now empty]''
+::''[enters a building at the left side of the room]''
+::''[interacts with gift box inside the building]'' 
+::''[gift box opens, the guardian disappears, and the camera moves inside the present]''
+::''[choir]''
+
+
+'''9:47'''
+::''[choir stops]''
+::''[appears in the Newmaker Plane]''
+::''[walks forward to find brick building]''
+::''[enters brick building, screen fades white]''
+
+'''10:13'''
+::''[appears in [[Odd Care]]]''
+::''[enters next room]''
+::''{{BGM|level2}}''
+::''[interacts with picture]''
+<blockquote>
+It's a picture of two friends, [[Toneth|<span id="red">Toneth</span>]] and [[Randice|<span id="green">Randice</span>]].<br>
+Are they not cute? Give them a chance!
+</blockquote>
+
+'''10:38'''
+::''[enters sign room]''
+::''[interacts with first sign]''
+<blockquote>
+When you're choosing a pet, find one that you like.<br>
+You don't have to love them right away.
+</blockquote>
+::''[interacts with second sign]''
+<blockquote>
+Don't be discouraged if they run from you! They really do want a home.<br>
+They're afraid. Show them that there's nothing to be afraid of.
+</blockquote>
+::''[enters [[Amber]]'s room]''
+::''[walks to the door to [[Roneth]]'s room, which is closed]''
+::''[walks up to cages; left cage is closed, right cage is open]''
+::''[interacts with object on table]''
+<blockquote>
+It's a trophy, "awarded to our <span id="blue">Amber</span> for being a real champ yesterday and today."<br>
+"She hasn't left her cage once!"
+</blockquote>
+
+'''11:30'''
+::''[enters [[Pen]]'s room]''
+::''[steps onto treadmill (currently set to 0)]''
+::''[sets treadmill to 16; "pluck" sound every time number is increased]''
+::''[sets treadmill to -1; "pluck" sound every time number is lowered]''
+::''[walks left]''
+::''[music stops; game freezes]''
+:'''Uh. Okay.''' 
+::''[pressing buttons]''
+:'''Alright.'''
+
+'''12:31'''
+::''['''CUT''']''
+::''[in the grave room]''
+::''[enters bottom floor of shed]''
+::''<nowiki>[</nowiki>[[Care NLM]] Caught]''
+::''[light moves forward to highlight back of room and a [[symbol block]]]''
+::''[opens [[pause menu]]]''
+::''[pause message: "You're in the other place too!"]''
+::''[opens Pets menu, goes to second page]''
+::''[selects Care NLM]''
+<blockquote>
+Care NLM escaped from the school's basement and wandered the Newmaker Plane for days.<br>
+To catch her, you had to lie, but it may not be a lie forever.<br>
+You're the Newmaker. You can turn Care NLM into Care A, and close the loop.
+</blockquote>
+::''[closes Pets menu and pause menu]''
+::''[walks into symbol block]''
+
+'''13:42'''
+::''['''CUT''']''
+::''[walking to Child Library]''
+::''[interacts with Child Library chute]''
+::''[opens [[pause menu]]]''
+::''[pause message: "The pets really seem to like you. Thanks for playing Petscop."]''
+::''[opens Pets menu, goes to second page]''
+::''[selects Care NLM]''
+<blockquote><poem>
+You've decided to leave Care NLM.
+If you change your mind within 6 months, you can take Care NLM back.
+What month is it, anyway? What year is it?
+</poem></blockquote>
+::''[interacts with Child Library chute twice more]''
+
+'''14:53'''
+::''['''CUT''']''
+::''[inside Care's Child Library room]''
+::''[interacts with Care NLM]''
+::''[Care NLM Caught]''
+
+'''15:11'''
+::''[video ends]''
+[[Category:Transcripts]]

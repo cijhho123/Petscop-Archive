@@ -1,0 +1,44 @@
+{{Infobox episode
+|image = Thumb09.jpg
+|link = https://youtu.be/nogEDJu2Z4c
+|upload = May 24, 2017<br>8:24:16 AM (UTC-4)
+|runtime = 15 minutes 11 seconds
+|previous = [[Petscop 8]]
+|next = [[Petscop 10]]
+}}
+'''Petscop 9''' was uploaded on May 24, 2017.
+
+''A transcript for this episode can be accessed at [[{{PAGENAME}}/Transcript]].''
+
+==Synopsis==
+The video begins on the title screen. After several seconds have passed, the first room of [[Even Care]] is loaded. The music and several other details are different however. This alternate version of Even Care is often referred to by fans as "[[Odd Care]]." The word "demo" appears at the top of the screen, and the [[guardian]] traverses into [[Pen]]'s room, before walking onto the treadmill and setting the number to zero. After this, the game crashes, and the video cuts.
+
+The video then shows [[Paul]], in the [[grave room]], exploiting what appears to be a bug in order to turn into a "[[shadow monster man]]". With the guardian appearing as a silhouette, Paul is able to enter the [[windmill]]. He later returns, without the silhouette effect, and the windmill is once again inaccessible.
+
+Paul goes to the Child Library, where he enters a new face that he found within the windmill, causing the following text box to appear:
+<blockquote><poem>
+You found her.
+You may visit her room.
+</poem></blockquote>
+
+Inside the new room, a small red [[tool]] and a miniature windmill can be found on the table. A note is on the wall, which discusses how a windmill supposedly vanished in 1977, along with Marvin's friend.
+
+Paul walks into the corner of the room, which now leads to a new location. Here, Paul finds two gift boxes, one of which containing a green key, the other containing something which is [[censorship|censored]].
+
+Paul then finds a small room off to the left, containing a third gift box. After opening it, the game loads the [[Newmaker Plane]], and the door on the brick building is now open. Paul enters the door, and appears in Even Care, which appears the same as it did during the demo from earlier in the video. Paul navigates to Pen's room, and uses the treadmill to set the number to -1, after which the game crashes.
+
+The video cuts, and Paul is back at the grave room. He goes under the shed, and [[Care NLM]] can now be caught.
+
+Paul goes to place Care NLM in the [[Child Library]], resulting in the following text box:
+<blockquote><poem>
+You've decided to leave <span id="yellow">Care NLM</span>.
+If you change your mind within 6 months, you can take <span id="yellow">Care NLM</span> back.
+What month is it, anyway? What year is it?
+</poem></blockquote>
+
+Paul then enters Care's face into the easel to access Care's room, where he finds her on the bed, and catches her again. The video then ends.
+
+== Notes ==
+* Due to a YouTube bug, the video thumbnail displays an incorrect duration. Fans sometimes speculate that this was intentional, or that it implies additional footage was edited out, but [[Misconceptions_and_rumors#Video_lengths|these claims are unfounded]].
+
+{{VideoNav}}

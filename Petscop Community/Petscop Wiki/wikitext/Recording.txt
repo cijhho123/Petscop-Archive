@@ -1,0 +1,61 @@
+[[File:Auto-H3Us6Z9h.png|thumb|"auto-H3Us6Z9h" in the secret menu.]]
+'''Recordings''' are saved inputs of [[Petscop (game)|Petscop]] gameplay that can be directly accessed through the [[secret menu]] under the "All Recordings" section, or played back either through demo playback when idling on the title screen or through [[Room Impulse]]. 
+
+[[File:Recording types.png|thumb|All of the recordings below "auto-6wC4CK5r" are stored on the CD.]]
+Many of the recordings shown in the All Recordings list appear to be automatically named and saved, although some of them appear to have been named manually. Starting with auto-6wC4Ck5r, the recordings are stored on the memory card instead of the CD. The listed recordings appear to have been created in three cycles, each starting with a gen 1 recording, and ending with a "family" recording in gen 15. The first two cycles are stored entirely on the CD, while the third and final cycle is stored partially on the CD, with the later recordings being stored on the memory card.
+
+== Functionality ==
+=== All Recordings menu ===
+In the "All Recordings" section of the secret menu, all currently accessible recordings are listed and can be individually selected.
+
+Upon selecting a recording, two variables and a play button can be seen; the first variable, "Gen." determines the [[gen]] that the recording will be played back within, while the second variable controls a property called "Demo Rot." which may be set to ON or OFF. "Demo Rot." presumably means "Demo Rotation", and is speculated to either mean to continue cycling to the next recording after the recording is finished, or to allow it to be played as a demo recording.
+
+=== Demos ===
+[[File:Screenshot 2018-03-13 at 12.00.21 PM.png|thumb]]
+"Demos" are when recordings are automatically played back on the title screen. These recordings automatically play on the title screen after idling for an unknown period of time.
+
+Demo playback of recordings is showcased on multiple occasions. Demos are first referenced by [[Paul]] in [[Petscop 6]], where he refers to the game doing a "pre-recorded thing" when he leaves his console alone.<ref>"Like I, I leave my PlayStation, and it comes, comes out and, uh, does this whole pre-recorded thing." -Paul, [https://youtu.be/c_zCl8GV_dE?t=715 Petscop 6, 11:55]''</ref> They are first shown in videos starting with [[Petscop 9]]. The game itself references that inputs get recorded, through the version of [[Even Care]] in the recording shown in [[Petscop 13]]. 
+
+When a demo is playing, a "DEMO" sign is on the screen that flashes every few seconds. This is usually at the top of the screen, but is moved to the bottom of the screen in certain areas, such as in front of the [[school]] or in [[Even_Care#Roneth.27s_room|Roneth's room]]. If the [[pause menu]] is opened during a demo recording, the message on the menu will be "Demo Recording". The "Quit Game" button does not appear in the pause menu in demo playback (except in [[Petscop 23]]).
+
+Due to the nature of demo playbacks taking automatically recorded inputs, some demos contain [[synchronized event]]s that can be matched up between episodes. While almost all instances of demo recordings are typically showing the same inputs regardless of location, the demo playback shown in [[Petscop 9]] holds an exception where the timing of an action-button (Paul plucking the petals of the flower in [[Petscop 2]]) is used to control timing of directional movements (walking on the treadmill in [[Even_Care#Pen.27s_room|Pen's room]]).
+
+In some instances, as shown in the Petscop videos, the demo recordings play back in different [[gen]]s than they were recorded in, changing without player input. This is used as an intended gameplay mechanic in some circumstances, making inputs that only function properly in demo playback (or possibly recording playback in general) to solve a puzzle. For example, making inputs that get recorded in a gen where the [[master bedroom]] door is closed in the [[house]] that completes certain tasks inside the master bedroom in a gen where the door is open (which is loaded during demo playback), is required to enter the [[garage]] for the first time and make progress.
+
+=== Room Impulse ===
+:{{Main|Room Impulse}}
+
+Room Impulse is a form of recording playback. 
+
+== History ==
+Recordings are first shown in the videos at the beginning of [[Petscop 9]] through demo playback. This demo follows a player in [[Odd Care]], picking up pieces as they navigate from the upper entrance in the first room to the treadmill in Pen's room.
+
+[[Petscop 11]] contains two instances of demos, showing a different unknown player ''(see [[Pall]])'' visiting the school. The first is shown after a cut from Paul's gameplay, and involves "driving" to the school in a cutscene, to interacting with [[Marvin]] using [[P2 to TALK]], to entering the school and exploring the first floor, collecting pieces and interacting with the [[locker]]. The second demo (which may still be part of the first) shows the player, still on the first floor, entering a classroom to meet Marvin and play the [[Needles Piano]].
+
+[[Petscop 12]] is entirely demo playback footage of [[Tiara]], starting trapped in the right side of the [[Quitter's Room]]. Shortly into the video another player appears, replaying Paul's inputs from Petscop 10. Tiara's position is immediately forced to mirror the movements of the second player, and is stuck like this until the player leaves the room and they collide, letting her regain control as the second player disappears. On her own, she explores the hidden game area both under and on the [[Newmaker Plane]] collecting pieces as an unknown narrator talks to her through prior-left messages, calling her [[Belle]]. At one point, [[Marvin]] is encountered on top of the Newmaker Plane, replicating his movements from the first demo of Petscop 11 and freezing at the point that he would have entered the school.
+
+[[Petscop 13]] is also entirely footage of a demo playback, but it is the first instance of [[Paul]]'s commentary being included. As he later explains in [[Petscop 14]], the footage from this episode was originally lost, only retaining his commentary audio, but demo recordings played back his inputs on two separate occasions, allowing him to get the footage back. In the first demo, he is pushing the paint bucket in the house onto the road to catch a [[teal tool]], then bringing the tool back to dismantle a device outside [[Care's room]]. In the second demo, he uses a bucket to catch [[Roneth]] for the first time, and  see what happens when he catches all pets available in [[Even Care]].
+
+[[File:Marvin Demo.png|thumb|A demo recording of Marvin in the house]]
+[[Petscop 14]] has some independent demos, but also instances of demos being overlaid on past live gameplay, as Paul explores rooms of the house being different in demo recordings to record applicable inputs to solve puzzles specific to demo "versions" of the house ''(see [[gen]]s)'' and showing his live gameplay vs. the demos. The video starts with a demo of [[Marvin]] exploring the [[master bedroom]]. Instances of demos in the rest of the video are of Paul experimenting to get the right inputs to solve a puzzle only possible when the door to the master bedroom is open, only available in the version of the house in the demo.
+
+[[Petscop 15]] is a full demo playback, showing the player from the demos shown in Petscop 11 now exploring the second floor of the school. They later enter a classroom, finding Marvin who tells them to wait as he leaves and brings back [[Tiara]] (who he calls [[Belle]], but Tiara protests this). After Marvin leaves, Tiara teaches the player a code to access [[Draw Mode]]. 
+
+The "All Recordings" menu is first seen listed in [[Petscop 17]] and first accessed in [[Petscop 19]], where the current player scrolls through the entire list of saved recordings. Parts of the "sort-test", "[[mike]]2", "[[care]]", "[[belle]]", "james2", "phil", "amber2", and "belle3" recordings are shown in this episode.
+
+[[Petscop 20]] is a collection of manually played back recordings of [[Marvin]] playing Petscop in 1997. Parts of the "marvin", "auto-hZDK2lhq", "auto-cmhyVTZn", "auto-u401R6WJ", "auto-25JC8CNT", "auto-wnOHes3U", "auto-ugu8PsPt", and "auto-1lTWsbyV" recordings are shown in this episode.
+
+[[Petscop 21]] entirely consists of showing the contents of the "care-dancing-sign" recording.
+
+The first part of [[Petscop 22]] is the "auto-b4yw0bHt" recording, which is of [[Paul]]'s gameplay from 2017 and is overlaid with his commentary. After this recording, the video shows a short clip of the tunnel cutscene through demo playback. Then, recordings of gameplay in the [[school]] are shown through Room Impulse playback.
+
+Almost all of [[Petscop 23]] is a long playback of a demo recording. The player visits and explores the third floor of the school, including a classroom showing representations of the 8 [[ghost room]]s. Through interactions with [[Marvin]] and [[Tiara]], the player gains the code for the [[locker]]. The player then enters and explores the [[School#Basement|school basement]], catches [[Care B]], and enters the [[machine]] room, encountering both Marvin and Tiara. Marvin forces the player to put Care B into the machine and play the [[Needles Piano]], but the player appears to sabotage the procedure. After gaining an egg "[[pet]]", the player leaves the basement, puts the "Care" egg into the locker with the other egg, and leaves the school. After stopping in front of the bench, the [[Newmaker Plane]]'s fog turns blue and the demo fades to white, automatically stopping with a [[loading screen]] before going back to the title screen.
+
+== Recordings list ==
+This showcases the 248 recordings present in "All Recordings".
+{{:Recording/List}}
+
+== References ==
+<references />
+[[Category:Game mechanics]]
+[[Category:Menu]]

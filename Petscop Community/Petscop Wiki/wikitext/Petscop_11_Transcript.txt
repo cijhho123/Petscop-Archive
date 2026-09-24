@@ -1,0 +1,650 @@
+{{Improve|Add timestamp reference markers and more action details}}
+:''[Paul walking around the Newmaker Plane in a certain pattern]''
+
+<span id="paulcm">Paul:</span>  ...were signs along the way. Um, that I ignored. Because it would have been a completely ridiculous idea to me. Um. But when I found my room, it made, uh, well, I was shocked at first, but it made sense, especially considering where I found the game in the first place, um, that it would be tied, in some way, to me through you. Um. And I'm trying to think, when was the last time I saw any of you at all? It had to have been in like, 1999. I was a kid, I was a small kid. Tiny kid. Um. And after that, just, you know. But, it would make sense in the timeline.
+
+:''['''CUT''']''
+
+:''[Paul continuing to walk around the Newmaker Plane in a certain pattern]'' 
+<span id="paulcm">Paul:</span>  So, it's hard to do this while I'm talking, that's why I'm so quiet right now.
+
+
+<span id="paulcm">Paul:</span>  So, if you're wondering what I'm doing right now, um, I have a drawing that I could scan and send to you. I just came home and drew this big drawing. Um. And it's still, you still need an explanation, because the drawing is not very clear, it's scribbles, really. But um, but you need the visual to understand the explanation. Right, so you need both.
+
+:''['''CUT''']''
+
+:''[Paul continuing to walk around the Newmaker Plane in a certain pattern]'' 
+
+<span id="paulcm">Paul:</span> I'm about 90% sure that this is gonna work. Uh, 10% not so sure. Um, but mostly sure. Okay. Uh, wait, wait, I think I did that wrong. Start again. Wait.
+
+:''[Paul finds the [[Tire]]]'' 
+
+<span id="paulcm">Paul:</span> Holy shit. Holy shit. It worked. I mean, I was 90% sure, but, ''[laughs]'' still a little shocking that it actually worked. That's very neat. Um. 
+
+:''["Ask:" prompt comes up]''
+
+<span id="paulcm">Paul:</span> Alright, so, the way this works, I'm supposed to pass on this one.
+
+:''[Paul closes "Ask:" prompt]''
+
+:''['''CUT''']''
+
+<span id="paulcm">Paul:</span>  Haha. There it is. Okay.
+
+:''["Ask:" prompt comes up]''
+
+<span id="paulcm">Paul:</span> Okay. So this one, we wanna, um, what do we wanna... I wanna ask about the house, so we wanna ask "where" ... "where is house?"
+
+:''[Paul asks "where is house?"]''
+
+<span id="paulcm">Paul:</span> Okay. Okay. Um. So, I don't, I don't know... I, I mean, it's probably just asking me to go this way, right? Yeah, I think that's what's happening.
+
+:''[Paul walks in the direction of the tire spinning]''
+
+:''[Paul walks up to a road]''
+
+<span id="paulcm">Paul:</span> That's not what I was expecting, actually. Um, I guess a, a road makes sense. Um, but it's not visually the same thing that I was expecting to see. See what the camera just did there?
+
+:''[Paul interacts with sign]''
+<blockquote>
+This is a frozen house, captured three times, exactly as it was.
+</blockquote>
+
+<span id="paulcm">Paul:</span> It's a frozen house... I think we found the house. I don't know what that...
+
+:''[Paul walks upward, finds the [[house]]]''
+
+<span id="paulcm">Paul:</span> We just found the fuckin' house.
+
+:''[Paul interacts with door]''
+
+<span id="paulcm">Paul:</span> We found the house.
+
+<blockquote><poem>
+They key still works.
+It still works.
+... Though you've unlocked the door, you can't open it.
+</poem></blockquote>
+
+<span id="paulcm">Paul:</span> The key still w... What? What? Y, you... Can't open it.
+
+:''['''CUT''']''
+
+<span id="paulcm">Paul:</span> ...another joke about how I can't open doors.
+
+:''['''CUT''']''
+
+:''[Paul walking around road]''
+<span id="paulcm">Paul:</span> ...clockwise, the top is going to the right, and then, you know, the bottom is going to the left, right, and so, when someone would say, uh, um, "righty tighty, lefty loosey,"
+
+:''[Quiet tune]''
+
+<span id="paulcm">Paul:</span> or, you know, "turn this thing to the right," um. And, I mean, I still get confused about that. Because, I mean, well, I know it's always the top, but, um, I still have to think. I have to think.
+
+:''[Paul walks up to house door]''
+
+<span id="paulcm">Paul:</span> Um. Well, we have the door open now, so, I mean, heh. Okay.
+
+:''[Paul enters the house]''
+
+<span id="paulcm">Paul:</span> Alright.
+
+:''[clinking sound]''
+
+<span id="paulcm">Paul:</span> That's interesting, got... people. Appearing, and disappearing.
+
+:''[deep indiscernible speech]''
+
+:''[clinking]''
+
+<blockquote>
+"<span id="blue">Where have you been? Why were you gone for such a long time?</span>"
+</blockquote>
+
+:''[clinking with reverb]''
+
+:''[deep indiscernible speech with reverb]''
+
+<blockquote>
+"<span id="blue">Is this a present? Who is it for?</span>"
+</blockquote>
+
+<span id="paulcm">Paul:</span> Um.
+
+:''[Paul interacts with green calendar]''
+
+<span id="paulcm">Paul:</span> Got a couple of calendars here.
+
+:''[deep indiscernible speech with reverb]''
+
+:''[Paul interacts with gray calendar]''
+
+:''[clinking with reverb]''
+
+<span id="paulcm">Paul:</span> Hm.
+
+:''[clinking with reverb]''
+
+:''[Paul interacts with green calendar]''
+
+<span id="paulcm">Paul:</span> So,
+
+:''[Paul interacts with gray calendar]''
+
+<span id="paulcm">Paul:</span> these are different years,
+
+:''[Paul interacts with green calendar]''
+
+<span id="paulcm">Paul:</span> just looking at this green here,
+
+:''[deep indiscernible speech]''
+
+<span id="paulcm">Paul:</span>  starts off like a checkerboard, then whatever this is, and then weekends,
+
+:''[deep indiscernible speech]''
+
+<span id="paulcm">Paul:</span> then it's, uh, green every day.
+
+:''[deep indiscernible speech]''
+
+<span id="paulcm">Paul:</span> Oh.
+
+:''[deep indiscernible speech]''
+
+<span id="paulcm">Paul:</span> Okay. I dunno if you got that immediately.
+
+:''[clinking]''
+
+<span id="paulcm">Paul:</span> Yeah, so, June to November, mhmm. Yeah, on that topic... I don't remember meeting this girl at all. Um, I don't remember knowing her at any point.
+
+:''[clinking]''
+
+<span id="paulcm">Paul:</span> Um, and I remember you saying that we were, that we, we are, um, exactly the same age.
+
+:''[deep indiscernible speech]''
+
+<span id="paulcm">Paul:</span> Right. I, I just don't remember even hearing about anyone going missing. Right, I don't have a single... I don't remember her going missing. I don't remember anything like that. I mean, I was a kid... but even then... Could have been one of those periods when we weren't visiting very much, but, uh, just seems weird. Um, right, 'cause, I don't know if you can, you can verify these dates, but um, 5th of June, 10th of November. Right, when she went missing, and when she, uh,
+
+:''[clinking]''
+
+<span id="paulcm">Paul:</span> was found. Right. And the 25th here, 
+
+:''[Paul interacts with gray calendar]''
+
+<span id="paulcm">Paul:</span> I'm wondering what that, uh, what the animation means there. Right, how the number is animating a bit.
+
+:''[Paul interacts with green calendar]''
+
+<span id="paulcm">Paul:</span> Because... right,
+
+:''[clinking with reverb]''
+
+<span id="paulcm">Paul:</span> uh, the 25th of December on-
+
+:''[Paul interacts with gray calendar]''
+
+<span id="paulcm">Paul:</span> both calendars, but they're different years, so I don't know if it means
+
+:''[Paul interacts with green calendar]''
+
+<span id="paulcm">Paul:</span> it's the 25th of December in this house, but then it's two different years, so that's...
+
+:''[deep indiscernible speech]''
+
+:''['''CUT''']''
+
+:''[deep indiscernible speech]''
+
+<span id="paulcm">Paul:</span> I do agree there's a resemblance.
+
+<blockquote>
+Can I use the bathroom?
+</blockquote>
+
+<span id="paulcm">Paul:</span> Um. Very strong resemblance between us.
+
+:''[clinking with reverb]''
+
+<blockquote>
+"<span id="blue">Of course.</span>"
+</blockquote>
+
+:''[Bathroom door opens]''
+
+<span id="paulcm">Paul:</span> Whoa.
+
+:''[clinking]''
+
+<span id="paulcm">Paul:</span> What?
+
+:''[Cutscene, zooming in]''
+
+<span id="paulcm">Paul:</span> The hell? That was an experience. Is... Huh.
+
+:''[Paul touches Even Care block]''
+
+:''['''CUT''' - to demo playback]''
+
+:''[Camera drops down onto road with a crash]''
+
+:''[Ticking with driving]''
+
+:''['''CUT''']''
+
+:''[Ticking with driving]''
+
+:''[Ticking stops]''
+
+:''[Music stops]''
+
+:''[Player walks up]''
+
+:'''P2 to TALK'''
+
+<blockquote>
+'''Marvin:'''
+:{{p2|l2|down|left|l2|triangle|r1|up}}
+:Hello
+
+:{{p2|r2|square|triangle|l2|triangle}}
+:Pall
+
+
+'''Player:'''
+:{{p2|l2|down|left|l2|triangle}}
+:Hell
+
+:{{p2|l2|down|left|l2|triangle|r1|up}}
+:Hello
+
+
+'''Marvin:'''
+:{{p2|r2|up|l2|left|l2|square|r1|circle}}
+:Funny
+
+:{{p2|l2|down|cross}}
+:Ha
+
+:{{p2|l2|down|cross}}
+:Ha
+</blockquote>
+
+:''[Player enters school]''
+
+:''<nowiki>[</nowiki>Green tool activated and moved around]''
+
+:''[Green tool disabled]''
+
+:''[Green tool activated and moved around]''
+
+:''[Green tool disabled]''
+
+:''[Green tool activated and moved around]''
+
+:''[Green tool disabled]''
+
+:''[Player interacts with lock, turns randomly]''
+
+:''[Green tool activated and moved around while lock rotates]''
+
+:''['''CUT''' - to Paul's gameplay]''
+
+:''[clinking]''
+
+<span id="paulcm">Paul:</span> What?
+
+:''[Cutscene, zooming out]''
+
+<span id="paulcm">Paul:</span> The hell? That was an experience. Is... Huh.
+
+:''[Paul walks around]''
+
+<span id="paulcm">Paul:</span> Hey. I could have sworn I just saw... above the bathtub, uh, those, um, white blocks with the symbols on them. We were seeing some of those before. I could have sworn I just saw one of those right, right there. Umm.
+
+:''[Paul returns to living room  of house]''
+
+<span id="paulcm">Paul:</span> Yeah, um... Everything's different now. Tree is gone. Got a bucket here. What's going on... and, um, That looks the same.
+
+:''[Paul interacts with poster]''
+
+<blockquote>
+My husband may come here after 6:00 pm . Please stay overnight if you can .
+
+Thank you so so so much . 🏶
+</blockquote>
+
+<span id="paulcm">Paul:</span> Hm.
+
+:''[Paul interacts with green calendar]''
+
+<span id="paulcm">Paul:</span> It's the 5th. I don't know if I can find out the in-game time.
+
+:''[Paul enters [[Care's room]]]''
+
+<span id="paulcm">Paul:</span> And what the hell is this. Hm.
+
+:''[instrument plays C note]''
+
+<span id="paulcm">Paul:</span> Another Care.
+
+:''[instrument plays C note]''
+
+<span id="paulcm">Paul:</span> Can I get on this bed? 
+
+:''[instrument plays C note]''
+
+<span id="paulcm">Paul:</span> I think I'm supposed to get up on the bed. 
+
+:''[instrument plays C note]''
+
+<span id="paulcm">Paul:</span> Um. 
+
+:''[instrument plays C note]''
+
+<span id="paulcm">Paul:</span> Don't know how this is supposed to work.
+
+:''['''CUT''']''
+
+:''[instrument plays C note]''
+
+<span id="paulcm">Paul:</span> Yeah, I don't know. I don't know what we can do here. Um, but, do want to see something.
+
+:''[Paul leaves Care's room and then the house]''
+
+<span id="paulcm">Paul:</span> Hm. Well, we're free now, that's good. 
+
+:''[Paul walks over to side of house]''
+
+<span id="paulcm">Paul:</span> Well, we're free now, that's good. I'm interested in this window. I don't really know what to do, but, if we could, um, come in through the window... I don't know if that's a thing.
+
+:''[Paul returns to Care's room]''
+
+:''[instrument plays C note]''
+
+<span id="paulcm">Paul:</span> Yeah. 
+
+:''[instrument plays C note]''
+
+<span id="paulcm">Paul:</span> I don't know, is there something I missed in here? I don't think so.
+
+:''[instrument plays C note]''
+
+:''[Short tune, door closes]''
+
+<span id="paulcm">Paul:</span> ''[laughs]''
+
+:''[instrument plays C note]''
+
+<span id="paulcm">Paul:</span> That's a, that's a fun thing. Fun thing that just happened.
+
+:''[instrument plays C note]''
+
+<span id="paulcm">Paul:</span> I didn't do that. Um.
+
+:''[instrument plays C note]''
+
+<span id="paulcm">Paul:</span> I can't close doors. I can't, I can't open doors either, so I... Uh, also can't, uh...
+
+:''[instrument plays C note]''
+
+<span id="paulcm">Paul:</span> Yeah...
+
+:''[instrument plays C note]''
+
+<span id="paulcm">Paul:</span> That's fun. Uhh.
+
+:''[instrument plays C note]''
+
+<span id="paulcm">Paul:</span> I don't know, uh, I mean I fuckin', I know, I know what it wants me to do now. Yeah.
+
+:''[instrument plays C note]''
+
+:''[instrument plays C note]''
+
+:''[instrument plays C note]''
+
+:''[instrument plays C note]''
+
+:''[Crashing sound as Marvin bursts through the window, constant banging from air conditioner]''
+
+<span id="paulcm">Paul:</span> Heh. What?
+
+:''[Marvin catches Care]''
+
+:''[Marvin jumps off bed and leaves the room]''
+
+:''[sound of machine]''
+
+<span id="paulcm">Paul:</span> Uh-oh.
+
+<blockquote>
+<span id="yellow">Care</span> left the room.
+</blockquote>
+
+<span id="paulcm">Paul:</span> "Care left the room"...
+
+:''[Short tune, door opens, room resets with Care back on bed]''
+
+:''[instrument plays C note]''
+
+<span id="paulcm">Paul:</span> Oh. It's just gonna
+
+<span id="paulcm">Paul:</span> put everything back where it was. I still can't, um...
+
+:''[instrument plays C note]''
+
+<span id="paulcm">Paul:</span> Wait, so,
+
+:''[Paul leaves Care's room]''
+
+<span id="paulcm">Paul:</span> Uh, so, if I -- 
+
+:''[Marvin runs from side of hallway]''
+
+<span id="paulcm">Paul:</span> -- oh, shit.
+
+:''[Marvin runs through door into [[garage]]]''
+
+<span id="paulcm">Paul:</span> Uhh. ''[laughs]'' Shit. Where did he just come from? Bathroom?
+
+:''[Paul enters bathroom, inspects, and leaves]''
+
+<span id="paulcm">Paul:</span> Uh. I was gonna... 'Cause he, he came from the window, as I was saying.
+
+:''[Paul leaves house and looks at side of house]''
+
+<span id="paulcm">Paul:</span> Yeah, yeah and now there's a cute little ladder there.
+
+:''[Paul interacts with ladder]''
+
+:''[Crashing sound as Paul enters Care's room from the window, constant banging from air conditioner]''
+
+:''[Paul moves forward, falling onto bed]''
+
+:''<nowiki>[</nowiki>[[Care A]] Caught]''
+
+<span id="paulcm">Paul:</span> Ta-da. 
+
+:''[Paul jumps off bed]''
+
+<span id="paulcm">Paul:</span> Well, that's that. Um, unless I can look at the... pets now.
+
+:''[Pause menu opened]''
+
+<blockquote>
+I’ll come out in a minute.
+Keep playing.
+</blockquote>
+
+:''[Care A's module opened in Pets menu]''
+
+<blockquote><poem>
+When the emergency began, you were all looking for Care A.
+I told you all, we would never find Care A. When Care A goes missing, she goes missing forever.
+My brother didn't want us to find him, because he knew we were all looking for Michael A.
+I'm back. This is my present for you.
+I started it in 1996, for Marvin.
+If you think they're worth any effort, see if you can save Care B, or Care NLM. Care B is in the school, of course.
+Fuck you all, and fuck me as well. Merry Christmas. Check your bathroom now.
+— Rainer
+</poem></blockquote>
+
+<span id="paulcm">Paul:</span> "Rainer"... I saw him at a birthday party once. All the older kids were down in the basement playing video games, to hide from everyone. He was down there, too. He was older than the rest of them, though.
+
+:''[Pause menu closed]''
+
+:''[Paul leaves Care's room]''
+
+:''[sound of machine]''
+
+<blockquote>
+<span id="yellow">Care</span> left the room.
+</blockquote>
+
+<span id="paulcm">Paul:</span> Um. It said, "check your bathroom." I don't know.
+
+:''['''CUT''' - to demo playback]''
+
+:''[Player enters a classroom]''
+
+<blockquote>
+'''Marvin:'''
+:{{p2|r2|square|l2|triangle|r1|cross}}
+:Play
+
+:{{p2|l2|cross|r1|circle|r2|cross|l1|square|r1|triangle|l1|down}}
+:Music
+
+:{{p2|r2|up|triangle|l2|circle}}
+:For
+
+:{{p2|r2|triangle|r1|cross|r2|triangle|r1|circle}}
+:Baby
+
+:{{p2|l1|triangle|r1|circle}}
+:She
+
+:{{p2|l2|start|r1|triangle|l2|triangle}}
+:Will
+
+:{{p2|r2|triangle|r1|circle|l1|down|start|l2|cross}}
+:Become
+
+:{{p2|l2|cross|left|l2|triangle|start|r2|start|r1|circle}}
+:Melody
+</blockquote>
+
+:''<nowiki>[</nowiki>[[Needles Piano]] appears]''
+
+:''[Player picks up Needles Piano]''
+
+<blockquote>
+Play Needles Piano Now
+</blockquote>
+
+<blockquote>
+'''Player:'''
+:{{p2|r2|left|square|l2|square|l1|down|l1|cross}}
+:Thanks
+</blockquote>
+
+:''[Needles Piano played]''
+
+<blockquote>
+'''Marvin:'''
+:{{p2|l2|triangle|start|r2|down|l2|triangle|r1|circle}}
+:Lovely
+</blockquote>
+
+<blockquote>
+'''Marvin:'''
+:{{p2|l2|triangle|start|r2|down|l2|triangle|r1|circle}}
+:Lovely
+</blockquote>
+
+:''[Needles Piano becomes chromatic and red]''
+
+<blockquote>
+'''Marvin:'''
+:{{p2|l1|triangle|r1|circle}}
+:She
+
+:{{p2|l1|start|l2|circle|r1|triangle|r2|square|r2|circle}}
+:Tripped
+
+:{{p2|r1|cross|l2|square|r2|start}}
+:And
+
+:{{p2|r2|up|left|l2|triangle}}
+:Fell
+
+:{{p2|r1|cross|l2|square|r2|start}}
+:And
+
+:{{p2|r1|triangle|l1|cross}}
+:Is
+
+:{{p2|l2|triangle|triangle|l1|cross|r2|circle}}
+:Lost
+</blockquote>
+
+<blockquote>
+'''Marvin:'''
+:{{p2|l1|cross|r2|circle|cross|r2|square}}
+:Stop
+
+:''[Needles Piano playing stops]''
+
+'''Player:'''
+:{{p2|l1|cross|cross|l2|circle|r1|circle}}
+:Sorry
+
+
+'''Marvin:'''
+:{{p2|r2|circle|r1|circle|cross|l2|circle|start}}
+:Tiara
+
+:{{p2|r2|square|l2|triangle|r1|cross|l1|cross}}
+:Plays
+
+:{{p2|r2|triangle|square|r2|start}}
+:Bad
+
+:{{p2|l2|cross|r1|circle|r2|cross|l1|square|r1|triangle|l1|down}}
+:Music
+
+:{{p2|r2|circle|r2|cross}}
+:Too
+
+
+:{{p2|r2|start|r2|cross}}
+:Do
+
+:{{p2|r1|triangle|r2|circle}}
+:It
+
+:{{p2|l2|circle|up|r2|circle}}
+:Right
+
+:{{p2|l2|square|left|l1|down|l1|cross|r2|circle}}
+:Next
+
+:{{p2|r2|circle|up|l2|cross}}
+:Time
+
+
+'''Player:'''
+:{{p2|l1|cross|square|r2|start}}
+:Sad
+
+
+'''Marvin:'''
+:{{p2|r1|up|l1|down|r1|cross}}
+:OK
+
+:{{p2|r2|square|triangle|l2|triangle}}
+:Pall
+</blockquote>
+
+:''['''Video ends''']''
+[[Category:Transcripts]]

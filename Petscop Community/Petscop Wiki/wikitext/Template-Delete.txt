@@ -1,0 +1,5 @@
+<div style="background: #5B0E0E; border-style: solid; border-top: 5px solid #0f0a0c; border-right: 5px solid #060403; border-bottom: 5px solid #010200; border-left: 5px solid #060405; margin: 10px 5px 10px 5px; padding: 10px;">
+<font color=white>This article is a '''candidate for deletion.''' ''Remember to check [[Special:Whatlinkshere/{{FULLPAGENAME}}|what links here]] and [{{fullurl:{{FULLPAGENAME}}|action=history}} the page history] before deletion.''
+
+<br>'''Reason given:''' {{{1}}}</font></div><includeonly>[[Category:Candidates for deletion]]</includeonly>
+<noinclude>[[Category:Templates]][[Category:Notice templates]]</noinclude>

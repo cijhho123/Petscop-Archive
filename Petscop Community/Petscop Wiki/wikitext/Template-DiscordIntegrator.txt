@@ -1,0 +1,11 @@
+<includeonly>
+<div
+    class="DiscordWidget"
+    data-id="{{{id|{{{1|}}}}}}"
+    data-theme="{{{theme|}}}"
+    data-invite="{{{invite|}}}"
+    data-header="{{{header|0}}}"
+    data-width="{{{width|{{{w|}}}}}}"
+    data-height="{{{height|{{{h|}}}}}}"
+>{{{text|}}}</div>
+</includeonly>

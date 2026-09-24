@@ -1,0 +1,56 @@
+This is a page for the basic rules for the wiki. 
+<!-- derived from: https://roblox-hello-kitty-cafe.fandom.com/wiki/My_Hello_Kitty_Cafe_Wiki:Wiki_rules -->
+
+__TOC__ __NOEDITSECTION__
+== Account & behavior ==
+;'''Be nice and respectful to others'''
+:Don't attack or insult other people - there is ''never'' a reason to.
+:Do not spam or bother other users. If someone asks you to leave them alone, please respect them.
+:Discriminatory language and behavior, including slurs which degrade another person or group of people based on gender, race, sexual orientation, nationality, religion, etc. are strictly prohibited.
+:Trolls will be quickly blocked and dealt with. This is not a space to "mess around" with other people or pages.
+
+;'''Avoid unnecessary inappropriate content'''
+:Swearing is ''not'' prohibited, but it is '''not''' allowed to direct it towards other individuals or editors.
+:Due to the nature of Petscop's story, some more mature topics may be discussed in regards to Petscop. However, they should ''not'' be discussed if the topic has no relation to Petscop.
+:NSFW imagery is prohibited on the Fandom platform, and so is also prohibited here.
+
+;'''Assume good faith'''
+:Wikis rely on [[w:c:community:Help:Assume good faith|assuming good faith]] to function.
+:Don't jump to conclusions when someone does something wrong. Maybe they didn't mean to, or know it was wrong.
+
+;'''Do not mislead or cause harm'''
+:Petscop is NOT an alternate-reality game (ARG). Its story is completely within the channel.
+:Trying to pass off fanmade content or false information as being legitimately involved with Petscop (i.e. "gamejacking") is not allowed under any circumstances.
+::Clear bad faith editing of this manner will result in a block. For edits that do not appear to be in bad 
+:Attempting to add claims or theories that are harmful in general will be removed and may result in a block if in bad faith.
+:'''Any doxxing attempts will result in a permanent block.'''
+
+;'''Do not minimod'''
+:Minimodding is when you try to act like a mod when you're not.
+:This includes giving warnings to users, telling someone their post is against the rules, etc.
+:Even if you intend to be helpful by just giving reminders, it's best to let actual mods do it. This is because if something goes wrong, they can handle it; you can't.
+:If you see something going wrong that looks like a mod should step in, notify a mod. If it's on Discussions, you can also use the Report Post button.
+
+== Content & editing ==
+;'''Vandalism is strictly prohibited'''
+:As said before, this isn't a space to "mess around" with other people or pages. It's not funny to mess up other people's work.
+:Vandalism - defacing the content on this wiki - will be met with minimum 2 week blocks. It is against Fandom's policies.
+:Remember to assume good faith! Not every strange edit you see was intentional.
+:If you see a page that's been vandalized, you can [[w:c:community:Help:Revert|undo or revert]] the edits yourself.   
+
+;'''Please read up on how to edit before editing'''
+:It's okay to make mistakes, but try to minimize them, since many mistakes can become an issue for other users to fix.
+:You can find help on how to edit on Fandom here:
+:- [[w:c:community:Help:Getting Started|Getting started with Fandom]]
+:- [[w:c:community:Help:Contents|All Fandom guides]]
+
+;'''Follow guidelines for formatting'''
+:These are at [[Project:Manual of style]]
+:This helps pages stay consistent, which makes it easier for readers to navigate the wiki.
+
+;'''Please do not make major content decisions on your own'''
+:Think something would "look better" if done differently? Do you think a page should be under a different name? Do you think a template should be changed?
+:STOP! These are the types of discussions you should ask other editors about first.
+:Wikis are all about collaboration, so please start discussions on these sorts of changes before making them.
+
+[[Category:{{SITENAME}}]]

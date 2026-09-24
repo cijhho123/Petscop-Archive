@@ -1,0 +1,58 @@
+::''{{BGM|level2}}''
+::''[in [[Odd Care]]]''
+::''[enters sign room]''
+::''[enters [[Amber]]'s room]''
+::''[interacts with right switch; right cage closes]''
+::''[interacts with right switch; right cage opens]''
+::''[interacts with left switch; left cage opens]''
+
+'''0:43'''
+::''[enters sign room]''
+::''[left-side door closes while walking up to it]''
+:'''Uh, what? Okay.'''
+::''[music stops; game freezes]''
+:'''Ok--'''
+
+'''1:04'''
+::''['''CUT''']''
+::''{{BGM|petscop}}''
+::''[on title screen]
+::''[selects "Paul" file, continues]''
+::''[appears in building in the [[party room]] next to gift box]''
+::''[interacts with gift box inside the building]'' 
+::''[gift box opens, the guardian disappears, and the camera moves inside the present]''
+
+'''1:34'''
+::''['''CUT''']''
+::''{{BGM|level2}}''
+::''[in [[Odd Care]] - sign room]''
+::''[enters [[Amber]]'s room]''
+::''[walks up to cages; both cages open]''
+:'''There you go.'''
+
+'''1:54'''
+::''['''CUT''']''
+::''[walking outside the [[Quitter's Room]], enters on left side]''
+:'''Oh my god.'''
+::''[on the left side of the Quitter's Room; walks around]''
+::''[interacts with poster]''
+:Do you remember being born?
+::''[walks into symbol block]''
+
+'''2:30'''
+::''['''CUT''']''
+::''[in the [[tool room]]]''
+::''[asks the red tool "What month is it?"]''
+::''[red calendar descends and moves in front of the red tool]''
+::''[asks the red tool "What year is it?" (video '''CUT''' to skip entry)]''
+::''[red calendar is still shown]''
+
+'''3:57'''
+::''['''CUT''']''
+::''[calendar no longer there]''
+::''[asks the red tool "Where was the windmill?"]''
+::''[area of answer is [[censored]]]''
+
+'''4:46'''
+::''[video ends]''
+[[Category:Transcripts]]

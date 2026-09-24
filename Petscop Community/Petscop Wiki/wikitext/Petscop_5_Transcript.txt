@@ -1,0 +1,107 @@
+{{Improve|needs to be redone in new transcript format}}
+'''0:07'''
+<br><span id="paulcm">Paul:</span> Uh, alright, so I spent a while with this just asking as many questions as I could think of. Uh, mostly like, short three-word things, uh, and uh, most of the questions that I asked just produced no answer, or, uh, the default answer, the default answer, which is, "I don't know." Most of them just gave me that. Except for four of them. Uh, and I'm gonna go through each of those four now.
+
+'''0:37'''
+<br><span id="paulcm">Paul:</span> Uh, the first of the four was "Who is Tiara?" 
+
+:''[Paul interacts with tool - "Ask:" prompt appears]''
+
+<span id="paulcm">Paul:</span> And, uh, capitalization does not make a difference. But, uh, "Who is Tiara?" - I also tried "Who is Care?", "Who is Mike?", "Who is Michael?" And I tried other forms too, like, uh, uh, just "Care?", just "Mike?", just "Michael?" This is the only one that, uh, gave me anything.
+
+'''1:08'''
+:''[Paul asks "Who is Tiara?"]''
+
+Tool: <span id="toolred">Petscop kid Very smart</span>
+
+<span id="paulcm">Paul:</span> Uh, next one that I tried,
+
+:''[Paul interacts with the red tool]''
+
+<span id="paulcm">Paul:</span> I think... Oh yeah.
+
+'''1:36'''
+:''[Paul asks "Who am I?"]''
+
+Tool: <span id="toolred">Newmaker</span>
+
+<span id="paulcm">Paul:</span> Next, I asked "Where am I?"
+
+:''[Paul interacts with the red tool]''
+
+'''2:05'''
+:''[Paul asks "Where am I?"]''
+
+Tool: <span id="toolred">Under the Newmaker Plane</span>
+
+<span id="paulcm">Paul:</span> Um, and then I asked, uh, "Who are you?"
+
+'''2:15'''
+:''[The tool turns pink]''
+
+<span id="paulcm">Paul:</span> Uh. I don't know why that just happened.
+
+:''[Paul interacts with the pink tool]''
+
+<span id="paulcm">Paul:</span> Uh. Yeah, so I was saying, uh, "Who"... "Who are you?" Yeah. I don't know why that just changed color out of nowhere.
+
+'''2:58'''
+:''[Paul asks "Who are you?"]''
+
+<span id="paulcm">Paul:</span> I think it broke. Yeah, I don't think that even just, just registered at all.
+
+'''3:19'''
+<br>Pink tool: <span id="toolpink">TURN OFF PLAYSTATION</span>
+
+<span id="paulcm">Paul:</span> Or, uh, okay. So, that's not,that's not what it said before, when I put in that question. Did not look anything like that. That's interesting. Heh.
+
+:''[Paul interacts with the pink tool]''
+
+<span id="paulcm">Paul:</span> Okay, uh, what, what do I ask now? "Why", "Why turn off", I'll try just "Why?" Okay.
+
+'''4:05'''
+:''[Paul asks "Why?"]''
+
+<span id="paulcm">Paul:</span> Oh boy. Uh. Yeah, I don't...
+
+'''4:49'''
+<br>Pink tool: <span id="toolpink">MARVIN PICKS UP TOOL HURTS ME WHEN PLAYSTATION ON</span>
+
+<span id="paulcm">Paul:</span> What the fuck? This fucking game. Heh. This game. Okay, umm.
+
+:''[Paul interacts with the pink tool]''
+
+<span id="paulcm">Paul:</span> Alright, what do I, what do I have to ask, now? Um, "What"...
+
+'''5:29'''
+:''[The tool returns to red]''
+
+<span id="paulcm">Paul:</span> ...and it switched back again. I th...think it just...
+
+:''[Paul closes "Ask:" prompt]''
+
+<span id="paulcm">Paul:</span> Okay. Um.
+
+:''[Paul interacts with tool]''
+
+<span id="paulcm">Paul:</span> I don't... heh. So if I, if I put in, what was it, if I put in "Who are you?" again, is that gonna,  let me see what happens when I put that in. Again.
+
+'''6:10'''
+:''[Paul asks "Who are you?"]''
+
+Tool: <span id="toolred">Tool</span> ''(with a drawing of itself)''
+
+<span id="paulcm">Paul:</span> Yeah, so that's what it said originally, when I put it in. Well, okay, that's bizarre. Um. So, I guess I'm gonna wait for that to happen again. Uh, but I guess I'm gonna end the video now, though. Uh.
+ 
+'''6:39'''
+:''['''CUT''' - still in the tool room]''
+
+:''[Paul interacts with tool]''
+ 
+'''7:27'''
+:''[Paul asks "Remember being born?"]''
+
+Tool: <span id="toolred">I'm not Tiara</span>
+
+:''['''Video ends''']''
+[[Category:Transcripts]]

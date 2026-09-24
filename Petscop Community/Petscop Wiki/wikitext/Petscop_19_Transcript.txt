@@ -1,0 +1,142 @@
+:''[in [[Secret menu]]]''
+
+:''["[[Recording|All Recordings]]" selected]''
+
+'''0:10'''
+:''[Entry "auto-H3Us6Z9h" selected]''
+
+:''["Gen." and "Demo Rot." settings interacted with, but not overall changed]''
+
+:''[Entry "auto-H3Us6Z9h" deselected]''
+
+:''[Recording entry pages scrolled through to very end]''
+
+'''1:58'''
+:''[Entry "sort-test" selected]''
+
+:''[Play option selected]''
+
+:''[Loaded into a test room]''
+
+:''Name: sort-test''
+:''Gen: 1''
+
+:''[Player moves around tiles]''
+
+'''3:07'''
+:''['''CUT''' - back to recording entry menu, scrolling back down list]''
+
+:''[Entry "mike2" selected]''
+
+:''[Play option selected - loading screen]''
+
+'''3:23'''
+:''[Loaded into an old version of the connector room in [[Even Care]]]''
+
+:''Name: mike2''
+:''Gen: 2''
+
+:''[Player moves around room]''
+
+'''3:41'''
+:''[Player enters Randice & Wavey's room (older version)]''
+
+:''[Player moves around room]''
+
+'''3:54'''
+:''[Player moves over [[egg]], egg flies towards screen]''
+
+<blockquote><poem>
+What? One of the eggs... was in Daniel’s game??
+What an unfair trick!
+Have you found every egg in the office?
+</poem></blockquote>
+
+:''[Player moves around room]''
+
+'''4:32'''
+:''['''CUT''' - in a different recording playback, in Gen. 3 of Randice & Wavey's room; music is now playing]''
+
+:''Name: care''
+:''Gen: 3''
+
+:''[Player (now animated) runs side to side]''
+
+'''4:51'''
+:''['''CUT''' - in a different recording playback, in Gen 3. of Randice & Wavey's room]''
+
+:''Name: belle''
+:''Gen: 3''
+
+:''[Player pushes bucket into location of Wavey and Randice]''
+
+:''[Wavey rains into bucket, Randice wilts]''
+
+:''[Wavey and Randice Caught]''
+
+'''5:29'''
+:''<nowiki>[</nowiki>[[Pause menu]] opened]''
+
+:''Recording Playback''
+
+:''["Pets" selected]''
+
+:''[Randice's module opened in Pets menu]''
+<blockquote><poem>
+Randice is a flower.
+He does need water, but not as much as he thinks.
+You shouldn’t worry.
+If you are considering Randice, you should adopt Wavey as well.
+Wavey knows how to trick Randice.
+</poem></blockquote>
+
+:''[Wavey's module opened in Pets menu]''
+<blockquote><poem>
+Wavey is a cloud.
+He is afraid of everything. He is especially afraid of freezing.
+According to him, he is never the same person for more than a few seconds.
+</poem></blockquote>
+
+:''[Player exits Pets menu, game resumed]''
+
+'''6:35'''
+:''['''CUT''' - in a different recording playback, in Gen 4. of Amber's room]'' 
+
+:''Name: james2''
+:''Gen: 4''
+
+:''[Player runs between both open sides of Amber's cage]''
+
+'''7:01'''
+:''['''CUT''' - in a different recording playback, in Gen 4. of Roneth's room]'' 
+
+:''Name: phil''
+:''Gen: 4''
+
+:''[Player stands still in middle of room, Roneth in mid-air]''
+
+'''7:13'''
+:''['''CUT''' - in a different recording playback, in Gen 5. of Amber's room; Even Care music is now playing]'' 
+
+:''Name: amber2''
+:''Gen: 5''
+
+:''[Player stands still in Amber's cage, both doors closed]''
+
+'''7:25'''
+:''['''CUT''' - in a different recording playback, in Gen 5. of Pen's room]'' 
+
+:''Name: belle3''
+:''Gen: 5''
+
+:''[Treadmill set to seven]''
+
+:''[Pen Caught]''
+
+:''[Text box opens]''
+<blockquote>
+Congratulations ... you caught every pet in Even Care (aside from Toneth, who isn’t here yet.)
+</blockquote>
+
+:''['''Video ends''']''
+[[Category:Transcripts]]

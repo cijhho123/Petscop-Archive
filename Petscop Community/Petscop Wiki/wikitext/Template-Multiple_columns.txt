@@ -1,0 +1,1 @@
+<includeonly><onlyinclude><div style="{{#if:{{{width|}}}|column-width: {{{width}}};|column-count: {{{count|{{error|Missing column width or count}}}}};}}">{{{1}}}</div></onlyinclude></includeonly>{{documentation}} <!--from https://roblox.fandom.com/wiki/Template:Multiple_columns -->

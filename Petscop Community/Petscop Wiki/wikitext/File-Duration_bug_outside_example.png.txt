@@ -1,0 +1,1 @@
+Example of the YouTube thumbnail duration bug occurring outside the Petscop channel.

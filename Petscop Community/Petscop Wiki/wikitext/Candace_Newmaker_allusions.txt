@@ -1,0 +1,51 @@
+<div style="background: #D66400; color: white; border-style: solid; border-top: 5px solid #0f0a0c; border-right: 5px solid #060403; border-bottom: 5px solid #010200; border-left: 5px solid #060405; margin: 10px 5px 10px 5px; padding: 10px;">
+<center>'''NOTICE: <u>Petscop is <big>NOT</big> "about" Candace Newmaker.</u></center>The extent of the topic in Petscop is limited to a small number of ''allusions''. The creator of the series has acknowledged that the references to the incident are intentional but that they were "only meant to tie into the themes of rebirth that are seen throughout the series" and that he "was never gonna go much deeper with the references"<ref name="egmnow">https://egmnow.com/theres-something-hiding-in-petscop/</ref>. He has also expressed regret towards including said reference in Petscop<ref name="tweet">https://twitter.com/pressedyes/status/1197191068502183936</ref>.'''</div>
+
+The '''Candace Newmaker allusions''' are observed allusions and themes throughout early episodes of [[Petscop (game)|Petscop]] to the incident surrounding [[wikipedia:Candace Newmaker|Candace Newmaker]], a resident of North Carolina who was suffocated at 10 years old. A few aspects of the incident surrounding Candace's death appear to share some similar attributes to events shown in early episodes of [[Petscop]].
+
+After the first 10 episodes, there were no additional allusions or references to the situation.
+
+==History==
+{{Content warning}}
+===Background of rebirthing therapy===
+[[wikipedia:Attachment therapy|Attachment therapy]] (also called "rebirthing") is an alternative, pseudo-scientific medication for individuals suffering from [[wikipedia:Reactive attachment disorder|reactive attachment disorder]]. The therapy is meant to reconstruct the psychological feeling of the individual being born, essentially recreating the process of birth. In theory, the individual that is "reborn" will then attach to their parents the same way a newborn child attaches to its parents.
+
+A basic component of rebirthing therapy is immobilization or "holding therapy", where the individual is restrained completely while kept in a state of anger and despair. The directed parents are to be maintaining eye contact during the process.
+
+The Evergreen clinic in Colorado was established by Foster Cline in 1983, originally called the "Youth Behavior Program". It was further popularized in the 1990s after the publication of ''Holding Time'' by Martha Welsh in 1988. Despite its existence outside of established psychology, it continued to be positively recommended by legitimate sources as late as 1997<ref>https://www.independent.ie/irish-news/rebirthing-the-new-way-of-unlocking-your-future-26201857.html</ref> .
+
+===Life of Candace Newmaker and aftermath===
+Originally named '''Candace Tiara Elmore''', Candace was born on November 19, 1989 in Lincolnton, North Carolina. She and her siblings were heavily abused early in life, and her siblings were taken away by social services early on. In 1994, her parents lost custody over her, and she was placed in a foster home. In 1996, she was adopted officially by Jeane Elizabeth Newmaker, working as a pediatric nurse in Durham. At this point she was given a new name, '''Candace Elizabeth Newmaker'''. Having gone through these traumatic events so early on in life, Candace was diagnosed with Reactive Attachment Disorder in 1996. Over the next few years, Jeane worked with a psychologist and numerous treatments to help her condition, but it had only grown worse.
+
+Their psychologist, William Goble, suggested Candace be taken to Evergreen for attachment therapy. On April 18, 2000, Candace Newmaker died during the 70-minute therapy session at Evergreen. As customary for the holding therapy, Candace was wrapped in a flannel sheet and held down by two therapists, Connell Watkins and Julie Ponder. Candace Newmaker suffocated under these conditions, in spite of her constant protest and plea for help. Paramedics were immediately called in, who were able to restore a pulse to her. However, she was pronounced braindead at the hospital.
+
+Her death made immediate international news, and completely turned public opinion of rebirthing therapy on its head. Laws banning the practice of rebirthing therapy have been known as "Candace Newmaker Laws", and Candace is generally one of the most well-known cases of child abuse in the 21st century. Currently, such laws have only been legislated in the states of Colorado and North Carolina. Attachment therapy is still practiced outside of these states.
+
+===Association with Petscop===
+The oldest reference to Candace Newmaker as a theory of Petscop is found in a comment on [[Petscop 5]], and quickly became the top rated comment on the video at the time.
+
+'''No explicit reference to Candace Newmaker has ever been given in a Petscop video.''' By the time [[Petscop 11]] uploaded, the connection had been mainly regarded as allusions.
+
+After Petscop had ended, the creator commented on the allusions, and expressed regret about including them<ref name="egmnow">https://egmnow.com/theres-something-hiding-in-petscop/</ref><ref name="tweet">https://twitter.com/pressedyes/status/1197191068502183936</ref>.
+
+===Further reading===
+*[http://www.ratbags.com/rsoles/comment/candace.htm This transcript], a transcript of the video evidence provided in the court case against the therapists involved
+*[http://www.childrenintherapy.org/index.html childrenintherapy.org]
+*[https://www.youtube.com/channel/UCEzvxSSoYP_uAgrauLxdcPg A YouTube channel] containing videos of/about Attachment Therapy in general. ''Contains graphic content, proceed with caution.''
+
+==Instances & similarities==
+[[Newmaker]] is a title held by [[Rainer]], and given to the intended or current player. It can also refer to a place within the game, the [[Newmaker Plane]]. However, these have not been mentioned again after Petscop 9.
+
+"Quitter" is a mantra used many times during Candace Newmaker's rebirthing session, where she was mockingly called "quitter" as a way to further induce rage and despair. In Petscop, the [[Quitter's Room]] is the location where Tiara was imprisoned for over 17 years, as her character follows in sync with the player character like a mirror image.
+
+The phrase "rebirthing" is stated a few times throughout [[Petscop]].
+*In [[Petscop 3]], the note in Care's [[Child Library]] room gives a quote from Tiara saying "young people can be psychologically damaged beyond rebirthing".
+*In [[Petscop 9]], the Windmill Note mentions that "you married [[Anna|her sister]], and years later, your friend was reborn as your daughter".
+
+It is possibly implied that Care was put through some process of rebirthing when she was kidnapped between June and November in 1997. A similar process was suggested to be induced on Belle/Tiara. However, there are many distinctions that suggest rebirthing in Petscop is ''very'' different from attachment therapy. Holding therapy and similar concepts are ''entirely'' absent from Petscop. "Rebirthing" in Petscop is described as being very mechanical, as stated in [[Petscop 12]]; "I put you inside the machine, and played the second movement of Stravinsky's Septet on the [[Needles Piano|Needles]]". It appears to involve the A/B/NLM stages, of which is not part of attachment therapy. ''For more details on the topic of rebirthing in the Petscop game, see [[Rebirthing]].''
+
+Overall, allusions to Candace Newmaker ceased after Petscop 10. Petscop's story is not about the case, nor reliant on it.
+
+==References==
+<references />
+[[Category:Theories]]

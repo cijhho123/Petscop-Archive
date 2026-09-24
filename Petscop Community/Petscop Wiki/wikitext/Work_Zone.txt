@@ -1,0 +1,12 @@
+[[File:Work Zone.png|thumb]]
+'''Work Zone''' is the second level of [[Petscop_(game)|Petscop]]. Not much is known about this level as it is impossible to access it in the [[Gift Plane]], since the road that would've lead to it, and the rest of the other levels stops before where its level entrance presumably would've been located. 
+
+The only two instances of the Work Zone location appearing are in a [[loading screen]] shown during [[Petscop 20]], and the [[Petscop Soundtrack]]. The latter seems to be showing it off as an [[Unused content|unused]] area.
+
+The music associated with the area (named ''level2'' in the soundtrack) was used in early versions of [[Even Care]] (as seen in some older [[gen]]s) and in [[Odd Care]].
+
+<gallery>
+Loading-marvnmp.png|Loading screen
+Loading-marvnmp-bright.png|Loading screen (brightened)
+</gallery>
+{{LocationNav}}

@@ -1,0 +1,45 @@
+{{OOU}}
+:''This article is about the the web-series, Petscop, as a whole. For other uses, see [[Petscop (disambiguation)]].''
+
+[[File:Petscop logo.png|thumb|Fan recreation of Petscop's in-universe logo]]
+
+'''Petscop''' is a horror web-series published on the [[Wikipedia:YouTube|YouTube]] channel [[Petscop (channel)|of the same name]] which was created by [[Tony|Tony Domenico]] in March, 2017.<ref>https://www.youtube.com/watch?v=6e6RK8o1fcs</ref> It presents itself as a [[Wikipedia:Let's_Play|let's play]] of a fictional game called [[Petscop (game)|Petscop]], supposedly made in 1997 for the [[Wikipedia:PlayStation_(console)|PlayStation]]. The protagonist, [[Paul]], traverses each layer of the game, gradually uncovering its darker past, which is in some way related to the life of himself and his [[family]].
+
+The combined length of all episodes is approximately 4 hours and 30 minutes, or 5 hours if the soundtrack is included. Due to a YouTube bug, some video thumbnails display an incorrect duration. Fans sometimes speculate that this was intentional, or that it implies additional footage was edited out, but [[Misconceptions_and_rumors#Video_lengths|these claims are unfounded]].
+
+== Genre ==
+Unlike some web-series, Petscop does not fit neatly into any singular genre.
+
+The series is presented in the form of "let's play" style videos. The series takes inspiration both from horror or "[[wikipedia:creepypasta|creepypasta]]" stories such as [[wikipedia:Ben_Drowned|Ben Drowned]] and [[wikipedia:Marble_Hornets|Marble Hornets]], and surrealist films like [[wikipedia:Inland_Empire_(film)|Inland Empire]] and other films by David Lynch <ref>https://egmnow.com/theres-something-hiding-in-petscop/</ref>.
+
+Petscop is '''not''' an [[wikipedia:Alternate reality game|alternate reality game]] (ARG), though it is often [[Misconceptions_and_rumors#Genre|mistaken as one]]. Petscop is only aesthetically similar to ARGs, and does not explicitly identify itself as fiction. ARGs typically have some degree of interaction between the audience and the creator(s) of the ARG, or other official content that may be found externally, such as on hidden websites, or in some cases in the real world. There is '''no''' canon Petscop content to be found anywhere other than the original YouTube channel. The creator of the series has stated that he did not intend for Petscop to be an ARG, and that the audience had no direct impact on the series <ref>https://twitter.com/pressedyes/status/1436080701670035459</ref>. With this in mind, it would be misleading to call Petscop an ARG.
+__TOC__
+
+<!--== Origin and Content ==-->
+
+== Synopsis ==
+The first few videos on the Petscop YouTube channel were uploaded by [[Paul]], with the intention of showing Petscop, a game that he found, to his friend (later clarified to be named [[Belle]]). Paul first shows that Petscop appears to be an unreleased and unfinished game by [[Garalina]] for the Sony PlayStation, where the goal is to catch [[pets]] by solving puzzles. Paul shows that the game is unfinished by showcasing that the hub world, the bright [[Gift Plane]], cuts off abruptly after its one accessible level, [[Even Care]]. After showing off the game's base gameplay, he goes to one of the rooms in Even Care and explains how a [[note]] came with the disc that he found, and that it includes a code to enter in the room. After entering said code, Paul leaves Even Care and exits into a hidden part of the game, which is darker than the parts he's shown so far. 
+
+Paul explains that he has looked through the area previously, but hasn't found anything. However, the video cuts and shows that he has finally found a wooden door, though he can't figure out how to open it. In the next video ([[Petscop 2]]), the door opens on its own, and Paul enters to investigate. The following videos cover exploring the [[Newmaker Plane]] and aspects of the hidden game that he finds, which includes puzzles of its own. As Paul discovers more in the hidden game, he becomes skeptical of its intentions and associations. He discerns that this part of the game was [[Intended audience|made for someone to see]] from multiple instances of text boxes and other content appearing to address someone, mainly regarding someone named [[Care]], her family, and [[rebirthing]]. Paul also discovers other [[players]] in the game, such as [[Tiara]] and [[Marvin]], that appear to react to him. By the fifth video ([[Petscop 5]]), Paul acknowledges in the video description that people other than his friend are starting to see his videos.
+
+By [[Petscop 7]], some individuals in Paul's [[family]] contact him, and gains some influence over the videos; in Petscop 7, they [[censor]] part of the video with a black box, and more parts of videos are censored later on. [[Petscop 9]] shows that Petscop has a [[recording]] feature, and that recordings may be shown as "demos" (Paul references "pre-recorded" events initially in [[Petscop 6]]), which seems to be used in some cases as showing content to find or as a puzzle mechanic. A recurring character mentioned in the game, [[Rainer]], appears to be Petscop's developer.
+
+After [[Petscop 10]], the ownership of the channel is passed to the family (though Paul is still the one recording gameplay footage), which is later announced in the video description for [[Petscop 11]]. It is suggested Paul had to be coerced to continue playing, as he had initial disagreements with their "arrangement". The intent of the videos being published is indicated to be to show and preserve footage of certain elements of Petscop. 
+
+Starting with Petscop 11, Paul is continuing to progress through the game, finding the [[house]], though he appears to have obtained some outside information regarding the game. More footage of recordings played through demos is shown, including recordings from the perspective of other players. In Petscop 14, Paul discovers that certain parts of the game can be different during demo playback, and exploits this in order to enter a room which is normally inaccessible. After Petscop 14, Paul's commentary is never heard from again chronologically (it appears again in [[Petscop 22]], though the recording shown takes place between Petscop 10 and Petscop 11), and it is unclear if it is still him playing the game after this point.
+
+Starting with [[Petscop 17]], the [[secret menu]] is discovered, which opens up more mechanics involving recordings. Most episodes after this point that show gameplay outside menus are of footage clips of recording playback, and the time they were individually played is unclear. Petscop 22 shows a recording of Paul, being played via the secret menu. Paul's commentary can also be heard, but the audio quality is noticeably muffled. Paul also mentions to Belle that he is not currently recording his gameplay. The recording shows some of what Paul did directly after Petscop 10. After this, another recording is shown via [[Room Impulse]].
+
+[[Petscop 23]] shows a recording of "[[Pall]]" exploring the school. He eventually finds the [[machine]] in the basement, where he is able to deposit the 500 pieces he has collected. Marvin instructs the player to "Put Baby," and Pall places [[Care B]] into the machine. Afterwards, the [[Needles Piano]] appears, and Pall begins to play it. As he's playing, the instrument turns red, and Marvin becomes visibly upset by this, eventually leaving the room. After Pall finishes playing, he opens the machine to find that Care B has been replaced by an [[egg]], which he collects, and later places into a locker.
+
+In [[Petscop 24]], the [[Book of Baby Names]] is selected, and a list of playtesters is displayed, along with a birthday message for Michael Hammond, written by Anna.
+
+At the end of the soundtrack video, an epilogue is shown, in which Paul and Tiara have a brief conversation using the gamepad language.
+
+<!--== Reception ==
+
+=== Other Youtube channels ===
+
+=== Fanbase ===-->
+== References ==
+<references />

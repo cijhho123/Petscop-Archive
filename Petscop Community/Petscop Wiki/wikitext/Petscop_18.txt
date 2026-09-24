@@ -1,0 +1,15 @@
+{{Infobox episode
+|image = Thumb18.jpg
+|link = https://youtu.be/Zp-AIcnBSXg
+|upload = April 21, 2019<br>10:13:03 AM (UTC-4)
+|runtime = 2 minutes 28 seconds
+|previous = [[Petscop 17]]
+|next = [[Petscop 19]]
+}}
+'''Petscop 18''' was uploaded at approximately 10:15 (UTC-4) on April 21, 2019.
+
+''A transcript for this episode can be accessed at [[{{PAGENAME}}/Transcript]].''
+==Synopsis==
+The video covers the player exploring the "[[Extra_Stuff|Extra Stuff...]]" section in the [[secret menu]], which displays earlier iterations of several sprites, and several [[Unused content|unused]] sprites.
+
+{{VideoNav}}

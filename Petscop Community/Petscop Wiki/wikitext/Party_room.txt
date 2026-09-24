@@ -1,0 +1,48 @@
+{{Unofficial name}}
+[[File:Party_room.png|thumb|"Window" in the back of the room, depicting a scene on a bench]]
+The '''party room''' is a region accessed through the back passage of [[Child_Library#Lina.27s_room|Lina's Child Library room]]. The area reflects a birthday party taking place, likely for [[Lina Leskowitz]]. It is first seen and mainly explored in [[Petscop 9]], but part of it makes a brief appearance in [[Petscop 10]], and the reverse side of it appears at the end of the [[Petscop Soundtrack]].
+
+The [[loading screen]] that appears upon entering the room depicts a blue party hat shaped [[piece]].
+
+== Locations ==
+The room opens with an outdoor pathway, which leads to an area with a cake and two large gift boxes. Surrounding this pathway appears to be tall poles or trees, with some pinwheels between them, and a picnic table on the right side.
+
+The central area contains a cake with a 9 on it. A window showcasing a bench with a yellow pinwheel and slice of cake on it is in the back of the room. On both sides of the cake are two presents. The camera behaves somewhat strangely in this region of the room, as [[Paul]] notes. 
+
+On the left side of the party room, nearly entirely obscured by the darkness, is a room that can be entered. This room contains a third present.
+
+<gallery>
+Party room entry.png|Entry pathway
+Party room cake.png|Center of room
+Party room side room.png|Side room & third present
+</gallery>
+
+=== Presents ===
+The room contains three interactive present objects with white boxes and purple ribbons, similar to the present design on the [[game|title screen]]. After being interacted with, they play an opening animation, where the tops of the present move upward.
+
+The present on the right side of the central area reveals a green [[key]], which then floats towards and onto the top of the [[guardian]]. This key is later used to unlock the [[house]], during [[Petscop 11]]. 
+
+The present on the left side of the central area has a sticker on it. Opening it reveals a red spinning pyramid, containing something which is [[Censorship|censored]] in editing. This is a likely depiction of [[Caskets#Casket_2|Casket 2]].
+
+The third present in the obscured left-side room, when interacted with, plays an animation and then takes the player to a brick building in the [[Newmaker Plane]]. This brick building, unlike the one seen in [[Petscop 1]], has an open door (with a [[symbol block]] above it) that allows the player to access [[Odd Care]]. Some of the crashes in Odd Care result in the save file placing the last location of the player in this room next to the unopened present (as seen in [[Petscop 10]]).
+
+<gallery>
+Party room right present.png|Right-side present
+Party room left present.png|Left-side present
+Censor p9.png|Censored open left-side present
+Party room third present.png|Third present opening
+</gallery>
+
+=== Reverse view ===
+In the [[Petscop Soundtrack]], the other side of this room as seen through the window is visible, behind the bench. The table with the cake is visible behind the window. Besides the blue fog color, the main difference is that opposite the pinwheel, a girl is on the side of the bench, holding the cake that was there previously. 
+
+== Gallery ==
+<gallery>
+Loading-party.png|Loading screen
+Soundtrack boss.png|Reverse side view from OST video
+</gallery>
+
+== Theories ==
+The scene shown in the window appears to reflect how [[Marvin]] tried to wait for [[Lina]] after her disappearance, as suggested in [[recording]]s shown in [[Petscop 17]]. This is further supported by the [[Petscop Soundtrack]], which shows this scene from the other side, but including a girl which is likely to be Lina.
+
+{{LocationNav}}

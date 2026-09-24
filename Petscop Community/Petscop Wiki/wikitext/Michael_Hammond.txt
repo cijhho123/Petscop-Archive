@@ -1,0 +1,74 @@
+[[File:Mike was a gift.png|thumb]]
+'''Michael "Mike" Hammond''' is a character in [[Petscop]]. He was an early player of the [[game|Petscop game]] as seen by old [[recording]]s, but passed away in 1995 at the age of 7.
+
+While he is implied to be part of the [[family]], his relation to other known members of the family is limited; [[Anna]] is his aunt, but other relatives mentioned are not clearly named.
+__TOC__
+== History ==
+Mike is first mentioned in [[Petscop 2]]. A tombstone for him is located in the [[grave room]], including a face on it. When the tombstone is interacted with, it opens a box that reads:
+
+<blockquote><poem>
+Michael Hammond
+1988-1995
+Mike was a gift.
+</poem></blockquote>
+
+Mike is then referred to again in [[Petscop 3]] at 6:34 when Paul inputs the face from the tombstone on the painting easel in the [[Child Library]], which results in Mike's room in the Child Library.
+<blockquote><poem>
+Mike is not inside right now. He is dead.
+You may visit his room.
+</poem></blockquote>
+
+His room in the Child Library contains a [[Tool#Small_red_tools|small red tool]] and tweezers on his table.
+
+In [[Petscop 6]], [[Toneth]] is caught and his description is viewed. One of the lines in Toneth's description mentions Mike:
+<blockquote>"Funny stupid blob monster" says Mike. That's what it is.</blockquote>
+
+In [[Petscop 7]], [[Paul]] combines aspects of Mike and Care's faces in the Child Library to see if the resulting rooms appear to have any importance. Using Care's face with Mike's eyebrows results in a room where one of the objects on the table is [[censored]] by the [[channel]]'s managers.
+
+During [[Petscop 11]], [[Care A]] is caught and her description is viewed, which mentions Mike:
+<blockquote>My brother didn't want us to find him, because he knew we were all looking for Michael A.</blockquote>
+
+In [[Petscop 19]], a [[recording]] of Mike's gameplay, named "mike2," shows Mike exploring an unfinished iteration of [[Even Care]] in [[gen]] 2. He controls the [[guardian]] and, after collecting an [[egg]] a textbox appears:
+<blockquote><poem>
+What? One of the eggs... was in [[Daniel]]'s game??
+What an unfair trick!
+Have you found every egg in the office?
+</poem></blockquote>
+His gameplay ends with him getting out of bounds in Even Care, leading to a cut.
+
+In addition to the mike2 recording, numerous other recordings of Mike are stored in the CD, however, these recordings are not shown.
+
+[[Petscop 24]] shows that Mike's name is included in the [[Book of Baby Names]], next to the word "painter." There is a message written at the end from [[Anna]], meant for Mike to celebrate his birthday:
+
+<blockquote><poem>
+Hi Michael! Consider this your BIRTHDAY card! (sorry I can't put money in it...)
+When I heard how many kids were coming to your party I was impressed.
+Thank your big brother for letting you and your friends play games all day and making you so popular.
+Also thank your other Auntie for making this all possible. If you see her, I mean... not everyone can...
+But anyway ....HAPPY 7TH! I'm so so so sorry that I couldn't be here. I hope my gift makes up for it... it's the one in the black box...
+(CARRIE helped pick it out, thank her!!)
+Opening gifts is so fun ....a lot of little mysteries, and all are solved... so "cathartic"
+Anyway, I sure hope you have fun!! See you later!
+Love you,
+Auntie Anna
+P.S. Whatever you do, please don't shake the box.
+</poem></blockquote>
+
+<gallery>
+Mike's Tombstone.png|Mike's grave
+Mike's room.png|The Child Library room generated from Mike's face
+Image27.png
+Mike2 egg text.png
+</gallery>
+
+== Theories ==
+The message on his tombstone along with the gift box motif might be a reference to the [[Gift Plane]].
+
+Mike may have been the younger brother of [[Rainer]], the in-universe developer of Petscop. This is possibly suggested by [[Care A]]'s description and the message at the end of the Book of Baby Names. The birthday party mentioned in the message at the end of the Book of Baby Names may be the birthday party Paul mentions seeing Rainer at once in [[Petscop 11]].
+
+[[Lina]] may be the aunt mentioned in the message at the end of the Book of Baby Names, considering she was Anna's sister.
+
+There seems to be a connection to Mike and [[Toneth]] as both are described as being painters, in [[Petscop 20]] the text on Mike's grave lingers on [[Marvin]]'s playthrough and the only pet Marvin has caught is revealed to be Toneth, given [[Rainer]]'s story on Toneth's description in [[Petscop 6]] of the dog that was ran over and the orange car that is present in [[Petscop 16]] within Marvin's garage, could imply the "dog" in this story was really Mike and the driver in the car was Marvin.
+
+{{CharacterNav}}
+[[Category:Characters]]

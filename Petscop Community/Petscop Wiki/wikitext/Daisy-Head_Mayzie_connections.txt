@@ -1,0 +1,29 @@
+The '''Daisy-Head Mayzie connections''' (also known as the Dr. Seuss Theory) are observed references and possible connections between the Petscop character [[Care]] and the book [[Wikipedia:Daisy-Head_Mayzie|Daisy-Head Mayzie]], written by [[wikipedia:Dr. Seuss|Dr. Seuss]] and published posthumously in 1995.
+
+''The "Classic" version with Seuss's original writing and illustrations was published in 2016. However, these connections are believed to focus on the 1995 release of the book.''
+
+== Book ==
+The 1995 version of "Daisy-Head Mayzie" is about a 12-year-old girl named Mayzie who, one day, finds herself with a daisy growing out of her head. This alarms her classroom, family and town, and she even ends up becoming a celebrity. However, that doesn't make her happy. Away from home, towards the end of the book, she is convinced that nobody loves her. It's at this point that [[wikipedia:The Cat in the Hat|The Cat in the Hat]], a character from another Dr. Seuss story by the same name, convinces her to try the "he loves me, he loves me not" game on her own daisy. The result is that they love her, so Mayzie is reassured and happily decides to go back home.
+
+== Connections ==
+"Good Grief And Alas" is written on the wall of a hallway leading to the [[Child Library]]. This references a direct quote from the book: this is what Miss Sneetcher from the book Daisy-Head Mayzie tells the children in order to persuade them to stop mocking Mayzie and making noise, and is also what caused many people to find the connection with the book in the first place.
+
+Care's final and current form is referred to as "NLM", both in the [[note]] and in the [[pets]] menu. The note in Care's room in the [[Child Library]] implies that it stands for "nobody loves me". This sentence is repeatedly said by Mayzie towards the end of the book.
+
+Care and Mayzie both experience some sort of displeasure with their appearance set upon by others at their schools. Particularly for Care, [[Marvin]] tries to convince her that she looked deformed when he had kept her at his school.
+
+In the cartoon adaptation of Daisy-Head Mayzie, there is a red vase that resembles the red vase shown in [[Casket]] 1.
+
+=== Daisies ===
+Daisy-Head Mayzie's most noticeable characteristic is the daisy growing out of her head. When Care is first seen directly, she is found in her NLM ("nobody loves me") form in the basement of the shed in the [[grave room]], crying in front of a stalk: the stalk belongs to the daisy visible from the upper section of the shalk on the top floor of the shed. The flower isn't actually growing out of her head, but Care's position seems to imply it is connected to her somehow. Daisies are repeatedly associated with Care in other locations, such as her room in the Child Library, or with [[Casket]] 1.
+
+Every time a petal is plucked from the daisy in the shed, a sound effect is played. For every petal corresponding to an odd number, it's slighlty high-pitched; for every petal corresponding to a even number, it's slightly low-pitched. Additionally, together with the low-pitched sound effect, the screen is dyed with a shade of red; whereas, together with the high-pitched sound effect, it goes back to normal (it's red at the start). This seems to imply that every petal being plucked from the daisy corresponds to either a good or a bad thing depending on its number. This could be a reference to the "[[Wikipedia:He_loves_me..._he_loves_me_not|loves me, loves me not]]" game, which is often attributed with children and daisies.
+
+Mayzie plays the game at the end of the book, with the final result being "loves me", which is what makes her feel confident that people actually care about her. However, since the number of the petals of the giant daisy in the Flower Shack is 16, an even number, the final result for Care is "loves me not", which is what may have caused her to appear distorted. 
+
+The connection with the game is further reinforced by the fact that [[Paul]] has to set the treadmill in [[Odd Care]] to -1 in order to catch her without her appearing distorted, and that the game refers to this act as a "lie". Considering that the treadmill seems to be linked to the giant daisy and the number of petals on it, in the context of the "loves me, loves me not" game, this would imply telling Care that she is loved despite the fact that she isn't, just to reassure her.
+
+== Resources ==
+* Daisy-Head Mayzie cartoon adaptation: https://www.youtube.com/watch?v=pIxoEtxHfmA <!--would prefer an archive.org link later...-->
+* "Daisy-Head Mayzie" on the Dr. Seuss Wiki: https://seuss.fandom.com/wiki/Daisy-Head_Mayzie
+[[Category:Theories]]

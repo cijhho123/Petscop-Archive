@@ -1,0 +1,170 @@
+'''0:15'''
+::''[Six tones play, cellar door opens]''
+
+'''0:22'''
+::''[CUT - player in a different location near cellar door]''
+:'''Hey, so, uh, the door opened on its own. Uh. I was just in the other room for a couple of minutes, and I came back, and the door was open, and I checked the recording, 'cause I was recording, and, the door just opens on its own. I didn't do anything.'''<br>
+'''So, I'll take it, right? Uh. So, I'm gonna show you what's in here now. I haven't seen it yet, so, uh, this could be interesting.'''
+
+'''1:01'''
+::''[walks down into cellar]''
+:'''Huh.'''
+
+'''1:33'''
+::''[enters next room]''
+::''[Phone ringing sound in distance]''
+:'''A phone?'''
+
+'''1:47'''
+::''[enters [[office]]]''
+::''[interacts with phone]''
+<blockquote>
+"<span id="yellow">Care</span> left the room."
+</blockquote>
+:'''What is this?'''
+
+'''2:05'''
+::''[interacts with note board]''
+<blockquote><poem>
+A
+B
+NLM
+</poem></blockquote>
+:'''A, B, NLM. Uh.'''
+
+'''2:23'''
+::''[enters long hallway room]''
+:'''<nowiki>'</nowiki>kay?'''
+::''[runs downwards and back, camera does not move]''
+:'''Nothin'.'''
+
+'''2:41'''
+::''[views [[house]] picture]''
+
+'''2:57'''
+::''[views school picture - ominous sound plays]''
+
+'''3:12'''
+::''[views windmill picture]''
+::''[enters tunnel room]''
+:'''This just keeps going.'''
+::''[walks through tunnel]''
+:'''Uh. Yeah?'''
+::''[walks back through tunnel and continues right]''
+:'''Hm.'''
+
+'''4:20'''
+::''[enters [[grave room]]]''
+:'''Sorry for not talking very much. I'm a little bewildered, if you want to know the truth. This is a little more than I was expecting to see.'''
+
+'''4:40'''
+::''[interacts with gravestone]''
+<blockquote>
+<span id="gravepink">Michael Hammond</span><br>
+1988 – 1995<br>
+Mike was a gift.
+</blockquote>
+:'''That's a dead kid. Yup. Mm. Yup.'''
+
+'''5:00'''
+::''[enters upper room of shed]''
+:'''Okay.'''
+::''[plucks 13 petals from the flower]''
+:'''Wait.''' 
+::''[exits to grave room]'' 
+:'''Okay.'''
+::''[enters lower room of shed - [[Care NLM]] is seen, but cannot be reached]''
+::''[exits to grave room]'' 
+
+'''5:37'''
+::''[enters upper room of shed]''
+
+'''5:46'''
+::''[plucks remaining 3 petals]''
+::''[exits to grave room]'' 
+::''[enters lower room of shed - Care is distorted, glitching]''
+:'''Okay. Uh.'''
+
+'''6:10'''
+::''[exits to grave room]'' 
+:'''Wait. I don't know. So, when I first came down here I thought I was just gonna see, like, one room. Uh. Like something, but not this. Can I go in here? '''
+::''[enters dirt passageway in the back of the grave room]''
+:'''I can!'''
+
+'''6:38'''
+::''[enters area outside [[tool room]]]''
+:'''Uh.'''
+::''[enters [[tool room]]]''
+
+'''7:17'''
+::''[walks up to the [[red tool]]]''
+:'''Oh!'''
+::''[opens ask prompt]''
+:'''What?'''
+::''[asks the red tool "What?"]''
+
+'''7:38'''
+:<span id="toolred">I don't know</span>
+:'''Don't know.'''
+::''[walks to back of room and interacts with windmill screen]''
+:'''Okay.'''
+
+'''7:53'''
+::''[closes windmill screen view]''
+:<span id="toolred">Keep watching the windmill</span>
+:'''Uhhh. Uhh. Heh.'''
+::''[interacts with windmill screen]''
+
+'''8:11'''
+::''[dark sound]''
+:'''Oh.'''
+::''[dark sound]''
+
+'''8:34'''
+::''['''CUT''' - still viewing windmill screen]''
+:'''Alright, so it's been like, two minutes, and, uh, when those sounds were playing, there was nothing... happening, as far as I could tell, and nothing has happened since, so, I'm just gonna keep going.''' 
+::''[closes windmill screen view]''
+:'''There's already been stuff that I could dig a little deeper into, and, and I'm gonna do that, uh, and keep you updated.'''
+
+'''9:00'''
+::''[exits the tool toom]''
+:'''Uh, but also, uh,'''
+::''[enters area outside the [[Quitter's Room]]]''
+:'''when you come home next month, and uh, hopefully you're feeling a little more enthusiastic about that now, we can investigate this together, and maybe you'll find stuff that I can't find here.'''
+::''[enters the right side of the [[Quitter's Room]]]''
+
+'''9:31'''
+::''[walks to center area of Quitter's Room; [[Tiara]] visible]''
+:'''Oh.'''
+
+'''9:41'''
+::''[walks behind bookcase]''
+::''[six tones play, Tiara desynced]''
+:'''Uh, what the fuck? Wait a second.''' 
+::''[stops, sync resumed]''
+:'''What was that, just now? Can I get that to happen again? Wait. Uh.'''
+
+'''10:11'''
+::''['''CUT''' - still in the Quitter's Room]''
+:'''Hey, sorry, I had to look at that for a moment. Uh, in the video. I was a little nervous. Uh, the tones, I think those were the same tones, uh, that you might have heard in the beginning, I'm gonna put in the beginning, the part where the door opened. Uh. And also, the way the guy on the other side was moving for a moment... I'm gonna ask for your comment later on that.'''
+:'''Um. So, I was looking around here, so, this -'''
+
+'''10:46'''
+::''[interacts with reversed note on wall]''
+<blockquote>
+Do you remember being born?
+</blockquote>
+:'''- is backwards, it says, uh, "Do you remember being born?"''' 
+::''[walks to reversed "QUITTER'S ROOM" text on floor]''
+:'''Um, and, this just says, "QUITTER'S ROOM". So, interestingly, I'm on the, uh, reverse side, here. Uhh. Yeah. Okay, so, moving on.'''
+
+'''11:10'''
+::''[exits the Quitter's Room]''
+
+'''11:21'''
+::''[walks up stairs to the right of the Quitter's Room onto the Newmaker Plane]''
+:'''And, I'm back up here again. This again. Well, okay, I'm not gonna do that right now. Alright, so I'm gonna stop this now, actually.'''
+
+'''11:59'''
+::''[video ends]''
+[[Category:Transcripts]]

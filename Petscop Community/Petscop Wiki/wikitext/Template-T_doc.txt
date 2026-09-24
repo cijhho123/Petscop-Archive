@@ -1,0 +1,12 @@
+;Description
+:A template link with a variable number of example parameters (0-20), which can be used to show example inputs.
+:Utilises [[Template:T/piece]].
+;Syntax
+:{{t|t|parameter1|parameter2|parameter3|parameter4|...|parameter20}}
+;Sample code
+:<code><nowiki>{{t|Improve}}</nowiki></code> gives...
+:{{t|Improve}}
+;See also
+:[[w:c:wow:Template:T|Template:T]] on WoWWiki
+
+<includeonly>[[Category:Templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,381 @@
+:''[On title screen]''
+
+'''0:09'''
+:''[Demo fades in, loading (face)]''
+
+:''[Game loads - in the second-floor [[school]]]''
+
+'''0:31'''
+:''[Player walks up stairs to the third floor, loading ([[Garalina]])]''
+
+:''[In the [[school#Third_floor|third floor]]]''
+
+'''1:56'''
+:''<nowiki>[</nowiki>[[Green tool]] activated]''
+
+:''[Green tool collects 26 [[pieces]], clicking noise stops]''
+
+
+'''2:41'''
+:''[Player navigates into classroom]''
+
+'''2:50'''
+:''[Player interacts with chalkboard, censored red text]''
+
+'''3:02'''
+:''[Player disables chalkboard view - [[Marvin]] present in room]''
+
+'''Marvin:'''
+:(R2 ■ ▲ L2 ▲)
+:Pall
+
+:''[Player walks to Marvin]''
+
+'''Marvin:'''
+:(L2 ▶ L2 ← R2 ●)
+:What
+
+:(L2 ● R2 ✕ L2 ✕)
+:Room
+
+:(✕ L2 ●)
+:Are
+
+:(L2 ↑ R2 ✕)
+:You
+
+:(R1 ▲ L2 ■)
+:In
+
+'''3:29'''
+:''[Player interacts with Room 8 view]''
+
+:''[Player closes Room 8 view]''
+
+:''[Player interacts with Room 7 view]''
+
+:''[Player closes Room 7 view]''
+
+:''[Player interacts with Room 6 view]''
+
+:''[Player closes Room 6 view]''
+
+:''[Player interacts with Room 5 view]''
+
+:''[Player closes Room 5 view]''
+
+'''3:51'''
+:''[Player interacts with Room 4 view]''
+
+:''[Player closes Room 4 view]''
+
+:''[Player interacts with Room 3 view]''
+
+:''[Player closes Room 3 view]''
+
+:''[Player interacts with Room 2 view]''
+
+:''[Player closes Room 2 view]''
+
+:''[Player interacts with Room 1 view]''
+
+'''4:12'''<br>
+<blockquote><poem>
+<span id="toolpink">PUSH BED
+AGAINST HIDDEN DOOR</span>
+</poem></blockquote>
+
+:''[Player closes Room 1 view]''
+
+:''[Player runs in circles in front of Room 1 view prompt]''
+
+'''4:28'''<br>
+'''Marvin:'''
+:(R2 ← ■ L2 ■ L1 ↓ L1 ✕)
+:Thanks
+
+:(L2 ↓ R1 ● L2 ●)
+:Here
+
+:(↑)
+:I
+
+:(L1 ↓ ▶ L2 ✕)
+:Come
+
+'''Player:'''
+:(L2 ▶ L2 ← R2 ●)
+:What
+
+:(L2 ■ R1 ↑)
+:No
+
+:(L2 ■ R1 ↑)
+:No
+
+:(R2 ▶ ■)
+
+'''6:19'''
+:''['''CUT''']''
+
+'''6:28'''
+:''[Marvin walks out of classroom]''
+
+'''Player:'''
+:''(R2 ▶ ■)''
+:Not In Table
+
+'''6:50'''
+:''<nowiki>[</nowiki>[[Tiara]] enters classroom]''
+
+'''Tiara:'''
+:(↑ L2 ✕)
+:I'm
+
+:(L1 ✕ ✕ L2 ● R1 ●)
+:Sorry
+
+'''Player:'''
+:(L2 ↓ ← L2 ▲ R2 ■)
+:Help
+
+'''7:27'''
+:''[Tiara walks in front of chalkboard]''
+
+'''7:49'''
+:''[Text appears on chalkboard]''
+
+:''[Player interacts with chalkboard, censored red text]''
+
+<blockquote>
+<span id="toolpink">9 2 19</span>
+</blockquote>
+
+:''[Tiara walks away]''
+
+:''[Player disables chalkboard view]''
+
+:''[Tiara walks out of classroom]''
+
+:''[Player exits classroom]''
+
+'''8:24'''
+:''[Player walks downstairs to school second floor]''
+
+'''8:42'''
+:''[Player walks downstairs to school first floor]''
+
+'''9:02'''
+:''[Green tool activated and moved to lower right corner]''
+
+:''[Green tool disabled]''
+
+:''[Player interacts with lock, enters 9-2-19]''
+
+'''9:25'''
+:''[Locker opens, lock overlay disappears]''
+
+:''[Locker contents interacted with]''
+
+<blockquote><poem>
+'''''Your New Life Letter'''''
+
+'''The Name:''' <u>TIARA LESKOWITZ</u>
+'''Your Message:'''
+You are off to school today. I will miss you. I love you so much. I will miss you so much when you are set off to school for the day. I will be waiting for you when you get home. I will be on a lawn chair in the driveway waiting for the bus to drop you off. Every day I am so happy to see you come home and tell me what you learned. I hope everybody treats you with love and respect.
+
+''Love you forever NO MATTER WHAT,''
+
+'''''MOMMY'''''
+</poem></blockquote>
+
+'''10:21'''
+:''[Note placed back into locker, locker closes]''
+
+'''10:43'''
+:''[Player walks downstairs into school basement]''
+
+:''[Player walks forward into next room]''
+
+'''11:04'''
+:''[Player interacts with sign]''
+
+<blockquote><poem>
+You'll find the machine up ahead.
+This is the only entry or exit. You will pass through this room again as you leave.
+Keep in mind: everything here, your baby will see.
+</poem></blockquote>
+
+:''[Player closes text box]''
+
+:''[Player walks in front of pit, camera adjusts]''
+
+'''11:56'''
+:''[Player pushes red building into pit]''
+
+:''[Player pushes around photo frame]''
+
+:''[Player pushes crayon box into pit]''
+
+'''12:50'''
+:''[Player pushes photo frame in front of pit]''
+
+'''13:06'''
+:''[Player pushes photo frame into pit]''
+
+:''[Player walks to the side of pit, camera moves to show door opening before returning to player]''
+
+:''[Player walks through doorway]''
+
+'''13:27'''
+:''<nowiki>[</nowiki>[[Care B]] Caught]''
+
+:''[Player walks back into main room]''
+
+'''13:39'''
+:''<nowiki>[</nowiki>[[Pause menu]] opened]''
+
+:'''''Pause menu message:''' Demo Recording''
+
+:''[Player selects "Pets" menu]''
+
+:''[Care B's module opened in Pets menu]''
+<blockquote><poem>
+Care B is scared and pounding on the door.
+I open it. It's so dark that I can't see her.
+So I pull her out, and the light hits her face.
+And they won't even give me a picture of her now.
+They're all scattered in graves.
+And I'm a piece of shit. Here I go.
+</poem></blockquote>
+:''[Shovel dances across screen]''
+
+:''[Player exits Pets menu, game resumed]''
+
+'''14:57'''
+:''[Player walks into back room - Marvin and Tiara are waiting in the room]''
+
+:''[Player walks to right side of machine]''
+
+:''[500 pieces subtracted from count and added to machine]''
+
+'''15:28'''<br>
+'''Marvin:'''
+:(R1 → R2 ●)
+:Put
+
+:(R2 ▲ R1 ✕ R2 ▲ R1 ●)
+:Baby
+
+:''[Player walks in front of machine]''
+
+:''[Pause menu opened]''
+
+:'''''Pause menu message:''' Demo Recording''
+
+:''[Player selects "Pets" menu]''
+
+:''[Player drops Care B]''
+
+<blockquote>
+Spin when ready.
+</blockquote>
+
+:''[Player closes text box, Care B appears in machine]''
+
+:''[Player spins machine]''
+
+'''15:56'''<br>
+'''Marvin:'''
+:(R2 ● ↑ L2 ✕)
+:Time
+
+:(R2 ● R2 ✕)
+:Too
+
+:(R2 ■ L2 ▲ R1 ✕)
+:Play
+
+:''<nowiki>[</nowiki>[[Needles Piano]] appears]''
+
+:''[Player picks up Needles Piano]''
+
+<blockquote>
+Play Needles Piano Now
+</blockquote>
+
+:''[Needles Piano played]''
+
+'''16:29'''
+:''[Needles Piano becomes chromatic and red]''
+
+'''Marvin:'''
+:(R2 ↑ L2 ← L1 ↓)
+:Fuck
+
+:(L1 ✕ R2 ● ✕ R2 ■)
+:Stop
+
+:''[Needles Piano, still red, continues playing]''
+
+'''Marvin:'''
+:(L1 ✕ R2 ● ✕ R2 ■)
+:Stop
+
+'''17:13'''
+:''[Marvin leaves the room]''
+
+:''[Needles Piano, still red, continues playing with echo]''
+
+'''17:44'''
+:''[Player spins machine]''
+
+:''[Player interacts with machine - (egg) Caught]''
+
+'''17:56'''
+:''[Pause menu opened]''
+
+:'''''Pause menu message:''' Demo Recording''
+
+:''[Player selects "Pets" menu]''
+
+:''[The yellow & red egg's module opened in Pets menu]''
+<blockquote>
+? You should start thinking about that.
+</blockquote>
+
+:''[Player exits Pets menu, game resumed]''
+
+:''[Player leaves the rooms]''
+
+:''[Player walks up stairs to the first floor]''
+
+'''19:03'''
+:''[Player returns to locker and interacts with lock, enters 9-2-19]''
+
+'''19:27'''
+:''[Locker opens, lock overlay disappears]''
+
+:''[Pause menu opened]''
+
+:'''''Pause menu message:''' Demo Recording''
+
+:''[Player selects "Pets" menu]''
+
+:''[Player drops the yellow & red egg, locker closes]''
+
+'''19:52'''
+:''[Player walks out of school]''
+
+:''[Player walks in front of bench outside the school]''
+
+'''20:02'''
+:''<nowiki>[</nowiki>[[Newmaker Plane]] brightens, screen turns white]''
+
+:''[Loading screen]''
+
+'''20:12'''
+:''[Return to title screen]''
+
+:''['''Video ends''']''
+[[Category:Transcripts]]

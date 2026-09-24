@@ -1,0 +1,43 @@
+{{Speculative}}
+The [[Burn-in Monitor]] appears after [[Petscop_(game)|the game]] is left idle for "a very long time." It is shown during [[Petscop 16]].
+{{clear}}
+
+== Message ==
+[[File:Censor p16.png|thumb|The alert message]]
+Initially, it displays an alert message, urging the reader to leave the [[wikipedia:PlayStation_(console)|PlayStation]] on, and to call a provided phone number:
+<blockquote><poem>No controller input has been detected for a very long time.
+
+Family, neighbors, police, (or whoever,)
+KEEP GAME CONSOLE RUNNING,
+call provided phone number.</poem></blockquote>
+
+[[File:Censor p16 alt view.png|thumb|The area code]]
+A phone number is provided after the message. While the number is [[Censorship|censored]], the black box is removed prematurely at one point, briefly allowing the area code ([[wikipedia:Area code 203|203]]) to be seen.
+
+While the message is visible, the screen periodically flashes orange, and a loud buzzing sound plays repeatedly.
+
+== Room ==
+[[File:Burn-in monitor room.png|thumb|The room displayed by the Burn-in Monitor]]
+After some time has passed, the Burn-in Monitor displays a crude overhead view of an orange room. The room contains a bed, a piano, a chair and a monitor. Near the monitor is a small icon of the [[house]], which is also used to represent the house in [[Room Impulse]].
+
+On the bed, there is a blinking red circle. Each time it blinks, a clicking sound plays. Throughout most of [[Petscop 16]], the circle does not move. At the end of the video it moves onto the chair in front of the monitor, and the video ends. The circle's position only seems to update when it flashes.
+
+[[File:School F3 Room 1.png|thumb|The image of room 1 from the school]]
+The layout of the room is consistent with the first [[ghost room]] on the [[School#Third_floor|school's third floor]].
+
+On the bottom, the following text is displayed:
+<blockquote><poem>Burn-in Monitor
+("ghost room"/"testing room")</poem></blockquote>
+
+On the upper right is a dial, which is identical to the one used in Room Impulse.
+
+== Theories ==
+The Burn-in Monitor may function as a screensaver of sorts, to prevent [[wikipedia:Screen_burn-in|screen burn-in]].
+
+The blinking red circle is speculated to represent the location of someone, possibly [[Paul]], in a room outside of the game.
+
+The player in [[Petscop 23]] indicates to [[Marvin]] that they are inside of the first [[ghost room]], which matches the layout depicted by the Burn-in Monitor. This may mean that whoever is playing is inside of this room, and that their location is being tracked by the game.
+
+The Burn-in Monitor uses the same shade of orange as the [[secret menu]], and the same dial that appears in [[Room Impulse]], so it is likely that they are related.
+
+In Petscop 16, when the Burn-in Monitor appears, the player is in the garage. This room is shown to have a unique icon in Room Impulse, but the Burn-in Monitor uses the icon for the house living room instead. This may mean that a separate console is being used to monitor the orange room, and that the console inside of the orange room currently has the living room loaded, instead of the garage.

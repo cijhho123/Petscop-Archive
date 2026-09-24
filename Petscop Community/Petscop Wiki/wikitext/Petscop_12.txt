@@ -1,0 +1,42 @@
+{{Infobox episode
+|image = Thumb12.jpg
+|link = https://youtu.be/y82EsETuMbM
+|upload = January 4, 2018<br>7:28:31 PM (UTC-5)
+|runtime = 7 minutes 24 seconds
+|previous = [[Petscop 11]]
+|next = [[Petscop 13]]
+}}
+'''Petscop 12''' was uploaded on January 4, 2018.
+
+''A transcript for this episode can be accessed at [[{{PAGENAME}}/Transcript]].''
+
+==Synopsis==
+Petscop 12 starts off in the right side of the [[Quitter's Room]]. The [[Recording#Demos|''demo'']] text is visible at the top of the screen, and the player is moving sporadically. Suddenly they warp to the entrance of the room, walking to the mirror seeing a second [[guardian]] with a red triangular head. The second guardian's actions perfectly mimic [[Paul]]'s movements from [[Petscop 10]].
+
+[[File:P12 Paul.png|thumb|The second guardian]]
+The player then leaves the room, and collides with the second guardian, which immediately disappears. The player is able to move freely again. They collect some pieces, and the counter shows these are the first pieces collected on this file.
+
+The player heads South, and a text box appears:
+<blockquote><poem>
+Hi <span id="purple">Belle</span>.
+You're free!
+I left these messages for you to look at, in case you were ever rescued.
+So, while you walk around, looking for something to do, I'll come up periodically.
+When the messages run out, I'll be out of your hair forever and ever.
+</poem></blockquote>
+
+As the player continues exploring, several additional text boxes appear. One of which states that the player has "apparently been running Petscop nonstop for 553758221 seconds, or 153822 hours."
+
+Upon reaching the [[Newmaker Plane]], the player finds [[Marvin]], who is making the same exact movements from the beginning of the [[school]] demo shown in [[Petscop 11]], until his movement freezes at the point where he would normally enter the school.
+
+After walking around some more, the player opens up the pause menu, revealing 101 pieces collected, and the option to quit is missing. The video then ends.
+
+==Notes==
+The runtime mentioned within the video (553758221 seconds, or 153822 hours) is approximately 17.5 years, and can be used to extrapolate when Belle started running Petscop:
+
+If the time is subtracted from Petscop 10's upload date (when the game would have recorded Paul's movements in the Quitter's Room, and presumably the demo shown in Petscop 12 itself), Belle would have started the game at approximately November 12th, 1999. If the time is subtracted from Petscop 12, she would have started Petscop at approximately June 17th, 2000.
+
+== Theories ==
+Both of the dates extrapolated by subtracting the runtime are significant, as November 12th of 1999 is [[Care]]'s seventh birthday, and June 2000 would correspond with Rainer's second disappearance as described in the [[channel]]'s first description.
+
+Given the fact that [[Rainer]] tells [[Marvin]] not to get lost in [[Petscop 20]] through messages while in the [[Newmaker Plane]], it's a possibility that the messages addressed to [[Tiara]]/[[Belle]] are from Rainer as well, as the messenger tells her not to get lost (since she's also in the Newmaker Plane).{{VideoNav}}

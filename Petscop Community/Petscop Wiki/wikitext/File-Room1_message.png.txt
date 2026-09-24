@@ -1,0 +1,1 @@
+The message that appears briefly on the image of room 1.

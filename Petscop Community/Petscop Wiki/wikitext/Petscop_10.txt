@@ -1,0 +1,29 @@
+{{Infobox episode
+|image = Thumb10.jpg
+|link = https://youtu.be/RAM0bcJnijg
+|upload = May 31, 2017<br>8:12:31 AM (UTC-4)
+|runtime = 4 minutes 46 seconds
+|previous = [[Petscop 9]]
+|next = [[Petscop 11]]
+}}
+'''Petscop 10''' was posted on May 31, 2017.
+
+''A transcript for this episode can be accessed at [[{{PAGENAME}}/Transcript]].''
+
+== Synopsis ==
+The video starts with [[Paul]] within [[Odd Care]]. He proceeds to go to the same cage area where he originally caught [[Amber]], and proceeds to close the right gate, and then re-open it. After that he also opens up the left gate, and then attempts to leave, but is stopped when a door closes in front of him. After that the game crashes.
+
+The video cuts to the title screen, and we are shown three save files: "Paul," "test" and "backup." The "Paul" and "backup" files are labeled "PANICSV possible corruption." After loading the first file, Paul traverses back to Amber's room to find that both of the cage doors are still open.
+
+The video cuts to Paul visiting the [[Quitter's Room]], this time on the left side. [[Tiara]] is now on the right side, still mirroring his moves. There is a third [[symbol block]] on this side of the room. Paul goes to inspect it, and the video cuts out before he does.
+
+Next Paul visits the [[Tool#Red_tool|red tool]], and asks, 'What month is it?' An animated calendar appears but he is unable to interact with it. He asks tool, 'What year is it?' and the same thing happens.
+
+Finally, we see him ask, 'Where was the windmill?' The answer is [[censorship|censored]]. 
+
+The video ends there mid-scene, and is revisited with new footage in [[Petscop 22]].
+
+== Notes ==
+* Due to a YouTube bug, the video thumbnail displays an incorrect duration. Fans sometimes speculate that this was intentional, or that it implies additional footage was edited out, but [[Misconceptions_and_rumors#Video_lengths|these claims are unfounded]].
+
+{{VideoNav}}

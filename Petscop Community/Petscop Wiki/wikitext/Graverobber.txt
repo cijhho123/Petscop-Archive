@@ -1,0 +1,106 @@
+[[File:Game.png|thumb|A game of Graverobber in progress.]]
+'''Graverobber''' is a [[board games|board game]] located in an office on the [[School#Second_floor|school's second floor]]. It plays very similar to [[wikipedia:Battleship (game)|Battleship]], but shares many themes in common with the story of [[Petscop]] itself. It plays consistent to a real board game, but it is uncertain if there is any real-world counterpart to the game published by [[Garalina]], or purely exists within Petscop. In [[Petscop 22]], the player plays the game with a counselor, but quits the game before reaching a conclusion.
+
+== Context ==
+=== In-universe ===
+The game is accessed within the [[school]]. Go upstairs to the second floor, go straight ahead until the [[guardian]] is pulled towards the girl image. Walking through the girl image sends the player to an office, where a dialogue textbox is triggered offering you to play a game. The bookcase has a series of [[board games]] you can select, including Checkers, Rotation, and Graverobber. This area is not always accessible, however, and might have only been available to certain [[gen]]s of the game or to certain [[Intended Audience|players]].
+
+The dialogue of text goes as follows:
+
+<blockquote><poem>
+Hi there. Sorry for pulling you out of class
+I know you've been busy catching up.
+Don't worry, I just want to talk with you.
+Hey, do you want to play a game? You can pick any game you want, and we can play it together.
+</poem></blockquote>
+
+This text continues to chat with the player during the game, speaking like a therapist or school counselor. This text, as with all other dialogue messages in Petscop, was created by [[Rainer]]. The person the text is talking to is suggested to be [[Care]], where "pulling out of class" refers to the Guided Movement on the Guardian. This section of the game was either designed to be played by Care, as a form of therapy, or is meant to reenact an episode of Care's life when she was receiving therapy in school.
+
+It is uncertain if Graverobber was ever intended to be developed as a separate game by [[Garalina]], or purely exists within Petscop.
+
+This game appears only once, in the latter half of [[Petscop 22]]. [[Paul]] uses the [[Room Impulse]] feature to access this area in the school, and plays out both the game and dialogue with the machine. This Room Impulse feature is only ever used in one other episode, namely [[Petscop 17]]. Rainer's dialogue is confused by Paul's save file being named "[[Strange situation]]", and prompts Paul to input his real name:
+
+<blockquote><poem>
+Hmm. I notice you name your file "Strange situation". Is that your name? Please confirm.
+Paul. Okay.
+Your turn, Paul.
+</poem></blockquote>
+
+Paul quits the game, however, before reaching any conclusion. The text responds with:
+
+<blockquote><poem>
+You want to quit? Why?
+Oh. I don't blame you.
+Grave robbery is vile. This is an awful game, huh? We can play something else if you want.
+</poem></blockquote>
+
+Paul immediately tries returning to Graverobber, at which point the text reads:
+
+<blockquote><poem>
+It's okay. You can go.
+I hope you can find your real house.
+</poem></blockquote>
+
+In [[Petscop 15]], the player in the [[recording]] attempts to enter the office, but is unable to.
+
+The gameplay of Graverobber shares several parallels with [[Petscop (game)|Petscop]] itself. Both players have their own [[windmill]], which is invisible to other player. Each player keeps track of how much the other player moves in order to estimate where the objects are being hidden, which is very similar to how Paul utilizes the recording feature to estimate hidden rooms and objects in [[Petscop 14]]. Finally, the two players operate on separate but comparable planes, similar to the relationship of the [[Newmaker Plane]] and the [[Gift Plane]].
+
+Rainer mentions searching for a grave in [[Petscop 20]] when talking to [[Marvin]]. In Care B's description in [[Petscop 23]], Rainer implies that he is going to start digging up graves.
+
+=== Out of universe ===
+==== Grave robbing ====
+Grave robbing is an illegal practice of uncovering graves of deceased persons and stealing valuable objects the person is buried with. Although the individual is dead, the grave itself is considered to be the private property of the next of kin for that individual, and the organization responsible for maintaining the grave. It is also considered disrespectful to the deceased as their final resting place.
+
+Grave robbing was first described as illegal in Ancient Egypt, where royal tombs were known to have large amounts of gold and precious objects. The penalty for grave robbing at that time was impalement. Archaeologists nowadays are held to extremely strict practices in the event human remains are ever found by accident. In the [https://www.cga.ct.gov/2012/rpt/2012-R-0043.htm state of Connecticut], where Petscop likely takes place, grave robbing is charged with a fine between $500 and $15,000, or up to 20 years in prison.
+
+==== Minigames ====
+A minigame is a shorter, simpler game contained within a larger video game. Minigames were a very popular practice for both console and PC games in the 1990s, and are still used as Easter eggs in games today. These minigames would often be based on popular desktop games at the time, such as Snake, tic-tac-toe, Minesweeper, or Space Invaders. It was also not uncommon for these minigames to also feature in the main game, being needed to solve a puzzle or unlock an area.
+
+Sometimes these minigames would come in an arcade mode or arcade level, where the player can select from a variety of minigames all in one place. Hoyal Board games by Sierra Online was entirely built on this concept, utilizing calming, scenic environments as backdrop for a variety of popular board games.
+
+[[Petscop (game)|Petscop]] is set as a PSX game in the 1990s, and shares many of these practices. The [[board games]] in the Girl World is an arcade level of Petscop, having four different games the player can choose from. Graverobber is based heavily on the game Battleship, which had been popular since the 1930s. A set of table and chairs is visible in the room as the place where the board game would be set up, in similar style to Sierra Online. Although it seems that Graverobber has no direct impact on the rest of the game of Petscop, it certainly gives many clues as to understanding the story of the game.
+
+==== Other ====
+In [https://societyforpsychotherapy.org/using-popular-games-therapeutically/ pediatric psychology], playing board games is a very common tool for conducting therapy sessions. The act of playing a real, physical board game during a therapy session is known to have many positive psychological effects. This includes creating a personal relationship with the therapist, creating a relaxing environment for the patient, and improving social skills through tactile experience. As puzzle solving requires using the right side of the brain, this reduces negative emotions and allows the person to open up about their personal issues.
+
+A real board game exists called [https://boardgamegeek.com/boardgame/137852/grave-robber Grave Robber] of uncertain origin, but its rules are much more complicated and don't have the same parallels to Petscop. It is unknown if it has any relationship to the Graverobber minigame.
+
+== Gameplay ==
+The game is set up on a single, 8x8 board, with a single piece representing each player, a red pawn and a white pawn respectively.  The pawns start on opposite corners of the board, with each piece being in the lower left-hand corner of its respective player. At the start of the game, each player must place a windmill and three Graves somewhere on the board, which are invisible to the other player. The windmill takes up four spaces in a square, while each grave takes up two spaces each. Each grave may be rotated in any direct except diagonally, and none of the four pieces may overlap. 
+
+The object of the game is to dig up all of the opponent's graves before the other player digs up your graves. Red always moves first. Each turn you may either move or dig, but not both. Movement of the piece may be any number of spaces along a rank or file, the same as a rook in chess. Digging, however, can only be done one space away from the piece along a rank or file. When the player digs, it is revealed whether they found a grave, did not find anything, or if there was something in the way.
+
+If the player moves into a grave or windmill, then their movement is blocked and terminates at the last viable space in that direction. However, if one player runs into a windmill or grave that was placed by the other player, then their obstructed movement is only visible to the other player. This means that the locations of the pieces on the board can be different for one player's perspective verses the other. In this situation, if the player digs then the result depends on where their location is according to the other player's perspective. 
+
+Both before and after each turn, the players are allowed to record the movements that the pieces have made up to that point. This is a very crucial part of the game, in order to figure out where the player has placed their graves and windmill. 
+=== Unknown mechanics ===
+Because the game is shown only once during the series, there are a lot of aspects about the game that are currently unknown. During a player's turn, two menu options are obstructed by the [[Room Impulse]] dial, so it is unknown what these options are. It is also unknown what exactly happens when the player uncovers all the graves of their opponent. Presumably this is a winning state, but since Paul quit the game then we have no idea what a winning or losing state looks like.
+
+Many edge cases or illegal moves in the game are also never explained. These include: 
+* Digging up your own grave. 
+* Digging up the opponent's space.
+* Whether you would be obstructed by your own windmill, or if this is not visible to the opponent. 
+* Two windmills or graves overlapping each other. 
+* A grave being completely blocked by a windmill, making the game unwinnable. 
+* A grave being placed inside the opponent windmill, again making the game unwinnable. 
+* A player blocking the opponent between a windmill and graves, preventing them from moving. 
+* A player occupying the same space as the opponent. 
+
+== Analysis ==
+From the perspective of the mathematical field of [[wiki:Game Theory|Game Theory]], Graverobber is a sequential, extensive zero-sum game with complete but imperfect information. The information is complete because the objectives and strategies of both players are common knowledge. However, the game has imperfect information because the state of the board at the root history (initial setup) of the game is unknown to both players.
+
+Because the game has imperfect information, then Zermelo's Theorem does not apply. As a result, there is no strategy in the game that is guaranteed to result in a forced win for either player. (Of course, this assumes that a trivial solution such as blocking the other player in a corner is an illegal move). In order to determine a mixed-strategy Nash Equilibrium for the game using a game tree, then each information partition would be split off into a separate set of terminal histories. In other words, each state that the game could be in is assigned a probability, and the best strategy is chosen by optimizing the payoff relative to that probability, using Pascal's Wager.
+
+If the players started out already knowing where all the opponent's graves and windmill was, then the game would have perfect information. According to Zermelo's Theorem, then a strategy would exist in which one player is guaranteed to force a win every time. This is most likely to be the red pawn, having the first-mover advantage. The recording feature of the game allows the player to keep track of where both pieces have moved, thus allowing them to figure out where the graves and windmill are located. The longer the game goes on, the more the game tree is reduced to a state of more perfect information, and makes it more likely for one player to determine a perfect strategy. Therefore, it is most likely that the red pawn should win more often than the white pawn if the game is repeated enough times.
+=== Theories ===
+Theories about Graverobber's placement in the story of [[Petscop]] usually interpret it as being analogous to the Petscop game as a whole. The [[windmill]] appears many times throughout the series, being only visible through the camera in the [[tool room]] and only accessible as a [[shadow monster man]]. Otherwise, the place where the windmill is supposed to be is a blank platform. [[Petscop 9]] describes how this was an [[Windmill incident|incident]] where a windmill disappeared in 1977 along with [[Lina Leskowitz]]. In [[Petscop 22]], Paul describes to his friend [[Belle]] over a phone call about a "large stone" where a windmill used to reside in the real world. Paul's plan in Petscop 22 was to trace out exact distances from the location of the windmill to other landmarks in [[Petscop (game)|Petscop]], similar to the recording mechanic in Graverobber.
+
+Three graves in the game could be a reference to three graves existing in the game of Petscop. One grave is found near the underground entrance in the [[Newmaker Plane]], being a grave for [[Mike]]. The second grave is shown in [[Petscop 17]], being a grave of Lina Leskowitz located some great distance from the [[House]]. In [[Petscop 20]], [[Rainer]] tasks [[Marvin]] to help him find the grave. A grave for [[Care]] is also mentioned in the description of Care B, which Rainer implies he intends to dig up.
+
+Rainer also makes other references to grave robbing in general. In Petscop 17, he mentions he "did a lot of digging" after hearing about the windmill's disappearance. In Petscop 20, Marvin almost types "did you dig" before changing it to "did you find Lina" to the prompt of the [[red tool]]. Shovels are also found in the shack of Care NLM, and in the [[Garage]]. In [[Petscop 6]], a shovel briefly appears while Marvin is a shadow monster man.
+
+This section of the game may have been developed after Care returned home from being kidnapped in November 1997, as an attempt by Rainer to continue her therapy of recovery. This would be sometime after the [[Room Impulse]] session shown in Petscop 17 and the recording of "care-dancing-sign" shown in [[Petscop 21]].
+
+At one point during the game, a line of dialogue could be a reference to development of the Petscop web-series itself, as a kind of fourth-wall nod: "Moving five times in a row was a
+mistake. Now I can't retrace all my steps." This could be a reference to the updates on the [[Petscop (channel)|channel]] on Easter 2019, where five episodes were released at once.
+[[Category:Game mechanics]]

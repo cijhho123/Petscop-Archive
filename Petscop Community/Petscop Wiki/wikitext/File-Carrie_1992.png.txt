@@ -1,0 +1,1 @@
+A textbox telling the player they are Carrie Mark, who was born on November 12th, 1992. Taken from Petscop 17.

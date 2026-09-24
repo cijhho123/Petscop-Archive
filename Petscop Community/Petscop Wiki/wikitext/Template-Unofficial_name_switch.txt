@@ -1,0 +1,7 @@
+{{#switch: {{{1}}}
+|fanname = based off of a  '''fan name''', due to having no verified name in Petscop's canon.
+
+|canondesc = '''conjectural''', and determined from a canon description of its appearance or purpose. Its contents refer to something that has no verified name in Petscop's canon.
+
+| #default = '''conjectural''', and determined from a non-canon description of its appearance or purpose. Its contents refer to something that has no verified name in Petscop's canon.
+}}

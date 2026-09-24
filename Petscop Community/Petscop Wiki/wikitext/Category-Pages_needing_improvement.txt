@@ -1,0 +1,4 @@
+{{Autocategory|Improve}}
+
+These pages have issues with them and should be fixed, revised, or rewritten. To add an article to this category, use {{t|Improve|list issues}}.
+[[Category:Article maintenance categories]]

@@ -1,0 +1,26 @@
+{{Infobox episode
+|image = Thumb15.jpg
+|link = https://youtu.be/PiH04RGXYKo
+|upload = July 18, 2018<br>12:06:03 PM (UTC-4)
+|runtime = 6 minutes 16 seconds
+|previous = [[Petscop 14]]
+|next = [[Petscop 16]]
+}}
+'''Petscop 15''' was uploaded on July 18, 2018 with a video length of 6:16. This video was uploaded less than a day after [[Petscop 14]].
+
+''A transcript for this episode can be accessed at [[{{PAGENAME}}/Transcript]].''
+
+== Synopsis ==
+The video shows a [[demo recording]] inside the [[school]]. The player navigates to the second floor. They attempt to explore further, but are abruptly pulled back to an image of a girl whenever they attempt to walk away.
+
+After collecting some of the pieces in this room, the player locates an entrance to a small classroom, where they find [[Marvin]].
+
+The player attempts to say something using [[P2 to TALK]], but the inputs result in a ''Not In Table'' error message. Marvin then instructs the player to "Sit Here For The Present," before leaving the room. The player sits at a desk in front of a chalkboard, and eventually Marvin returns, along with [[Tiara]].
+
+Marvin introduces Tiara as Bell[e] and leaves the room, Tiara then states "I Am Tiara Not Bell[e]."
+
+After this, Tiara instructs the player to "Press Nifty." Confused, the player says the word "Nifty" using P2 to TALK, to which Tiara says "No Player One Press Nifty." The player appears to stand still and, after some time has passed, [[Draw Mode]] activates.
+
+The player draws on several of the textures, eventually writing "hi" on the chalkboard texture, and then closes Draw Mode. The patterns from Draw Mode appear on the corresponding textures in the classroom. The video then ends.
+
+{{VideoNav}}

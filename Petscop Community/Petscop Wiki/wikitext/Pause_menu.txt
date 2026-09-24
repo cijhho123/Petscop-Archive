@@ -1,0 +1,40 @@
+[[File:Pause menu.png|thumb|The pause menu]]
+The '''pause menu''' in [[Petscop (game)|Petscop]] has various options and displays the amount of [[pieces]] a player has along with a message.
+
+== Selections ==
+* '''Resume Game:''' Unpauses the game. (This can also be done with the Start button.)
+* '''[[Options]]:''' Changes the game's settings such as the volume, graphics, controls, and the [[sound test]].
+* '''[[Pets]]:''' View the list of pets and their descriptions.
+* '''[[Book of Baby Names]]:''' Brings up the "Petscop Kids" Credits Section. ([[Paul]] stated that this selection doesn't do anything, although in [[Petscop 24]] it shows this "credits" section.)
+* '''Quit Game:''' Allows the player to save and quit the game. ([[Recording]] playback typically does not show this option.)
+
+=== Secret Menu ===
+{{main|Secret menu}}
+In the [[Sound Test]] menu of the Options section, playing the correct sounds in a specific order will cause the player to access a [[secret menu]] that allows the use of direct recording playback, [[Room Impulse]], and images shown in "[[Extra Stuff]]".
+
+== Messages ==
+Various messages are shown in the top right under the pieces count at different points in the game.
+* We hope you are enjoying the game. ''(Petscop 1)''
+* Have you found anything weird lately? There is much to find in this place. ''(Petscop 6)''
+* Take them home! ''(Petscop 7)''
+* You're in the other place too! ''(Petscop 9)''
+* The pets really seem to like you. Thanks for playing Petscop. ''(Petscop 9)''
+* I'll come out in a minute. Keep playing. ''(Petscop 11)''
+* Demo Recording ''(during demo playback of recordings)''
+* The ghost room is a ship in a bottle. ''(Petscop 17)''
+* Everything is a trick. ''(Petscop 19)''
+* There are no changes, only replacements. ''(Petscop 19)''
+* Recording Playback ''(during recording playback via the secret menu)''
+* There is so much to discover in the world of Petscop. ''(Petscop 20)''
+* Your butt leaves a cavity in the chair. ''(Petscop 20)''
+* Now: ''(Petscop 24)''
+
+== Gallery ==
+<gallery>
+Quit game options.png|Selections after selecting "Quit Game"
+Pause menu in playback.png|Pause menu during recording playback
+Pause menu in a pause menu.png|Game paused during recording having pause menu open
+</gallery>
+
+[[Category:Game mechanics]]
+[[Category:Menu]]

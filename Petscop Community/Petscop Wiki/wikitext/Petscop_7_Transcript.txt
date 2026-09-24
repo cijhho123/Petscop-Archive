@@ -1,0 +1,156 @@
+::''[walking around the [[Quitter's Room]]]''
+
+'''0:10'''
+::''[walks into corner of room and stops]''
+::''[turning pages]''
+
+'''0:45'''
+::''[tune in left speaker ♪ — Second Movement of Stravinsky's Septet]''
+:'''Something's happening.'''
+::''[tune continues ♪]''
+::''[walks to center area of Quitter's Room; [[Tiara]] is not there]''
+
+'''1:30'''
+::''[tune stops]''
+::''[Tiara reappears]''
+:'''Oh, hi there.
+::''[walks around room]''
+:'''Is that it? That might be it.'''
+
+'''2:02'''
+::''[walks up to poster]''
+:'''Except, what is,'''
+:''[interacts with poster]''
+:Do you remember being born?
+:<span id="toolpink">COME HERE</span>
+:'''uh, okay.'''
+
+'''2:13'''
+::''['''CUT''']''
+::''[walking into the [[tool room]]]''
+::''[walks up to the tool; pink text from pink tool already visible]''
+:'''Hm!'''
+:<span id="toolpink">I LOVE YOU NEWMAKER PLEASE SHOW MARVIN WHERE HIS HOUSE IS</span>
+:'''So, we might know who Marvin is, now. Oh, I need to be quick about this, actually.'''
+::''[opens ask prompt]''
+:'''Because it could turn red again. Um. So I'm gonna ask, "Who are you?", which I feel like we know at this point, but, good to confirm.'''
+
+'''3:14'''
+::''[asks the pink tool "Who are you?"]''
+:<span id="toolpink">GO THERE AND HE'LL FOLLOW YOU HIS DAUGHTER IS THERE</span>
+:'''It's talking about the house again. It's interesting, but it is not an answer to my question. Not at all. So, um, what do you think that means? Uh, okay, I should...''' 
+::''[opens ask prompt]''
+:'''So, yeah, so now I'm gonna the other question, the... "Do you remember being born?" Oh yeah, it's just, uh, "Remember being born?", because the whole thing does not fit.'''
+
+'''4:09'''
+::''['''CUT''' — to when question is fully written out in ask prompt]''
+::''[asks the pink tool "Remember being born?"]''
+
+'''4:16'''
+::''['''CUT''' — moved behind pink tool]''
+:<span id="toolpink">ALSO WANTS 1000 PIECES FOR "MACHINE BEYOND SCHOOL BASEMENT STAIRWAY"</span>
+:'''"Machine beyond school basement stairway." Uh. Not, also not an answer to my --''
+:::''[tool turns red again, response disappears]''
+:'''-- question. Um. Yeah, and it, yeah, well...
+
+'''4:52'''
+::''['''CUT''']''
+::''[walking up to Child Library]''
+::''[interacts with Child Library chute]''
+::''[Pause menu opened]''
+::''[pause message: "Take them home!"]''
+::''[opens Pets menu]''
+:''(X) Drop''
+:'''Well, there you go.'''
+
+'''5:07'''
+::''[selects Amber]''
+:Child Library accepts <span id="violet">people</span>
+::''[selects Randice]''
+:Child Library accepts <span id="violet">people</span>
+:'''"Child library accepts people."'''
+::''[selects Pen]''
+:Child Library accepts <span id="violet">people</span>
+::''[selects Toneth]''
+:Child Library accepts <span id="violet">people</span>
+::''[attempts to select Roneth (not caught)]''
+::''[error noise]''
+::''[selects Wavey]''
+:Child Library accepts <span id="violet">people</span>
+::''[moves to second page of Pets menu]''
+::''[attempts to select uncaught pets, error noises]''
+::''[moves to first page of Pets menu]''
+:'''Okay, well, I guess I'm kind of an idiot. I wouldn't have tried that.'''
+::''[moves to second page of Pets menu]''
+:'''I guess these, these are people, right?'''
+::''[error noise]''
+:'''Those might work.'''
+
+'''5:41'''
+::''[closes Pets menu]''
+:'''Yeah.'''
+::''[closes pause menu]''
+:'''So, if I walk over here,'''
+::''[Pause menu opened]''
+:'''what happened?'''
+::''[opens Pets menu]''
+:'''Yeah, it's just normal.'''
+::''[selects Pen]''
+<blockquote>
+Pen is an aspiring mathematician. <br>
+She's entirely deaf. She doesn't know what sound is, let alone music. <br>
+I don't know what she's doing here.
+</blockquote>
+::''[closes Pets menu and pause menu]''
+:'''Okay, so, that's another thing.'''
+
+'''6:04'''
+::''['''CUT''']''
+::''[inside Child Library]''
+::''[interacts with easel]''
+::''[crumbling]''
+
+'''6:35'''
+::''['''CUT''']''
+::''[crumbling stops]''
+::''[inside a Child Library room]''
+::''[views table]''
+:'''Anything out of the ordinary here? What's on the floor? It looks like a gift box, and stars, and something else.'''
+::''[walks to back of room]''
+:'''And, anything down here? As usual, no.'''
+::''[walks to middle of room]''
+:'''Um, so this, if you're wondering what I'm doing here, this is Mike's face, but without the eyebrows. Um, and why am I doing that? Well, because eyebrows seem to be important. Uh. And that's really it. Um, but, uh, nothing seems to have actually, it seems like it's just one regular room, right. Uh. Yeah, okay. I don't know, I guess that's it. Alright, I have one more thing to try, though.'''
+
+'''7:40'''
+::''['''CUT''']''
+::''[entering face into easel]''
+::''[crumbling]''
+
+'''7:48'''
+::''['''CUT''']''
+::''[crumbling stops]''
+:'''This one is Care with eyebrows.'''
+::''[views table - right object on table is [[censored]]]''
+
+'''8:19'''
+:''['''CUT''']''
+::''[standing in a different part of the room]''
+:'''So, this is Care with eyebrows. I put Mike's eyebrows on her.'''
+:'''Um, I could have put other eyebrows on her, but I didn't. I put Mike's on her. Um. I don't know if this...'''
+::''[views table]''
+:'''I, I can't tell... I can't tell if it recognized it or not, because everything looks like any other room. Except, it puts this here. Except, it puts this... I don't know. Maybe that's just something that it puts in any room.
+
+'''9:33'''
+:''['''CUT''' - to a black screen with text, edited in post]''
+<blockquote><poem>
+We've had to cover something with a black box.
+Right now we can't say why.
+Some other things we're expecting to "censor" in the future:
+* "A big present with a sticker on it"
+* "Something on a wall, in a black house"
+* "Written on a chalkboard"
+</poem></blockquote>
+
+'''9:52'''
+::''[video ends]''
+[[Category:Transcripts]]

@@ -1,0 +1,4 @@
+== Summary ==
+Default avatar for the Petscop channel
+== Licensing ==
+{{Permission}}

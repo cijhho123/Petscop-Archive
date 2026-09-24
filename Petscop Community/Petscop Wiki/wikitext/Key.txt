@@ -1,0 +1,18 @@
+'''Keys''' are objects that the [[Player character|player]] can collect, which can be used to unlock doors to enter new areas. 
+
+Keys hover above the player, in which they rotate. They shrink and move toward the door when they are used. 
+
+==Instances==
+===House key===
+[[File:Key_house.png|thumb|75px|The house key]]
+The house key is a large green key that is collected out of the right present in the [[party room]]. 
+
+It is used to unlock the [[house]], however it does not necessarily open the house door.
+{{clear}}
+===Garage key===
+[[File:Key_garage.png|thumb|75px|The garage key]]
+The garage key is a small silver key that is collected by painting over the wall in the [[master bedroom]] with black paint from the [[bucket]]. This is only available through [[recording]] manipulation. 
+
+It is used to unlock the [[garage]]. However, entering the garage in the recording in which the key must be obtained results in the [[Strange situation]] event.
+
+[[Category:Objects]]
