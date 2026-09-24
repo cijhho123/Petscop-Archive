@@ -1,0 +1,39 @@
+Source URL : https://www.youtube.com/watch?v=smmLwxzHjZU
+Title      : Petscop Unexplained: What Popular YouTubers Got Wrong
+Channel    : Nightmare Masterclass (David Stockdale) - UCsoZWD7Uagg2yv3YcQ3zqBA
+Uploaded   : 2024-11-19
+Duration   : 1849 s (30 min 49 s)
+Captured   : 2026-09-24
+
+AUDIO NOT DOWNLOADED. Every available stream returned HTTP 403:
+  - audio-only formats 139, 140, 249, 251  (m4a and webm/opus)
+  - legacy combined format 18
+  - player clients web, web_safari, tv, mweb, android_vr
+A control download of an unrelated YouTube video failed identically, so this is
+an environment-level block (YouTube PO-token enforcement), NOT a restriction on
+this video. yt-dlp 2026.07.04, already the current release.
+
+To finish this, either:
+  - supply browser cookies:  yt-dlp --cookies-from-browser chrome -f ba
+      (this failed here only because Chrome was running and holding a lock on
+       its cookie database; close Chrome first, or export a cookies.txt), or
+  - install a PO-token provider plugin for yt-dlp.
+
+What IS preserved here:
+  (Description).txt    the full video description as published
+  (English_ASR).srt    auto-generated English captions - the complete
+                       transcript, so the video's argument is recoverable
+                       as text even without the audio
+  (Thumbnail).webp     full-resolution thumbnail
+  (Metadata).json      complete yt-dlp metadata: formats, chapters, counts
+
+Note: YouTube served two caption tracks, "en" and "en-orig", which were
+byte-identical (md5 69662e64e2ad8166c83560919aaed204). Only one is kept. The
+same redundancy exists unfixed across the episode folders in
+"Official Petscop content/Petscop youtube channel".
+
+Relevance: David Stockdale was one of the three Q&A panelists at the Spectacle
+Theater PETSCOP screenings (see "Media coverage/Spectacle Theater screening
+(October 2024)"). This video was published three days after the 16 November
+2024 encore screening. The root readme's to-do list asks for Nightmare
+Masterclass investigation videos; this is one of them.

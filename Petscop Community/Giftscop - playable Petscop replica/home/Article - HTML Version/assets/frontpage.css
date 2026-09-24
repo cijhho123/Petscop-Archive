@@ -1,0 +1,100 @@
+@import url("gfont-telex.min.css");
+
+html, body { height: 100%; }
+
+body {
+  background-color: #2a2a2a;
+  color: #fff;
+  font-family: "Telex", sans-serif;
+  font-size: 12pt;
+  margin: 0;
+  padding: 0;
+}
+
+hr {
+  height: 1px;
+  border: 0;
+  border-top: 0.5px solid white;
+  /*mix-blend-mode: difference;*/
+  width: 448px;
+}
+
+.hl {
+  margin-top: 8px;
+  padding-top: 8px;
+  border-top: 0.5px solid white;
+  /*mix-blend-mode: difference;*/
+}
+
+a:link, a:visited {
+  text-decoration: none;
+  /*color: #708fff;*/
+  color: #ff8040;
+}
+a:hover{
+  text-decoration: underline;
+}
+a:active {
+  color: #fff;
+}
+
+.wrapper {
+  /*background-color: #242d4e;
+  background-image: linear-gradient(to bottom,#3F5DCC,#453BAA);*/
+  background-color: black;
+  background-image: url('/img/index_bg.jpg');
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.content {
+  padding: 16px 32px;
+  border-radius: 8px;
+  background-color: #00000050;
+}
+
+.logo {
+  /*mix-blend-mode: difference;*/
+}
+
+.logo img {
+  width: 384px;
+}
+
+.noselect {
+  user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -o-user-select: none;
+  -webkit-user-select: none;
+}
+
+@media only screen and (max-width: 768px) {
+  body {
+    font-size: 90%;
+  }
+
+  .hl, .logo {
+    /*mix-blend-mode: normal;*/
+  }
+
+  .logo img {
+    width: 60%;
+  }
+}
+
+.home-msg {
+  font-style: italic;
+}
+
+.home-msg a:link, .home-msg a:visited {
+  color: #4f4;
+}

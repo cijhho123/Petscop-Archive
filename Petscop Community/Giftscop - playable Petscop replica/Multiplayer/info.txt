@@ -1,0 +1,8 @@
+Source URL : https://giftscop.com/etc/multiplayer
+Page title : Multiplayer - Giftscop - Petscop PS1 homebrew
+HTTP status: 200
+Captured   : 2026-09-24
+Method     : Playwright/Chromium, rendered DOM
+Assets     : 6 files referenced by this page only
+Note       : ads, analytics and consent frames were blocked at request
+             level and are intentionally absent.
